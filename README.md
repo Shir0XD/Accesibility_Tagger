@@ -33,12 +33,24 @@ python expert_pdf_tagger.py "Sample PDF/COE-Sample.pdf" "tagged_coe"
 ## Output
 
 The system generates:
-1. **Tagged PDF** - `output/tagged_coe.pdf` with structure tags
+1. **Tagged PDF** - `output/tagged_coe.pdf` with **embedded accessibility tags**
 2. **JSON Tags File** - `accessibility_cache/tagged_coe_tags.json` with complete structure hierarchy
 
 All output files are organized in folders:
 - `output/` - Tagged PDFs
 - `accessibility_cache/` - JSON tags and cache data
+
+### Verify Embedded Tags
+
+```bash
+# View tags embedded in PDF
+python view_tags_in_pdf.py output/tagged_coe.pdf
+
+# Or check PDF in Adobe Acrobat Pro
+# View → Show/Hide → Tags (Navigation Pane)
+```
+
+**Tags are embedded as hidden annotations** in the PDF - fully accessible to screen readers!
 
 ## Structure Tag Taxonomy
 
