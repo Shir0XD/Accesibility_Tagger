@@ -82,6 +82,7 @@ def create_struct_element(pdf, tag: dict, mcid: int):
     
     tag_type = tag['type']
     attrs = tag.get('attributes', {})
+    content = tag.get('content', '')
     
     elem_data = {
         '/Type': pikepdf.Name.StructElem,
@@ -94,8 +95,13 @@ def create_struct_element(pdf, tag: dict, mcid: int):
         elem_data['/Lang'] = attrs['lang']
     if attrs.get('actualText'):
         elem_data['/Alt'] = attrs['actualText']
-    if attrs.get('title'):
-        elem_data['/T'] = attrs['title']
+    
+    # CRITICAL: Add /T (Title) so tags show content in Acrobat Pro
+    # Use first 60 chars of content as title, or tag type
+    title = content[:60] if content else tag_type
+    # Clean up: remove newlines and excessive whitespace
+    title = ' '.join(title.split())[:60]
+    elem_data['/T'] = title
     
     # Create as indirect
     struct_elem = pikepdf.Dictionary(elem_data)
