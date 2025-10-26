@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# Cache and Output
+accessibility_cache/
+output/
+
+# Test outputs
+*test*.pdf
+*test*.json
+*tagged*.pdf
+*tagged*.json
+*final*.pdf
+*final*.json
+*clean*.pdf
+*clean*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
