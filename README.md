@@ -22,35 +22,46 @@ pip install -r requirements.txt
 
 ## Usage
 
+### Option 1: Basic Expert Classification (Fast)
 ```bash
-# Basic usage
+python expert_pdf_tagger.py "input.pdf" "output_name"
+```
+
+### Option 2: Full Structure Tree (Complete Automation)
+
+```bash
+# Step 1: Generate expert JSON tags
 python expert_pdf_tagger.py "input.pdf" "output_name"
 
-# Example
-python expert_pdf_tagger.py "Sample PDF/COE-Sample.pdf" "tagged_coe"
+# Step 2: Convert to tagged PDF with full structure tree visible in Acrobat Pro
+python create_tagged_pdf_v2.py "input.pdf" "accessibility_cache/output_name_tags.json" "output/final.pdf"
 ```
+
+**Result:** PDFs with full structure tree visible in Acrobat Pro Tags pane!
 
 ## Output
 
 The system generates:
-1. **Tagged PDF** - `output/tagged_coe.pdf` with **embedded accessibility tags**
+1. **Tagged PDF** - `output/tagged_coe.pdf` with structure elements
 2. **JSON Tags File** - `accessibility_cache/tagged_coe_tags.json` with complete structure hierarchy
+3. **Full Structure Tree** - Use `create_tagged_pdf_v2.py` to create structure trees visible in Acrobat Pro
 
 All output files are organized in folders:
 - `output/` - Tagged PDFs
 - `accessibility_cache/` - JSON tags and cache data
 
-### Verify Embedded Tags
+### Verify Structure Tree
 
 ```bash
-# View tags embedded in PDF
-python view_tags_in_pdf.py output/tagged_coe.pdf
+# Check if structure tree was created
+python check_pdf.py
 
-# Or check PDF in Adobe Acrobat Pro
+# Or open in Adobe Acrobat Pro
 # View → Show/Hide → Tags (Navigation Pane)
+# Should see full structure tree with all elements!
 ```
 
-**Tags are available in JSON format** - use Adobe Acrobat Pro to add to PDF or integrate with specialized PDF libraries.
+**Use `create_tagged_pdf_v2.py` for full structure trees visible in Acrobat Pro.**
 
 ## Structure Tag Taxonomy
 
@@ -88,13 +99,15 @@ The intelligent cache dramatically reduces costs:
 
 ```
 pdf_accessibility_tags/
-├── expert_pdf_tagger.py         # Main tagger (USE THIS)
+├── expert_pdf_tagger.py         # Main expert tagger (LLM classification)
+├── create_tagged_pdf_v2.py      # Structure tree creator (visible in Acrobat Pro)
 ├── pdf_structure_taxonomy.py    # Complete taxonomy (41 tags)
+├── check_pdf.py                 # Verify structure tree
 ├── requirements.txt              # Dependencies
 ├── README.md                     # This file
-├── QUICK_START.md               # Quick reference
+├── USAGE_GUIDE.md               # Complete usage guide
+├── PIKEPDF_INTEGRATION.md       # pikepdf integration details
 ├── .env                         # Your API key
-├── .gitignore                   # Git ignore rules
 ├── output/                      # Tagged PDFs (auto-created)
 ├── accessibility_cache/          # JSON tags & cache (auto-created)
 └── Sample PDF/                  # Sample PDFs for testing
