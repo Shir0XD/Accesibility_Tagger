@@ -48,17 +48,33 @@ def create_tagged_pdf_advanced(input_pdf: str, json_tags_file: str, output_pdf: 
         pdf.Root['/StructTreeRoot'] = struct_tree_root
         logger.info("✓ Created /StructTreeRoot")
         
-        # 3. Create structure elements
-        struct_elements = []
-        mcid_counter = 0
+    # 3. Create structure elements with hierarchy
+    # Build structure: Document -> Sections/Parts -> Elements -> Spans
+    
+    struct_elements = []
+    mcid_counter = 0
+    
+    # Create root Document element
+    doc_elem_data = {
+        '/Type': pikepdf.Name.StructElem,
+        '/S': pikepdf.Name('Document'),
+        '/T': 'Document',
+        '/K': kids_array
+    }
+    doc_elem = pdf.make_indirect(pikepdf.Dictionary(doc_elem_data))
+    kids_array.append(doc_elem)
+    logger.info("✓ Created Document root element")
+    
+    # Now create individual structure elements
+    for tag in tags:
+        struct_elem = create_struct_element(pdf, tag, mcid_counter)
+        struct_elements.append(struct_elem)
         
-        for tag in tags:
-            struct_elem = create_struct_element(pdf, tag, mcid_counter)
-            struct_elements.append(struct_elem)
-            kids_array.append(struct_elem)
-            mcid_counter += 1
-        
-        logger.info(f"✓ Created {len(struct_elements)} structure elements")
+        # Add to Document's kids
+        doc_elem['/K'].append(struct_elem)
+        mcid_counter += 1
+    
+    logger.info(f"✓ Created {len(struct_elements)} structure elements under Document")
         
         # 4. Inject MCIDs into content streams
         inject_mcids_into_streams(pdf, tags, struct_elements, parent_tree_nums)
@@ -78,7 +94,7 @@ def create_tagged_pdf_advanced(input_pdf: str, json_tags_file: str, output_pdf: 
 
 
 def create_struct_element(pdf, tag: dict, mcid: int):
-    """Create structure element dictionary"""
+    """Create structure element with proper hierarchy like well-tagged PDFs"""
     
     tag_type = tag['type']
     attrs = tag.get('attributes', {})
@@ -87,8 +103,41 @@ def create_struct_element(pdf, tag: dict, mcid: int):
     elem_data = {
         '/Type': pikepdf.Name.StructElem,
         '/S': tag_type,
-        '/K': pikepdf.Array([])  # Kids - will contain MCID references
     }
+    
+    # For elements that should contain text, create Span + text content
+    # Match the well-tagged PDF structure: Element -> Span -> Text
+    
+    kids_array = pikepdf.Array([])
+    
+    # Create nested structure based on element type
+    if tag_type in ['P', 'H1', 'H2', 'H3', 'H4', 'H5', 'H6']:
+        # Create span with text content
+        if content:
+            # Create a span element
+            span_data = {
+                '/Type': pikepdf.Name.StructElem,
+                '/S': pikepdf.Name('Span'),
+                '/P': None,  # Will be set later
+                '/K': pikepdf.Array([])
+            }
+            span_ref = pdf.make_indirect(pikepdf.Dictionary(span_data))
+            span_ref['/P'] = pdf.Root['/StructTreeRoot']  # Set parent
+            
+            # Add title to span
+            title = content[:60] if content else tag_type
+            title = ' '.join(title.split())[:60]
+            span_ref['/T'] = title
+            
+            kids_array.append(span_ref)
+    
+    # Add title to main element
+    if content:
+        title = content[:60] if content else tag_type
+        title = ' '.join(title.split())[:60]
+        elem_data['/T'] = title
+    
+    elem_data['/K'] = kids_array
     
     # Add attributes
     if attrs.get('lang'):
@@ -96,16 +145,11 @@ def create_struct_element(pdf, tag: dict, mcid: int):
     if attrs.get('actualText'):
         elem_data['/Alt'] = attrs['actualText']
     
-    # CRITICAL: Add /T (Title) so tags show content in Acrobat Pro
-    # Use first 60 chars of content as title, or tag type
-    title = content[:60] if content else tag_type
-    # Clean up: remove newlines and excessive whitespace
-    title = ' '.join(title.split())[:60]
-    elem_data['/T'] = title
-    
     # Create as indirect
     struct_elem = pikepdf.Dictionary(elem_data)
-    return pdf.make_indirect(struct_elem)
+    elem_ref = pdf.make_indirect(struct_elem)
+    
+    return elem_ref
 
 
 def inject_mcids_into_streams(pdf, tags, struct_elements, parent_tree_nums):

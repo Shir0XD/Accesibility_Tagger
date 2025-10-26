@@ -1,7 +1,7 @@
 """Quick check of PDF structure"""
 import pikepdf
 
-pdf_path = "output/COE_advanced.pdf"
+pdf_path = "output/hierarchical_test.pdf"
 
 with pikepdf.open(pdf_path) as pdf:
     print("\n" + "="*70)

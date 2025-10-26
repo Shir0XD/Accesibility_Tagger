@@ -1,0 +1,4597 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created from PDF via Acrobat SaveAsXML -->
+<!-- Mapping Table version: 28-February-2003 -->
+<TaggedPDF-doc>
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c001 79.675d0f7, 2023/06/11-19:21:16        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/"
+            xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/"
+            xmlns:pdfaExtension="http://www.aiim.org/pdfa/ns/extension/"
+            xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#"
+            xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#"
+            xmlns:pdfaType="http://www.aiim.org/pdfa/ns/type#">
+         <dc:format>xml</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Well-Tagged PDF (WTPDF) Using Tagged PDF for Accessibility and Reuse in PDF 2.0 </rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:rights>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">© 2024 PDF Association</rdf:li>
+            </rdf:Alt>
+         </dc:rights>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>PDF Association</rdf:li>
+               <rdf:li>PDF Reuse &amp; PDF/UA TWG</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Well-Tagged PDF (WTPDF) Using Tagged PDF for Accessibility and Reuse in PDF 2.0 </rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <dc:subject>
+            <rdf:Bag/>
+         </dc:subject>
+         <xmp:CreateDate>2024-02-27T09:47:12+01:00</xmp:CreateDate>
+         <xmp:MetadataDate>2024-02-28T17:05:54-05:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2024-02-28T17:05:54-05:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe InDesign 19.0 (Macintosh)</xmp:CreatorTool>
+         <xmpMM:InstanceID>uuid:fe24d34e-0e64-425b-8e84-6b1d987aefaa</xmpMM:InstanceID>
+         <xmpMM:OriginalDocumentID>xmp.did:7bdbed5d-11ac-4968-b043-a20a45755c7d</xmpMM:OriginalDocumentID>
+         <xmpMM:DocumentID>xmp.id:9c72fc78-8b41-4512-8ba2-08f145eccf04</xmpMM:DocumentID>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:dabf79ed-9b69-4e59-a305-781a939a2f9e</stRef:instanceID>
+            <stRef:documentID>xmp.did:8f6dddfa-45cc-437e-87b2-1070ee8ad4e6</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:7bdbed5d-11ac-4968-b043-a20a45755c7d</stRef:originalDocumentID>
+            <stRef:renditionClass>default</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-indesign to application/pdf</stEvt:parameters>
+                  <stEvt:softwareAgent>Adobe InDesign 19.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+                  <stEvt:when>2024-02-27T09:47:12+01:00</stEvt:when>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <xmpRights:Marked>True</xmpRights:Marked>
+         <xmpRights:WebStatement>https://www.pdfa.org/</xmpRights:WebStatement>
+         <pdf:Producer>Adobe PDF Library 17.0</pdf:Producer>
+         <pdf:Trapped>False</pdf:Trapped>
+         <pdfuaid:part>1</pdfuaid:part>
+         <pdfx:NCCL_Standard>PDF/UA;</pdfx:NCCL_Standard>
+         <pdfx:NCCL_App>PDF</pdfx:NCCL_App>
+         <pdfx:NCCL_Status>Passed</pdfx:NCCL_Status>
+         <pdfaExtension:schemas>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <pdfaSchema:namespaceURI>http://ns.adobe.com/pdf/1.3/</pdfaSchema:namespaceURI>
+                  <pdfaSchema:prefix>pdf</pdfaSchema:prefix>
+                  <pdfaSchema:schema>Adobe PDF</pdfaSchema:schema>
+                  <pdfaSchema:property>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <pdfaProperty:category>internal</pdfaProperty:category>
+                           <pdfaProperty:description>A name object indicating whether the document has been modified to include trapping information</pdfaProperty:description>
+                           <pdfaProperty:name>Trapped</pdfaProperty:name>
+                           <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </pdfaSchema:property>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <pdfaSchema:namespaceURI>http://ns.adobe.com/xap/1.0/mm/</pdfaSchema:namespaceURI>
+                  <pdfaSchema:prefix>xmpMM</pdfaSchema:prefix>
+                  <pdfaSchema:schema>XMP Media Management</pdfaSchema:schema>
+                  <pdfaSchema:property>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <pdfaProperty:category>internal</pdfaProperty:category>
+                           <pdfaProperty:description>UUID based identifier for specific incarnation of a document</pdfaProperty:description>
+                           <pdfaProperty:name>InstanceID</pdfaProperty:name>
+                           <pdfaProperty:valueType>URI</pdfaProperty:valueType>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <pdfaProperty:category>internal</pdfaProperty:category>
+                           <pdfaProperty:description>The common identifier for all versions and renditions of a document.</pdfaProperty:description>
+                           <pdfaProperty:name>OriginalDocumentID</pdfaProperty:name>
+                           <pdfaProperty:valueType>URI</pdfaProperty:valueType>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <pdfaProperty:category>internal</pdfaProperty:category>
+                           <pdfaProperty:description>A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.</pdfaProperty:description>
+                           <pdfaProperty:name>DerivedFrom</pdfaProperty:name>
+                           <pdfaProperty:valueType>ResourceRef</pdfaProperty:valueType>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </pdfaSchema:property>
+                  <pdfaSchema:valueType>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <pdfaType:description>Identifies a portion of a document. This can be a position at which the document has been changed since the most recent event history (stEvt:changed). For a resource within an xmpMM:Ingredients list, the ResourceRef uses this type to identify both the portion of the containing document that refers to the resource, and the portion of the referenced resource that is referenced.</pdfaType:description>
+                           <pdfaType:namespaceURI>http://ns.adobe.com/xap/1.0/sType/Part#</pdfaType:namespaceURI>
+                           <pdfaType:prefix>stPart</pdfaType:prefix>
+                           <pdfaType:type>Part</pdfaType:type>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </pdfaSchema:valueType>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <pdfaSchema:namespaceURI>http://www.aiim.org/pdfua/ns/id/</pdfaSchema:namespaceURI>
+                  <pdfaSchema:prefix>pdfuaid</pdfaSchema:prefix>
+                  <pdfaSchema:schema>PDF/UA ID Schema</pdfaSchema:schema>
+                  <pdfaSchema:property>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <pdfaProperty:category>internal</pdfaProperty:category>
+                           <pdfaProperty:description>Part of PDF/UA standard</pdfaProperty:description>
+                           <pdfaProperty:name>part</pdfaProperty:name>
+                           <pdfaProperty:valueType>Open Choice of Integer</pdfaProperty:valueType>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </pdfaSchema:property>
+               </rdf:li>
+            </rdf:Bag>
+         </pdfaExtension:schemas>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+<?xpacket end='r'?>
+<bookmark-tree>
+<bookmark title="Table of Contents">
+<destination structID="LinkTarget_2903"/>
+</bookmark>
+<bookmark title="1. Introduction">
+<destination structID="LinkTarget_2875"/>
+</bookmark>
+<bookmark title="2. Scope">
+<destination structID="LinkTarget_2844"/>
+</bookmark>
+<bookmark title="3. Normative references">
+<destination structID="LinkTarget_2842"/>
+</bookmark>
+<bookmark title="4. Terms and definitions">
+<destination structID="LinkTarget_2820"/>
+<bookmark title="4.1 artifact marked content sequence">
+<destination structID="LinkTarget_2822"/>
+</bookmark>
+<bookmark title="4.2 assistive technology">
+<destination structID="LinkTarget_2824"/>
+</bookmark>
+<bookmark title="4.3 AT">
+<destination structID="LinkTarget_2827"/>
+</bookmark>
+<bookmark title="4.4 PDF 1.7 namespace">
+<destination structID="LinkTarget_2828"/>
+</bookmark>
+<bookmark title="4.5 PDF 2.0 namespace">
+<destination structID="LinkTarget_2831"/>
+</bookmark>
+<bookmark title="4.6 real content">
+<destination structID="LinkTarget_2834"/>
+</bookmark>
+<bookmark title="4.7 structure attribute">
+<destination structID="LinkTarget_2837"/>
+</bookmark>
+<bookmark title="4.8 unique PDF 1.7 element">
+<destination structID="LinkTarget_2840"/>
+</bookmark>
+</bookmark>
+<bookmark title="5. Notation &amp; Terminology">
+<destination structID="LinkTarget_2798"/>
+<bookmark title="5.1 Notation">
+<destination structID="LinkTarget_2799"/>
+</bookmark>
+<bookmark title="5.2 Terminology">
+<destination structID="LinkTarget_2801"/>
+</bookmark>
+</bookmark>
+<bookmark title="6.  Conformance">
+<destination structID="LinkTarget_2769"/>
+<bookmark title="6.1 Conformance levels">
+<destination structID="LinkTarget_2770"/>
+<bookmark title="6.1.1 General">
+<destination structID="LinkTarget_2771"/>
+</bookmark>
+<bookmark title="6.1.2 Conformance level for reuse">
+<destination structID="LinkTarget_2777"/>
+</bookmark>
+<bookmark title="6.1.3 Conformance level for accessibility">
+<destination structID="LinkTarget_2725"/>
+</bookmark>
+</bookmark>
+<bookmark title="6.2 Conformance requirements">
+<destination structID="LinkTarget_2729"/>
+</bookmark>
+</bookmark>
+<bookmark title="7. Reusable PDF">
+<destination structID="LinkTarget_2688"/>
+<bookmark title="7.1 General">
+<destination structID="LinkTarget_2689"/>
+</bookmark>
+<bookmark title="7.2 Using other specifications and standards">
+<destination structID="LinkTarget_2695"/>
+<bookmark title="7.2.1 General">
+<destination structID="LinkTarget_2696"/>
+</bookmark>
+<bookmark title="7.2.2 Declarations">
+<destination structID="LinkTarget_2697"/>
+</bookmark>
+<bookmark title="7.2.3 ISO PDF subset standards">
+<destination structID="LinkTarget_2687"/>
+</bookmark>
+</bookmark>
+</bookmark>
+<bookmark title="8. File format requirements">
+<destination structID="LinkTarget_2671"/>
+<bookmark title="8.1 General">
+<destination structID="LinkTarget_2672"/>
+</bookmark>
+<bookmark title="8.2 Logical structure">
+<destination structID="LinkTarget_2673"/>
+</bookmark>
+<bookmark title="8.2.1 General">
+<destination structID="LinkTarget_2674"/>
+</bookmark>
+<bookmark title="8.2.2 Real content">
+<destination structID="LinkTarget_2676"/>
+</bookmark>
+<bookmark title="8.2.3 Logical content order">
+<destination structID="LinkTarget_2660"/>
+</bookmark>
+<bookmark title="8.2.4 Structure types">
+<destination structID="LinkTarget_2628"/>
+</bookmark>
+<bookmark title="8.2.5 Additional requirements for specific structure types">
+<destination structID="LinkTarget_2642"/>
+<bookmark title="8.2.5.1 General">
+<destination structID="LinkTarget_2643"/>
+</bookmark>
+<bookmark title="8.2.5.2 Document and DocumentFragment">
+<destination structID="LinkTarget_2612"/>
+</bookmark>
+<bookmark title="8.2.5.3 Part">
+<destination structID="LinkTarget_2620"/>
+</bookmark>
+<bookmark title="8.2.5.4 Article (Art)">
+<destination structID="LinkTarget_2622"/>
+</bookmark>
+<bookmark title="8.2.5.5 Section (Sect)">
+<destination structID="LinkTarget_2626"/>
+</bookmark>
+<bookmark title="8.2.5.6 Division (Div)">
+<destination structID="LinkTarget_2596"/>
+</bookmark>
+<bookmark title="8.2.5.7 Block quotation (BlockQuote)">
+<destination structID="LinkTarget_2600"/>
+</bookmark>
+<bookmark title="8.2.5.8 Table of Contents (TOC/TOCI)">
+<destination structID="LinkTarget_2603"/>
+</bookmark>
+<bookmark title="8.2.5.9 Aside">
+<destination structID="LinkTarget_2609"/>
+</bookmark>
+<bookmark title="8.2.5.10 NonStruct">
+<destination structID="LinkTarget_2580"/>
+</bookmark>
+<bookmark title="8.2.5.11 Paragraph (P)">
+<destination structID="LinkTarget_2583"/>
+</bookmark>
+<bookmark title="8.2.5.12 Heading (Hn) and (H)">
+<destination structID="LinkTarget_2589"/>
+</bookmark>
+<bookmark title="8.2.5.13 Title">
+<destination structID="LinkTarget_2553"/>
+</bookmark>
+<bookmark title="8.2.5.14 Footnotes and Endnotes (FENote)">
+<destination structID="LinkTarget_2556"/>
+</bookmark>
+<bookmark title="8.2.5.14.1 Structure requirements">
+<destination structID="LinkTarget_2557"/>
+</bookmark>
+<bookmark title="8.2.5.14.2 FENote Attribute Owner">
+<destination structID="LinkTarget_2561"/>
+</bookmark>
+<bookmark title="8.2.5.15 Subdivision (Sub)">
+<destination structID="LinkTarget_2513"/>
+</bookmark>
+<bookmark title="8.2.5.16 Label (Lbl)">
+<destination structID="LinkTarget_2515"/>
+</bookmark>
+<bookmark title="8.2.5.17 Span">
+<destination structID="LinkTarget_2522"/>
+</bookmark>
+<bookmark title="8.2.5.18 Quote">
+<destination structID="LinkTarget_2487"/>
+</bookmark>
+<bookmark title="8.2.5.19 Emphasis (Em) and Strong">
+<destination structID="LinkTarget_2489"/>
+</bookmark>
+<bookmark title="8.2.5.20 Link and Reference">
+<destination structID="LinkTarget_2492"/>
+</bookmark>
+<bookmark title="8.2.5.21 Annot">
+<destination structID="LinkTarget_2501"/>
+</bookmark>
+<bookmark title="8.2.5.22 Form">
+<destination structID="LinkTarget_2460"/>
+</bookmark>
+<bookmark title="8.2.5.23 Ruby (Ruby, RB, RT, RP)">
+<destination structID="LinkTarget_2461"/>
+</bookmark>
+<bookmark title="8.2.5.24 Warichu (WT, WP)">
+<destination structID="LinkTarget_2412"/>
+</bookmark>
+<bookmark title="8.2.5.25 List (L, LI, LBody)">
+<destination structID="LinkTarget_2416"/>
+</bookmark>
+<bookmark title="8.2.5.26 Table (Table, TR, TH, TD, THead, TBody, TFoot)">
+<destination structID="LinkTarget_2383"/>
+</bookmark>
+<bookmark title="8.2.5.27 Caption">
+<destination structID="LinkTarget_2397"/>
+</bookmark>
+<bookmark title="8.2.5.28 Figure">
+<destination structID="LinkTarget_2360"/>
+</bookmark>
+<bookmark title="8.2.5.28.1 Figure semantics">
+<destination structID="LinkTarget_2361"/>
+</bookmark>
+<bookmark title="8.2.5.28.2 Figure properties">
+<destination structID="LinkTarget_2367"/>
+</bookmark>
+<bookmark title="8.2.5.29 Formula">
+<destination structID="LinkTarget_2375"/>
+</bookmark>
+<bookmark title="8.2.5.29.1 Mathematical expressions">
+<destination structID="LinkTarget_2376"/>
+</bookmark>
+<bookmark title="8.2.5.29.2 Non-mathematical scientific formulae">
+<destination structID="LinkTarget_2329"/>
+</bookmark>
+<bookmark title="8.2.5.30 Index">
+<destination structID="LinkTarget_2332"/>
+</bookmark>
+<bookmark title="8.2.5.31 Bibliographic entry (BibEntry)">
+<destination structID="LinkTarget_2294"/>
+</bookmark>
+<bookmark title="8.2.5.32 Code">
+<destination structID="LinkTarget_2310"/>
+</bookmark>
+<bookmark title="8.2.5.33 Artifact">
+<destination structID="LinkTarget_2315"/>
+</bookmark>
+</bookmark>
+<bookmark title="8.2.6 Structure attributes">
+<destination structID="LinkTarget_2316"/>
+<bookmark title="8.2.6.1 General">
+<destination structID="LinkTarget_2317"/>
+</bookmark>
+<bookmark title="8.2.6.2 Layout">
+<destination structID="LinkTarget_2274"/>
+</bookmark>
+<bookmark title="8.2.6.3 Table, List, PrintField, Artifact">
+<destination structID="LinkTarget_2279"/>
+</bookmark>
+<bookmark title="8.2.6.4 ARIA">
+<destination structID="LinkTarget_2280"/>
+</bookmark>
+</bookmark>
+<bookmark title="8.3 Artifacts">
+<destination structID="LinkTarget_2266"/>
+<bookmark title="8.3.1 General">
+<destination structID="LinkTarget_2267"/>
+</bookmark>
+<bookmark title="8.3.2 Use of the Artifact structure element">
+<destination structID="LinkTarget_2233"/>
+</bookmark>
+</bookmark>
+<bookmark title="8.4 Text representation for content">
+<destination structID="LinkTarget_2236"/>
+</bookmark>
+<bookmark title="8.4.1 General">
+<destination structID="LinkTarget_2237"/>
+</bookmark>
+<bookmark title="8.4.2 Unicode mapping in tagged PDF">
+<destination structID="LinkTarget_2239"/>
+</bookmark>
+<bookmark title="8.4.3 Replacements and alternatives for text">
+<destination structID="LinkTarget_2242"/>
+</bookmark>
+<bookmark title="8.4.4 Declaring natural language">
+<destination structID="LinkTarget_2219"/>
+</bookmark>
+<bookmark title="8.4.5 Fonts">
+<destination structID="LinkTarget_2226"/>
+<bookmark title="8.4.5.1 General">
+<destination structID="LinkTarget_2227"/>
+</bookmark>
+<bookmark title="8.4.5.2 Font types">
+<destination structID="LinkTarget_2229"/>
+</bookmark>
+<bookmark title="8.4.5.3 Composite fonts">
+<destination structID="LinkTarget_2196"/>
+<bookmark title="8.4.5.3.1 General">
+<destination structID="LinkTarget_2197"/>
+</bookmark>
+<bookmark title="8.4.5.3.2 CIDFonts">
+<destination structID="LinkTarget_2202"/>
+</bookmark>
+</bookmark>
+<bookmark title="8.4.5.4 CMaps">
+<destination structID="LinkTarget_2204"/>
+</bookmark>
+<bookmark title="8.4.5.5 Embedding">
+<destination structID="LinkTarget_2207"/>
+<bookmark title="8.4.5.5.1 General">
+<destination structID="LinkTarget_2208"/>
+</bookmark>
+<bookmark title="8.4.5.5.2 Subset embedding">
+<destination structID="LinkTarget_2182"/>
+</bookmark>
+</bookmark>
+<bookmark title="8.4.5.6 Font metrics">
+<destination structID="LinkTarget_2185"/>
+</bookmark>
+<bookmark title="8.4.5.7 Character encodings">
+<destination structID="LinkTarget_2190"/>
+</bookmark>
+<bookmark title="8.4.5.8 Unicode character maps">
+<destination structID="LinkTarget_2153"/>
+</bookmark>
+<bookmark title="8.4.5.9 Use of .notdef glyph">
+<destination structID="LinkTarget_2161"/>
+</bookmark>
+</bookmark>
+<bookmark title="8.5 Real content without textual semantics">
+<destination structID="LinkTarget_2164"/>
+<bookmark title="8.5.1 General">
+<destination structID="LinkTarget_2165"/>
+</bookmark>
+<bookmark title="8.5.2 Use of ActualText">
+<destination structID="LinkTarget_2128"/>
+</bookmark>
+</bookmark>
+<bookmark title="8.6 Text string objects">
+<destination structID="LinkTarget_2133"/>
+</bookmark>
+<bookmark title="8.7 Optional content">
+<destination structID="LinkTarget_2137"/>
+</bookmark>
+<bookmark title="8.8 Intra-document destinations">
+<destination structID="LinkTarget_2146"/>
+</bookmark>
+<bookmark title="8.9 Annotations">
+<destination structID="LinkTarget_2099"/>
+<bookmark title="8.9.1 General">
+<destination structID="LinkTarget_2100"/>
+</bookmark>
+<bookmark title="8.9.2 Semantics and content">
+<destination structID="LinkTarget_2109"/>
+<bookmark title="8.9.2.1 General">
+<destination structID="LinkTarget_2110"/>
+</bookmark>
+<bookmark title="8.9.2.2 Annotations as artifacts">
+<destination structID="LinkTarget_2034"/>
+</bookmark>
+<bookmark title="8.9.2.3 Markup annotations">
+<destination structID="LinkTarget_2041"/>
+</bookmark>
+<bookmark title="8.9.2.4 Annotation types">
+<destination structID="LinkTarget_2019"/>
+<bookmark title="8.9.2.4.1 Text">
+<destination structID="LinkTarget_2020"/>
+</bookmark>
+<bookmark title="8.9.2.4.2 Link">
+<destination structID="LinkTarget_2023"/>
+</bookmark>
+<bookmark title="8.9.2.4.3 Free text">
+<destination structID="LinkTarget_1997"/>
+</bookmark>
+<bookmark title="8.9.2.4.4 Line, square, circle, polygon and polyline">
+<destination structID="LinkTarget_1999"/>
+</bookmark>
+<bookmark title="8.9.2.4.5 Text markup">
+<destination structID="LinkTarget_2001"/>
+</bookmark>
+<bookmark title="8.9.2.4.6 Caret">
+<destination structID="LinkTarget_2004"/>
+</bookmark>
+<bookmark title="8.9.2.4.7 Rubber stamp">
+<destination structID="LinkTarget_2005"/>
+</bookmark>
+<bookmark title="8.9.2.4.8 Ink">
+<destination structID="LinkTarget_2007"/>
+</bookmark>
+<bookmark title="8.9.2.4.9 Popup">
+<destination structID="LinkTarget_2010"/>
+</bookmark>
+<bookmark title="8.9.2.4.10 File attachment">
+<destination structID="LinkTarget_1983"/>
+</bookmark>
+<bookmark title="8.9.2.4.11 Sound, movie">
+<destination structID="LinkTarget_1987"/>
+</bookmark>
+<bookmark title="8.9.2.4.12 Screen">
+<destination structID="LinkTarget_1989"/>
+</bookmark>
+<bookmark title="8.9.2.4.13 Widget">
+<destination structID="LinkTarget_1991"/>
+</bookmark>
+<bookmark title="8.9.2.4.14 Printer’s mark">
+<destination structID="LinkTarget_1994"/>
+</bookmark>
+<bookmark title="8.9.2.4.15 Trap network">
+<destination structID="LinkTarget_1996"/>
+</bookmark>
+<bookmark title="8.9.2.4.16 Watermark">
+<destination structID="LinkTarget_1970"/>
+</bookmark>
+<bookmark title="8.9.2.4.17 Redaction">
+<destination structID="LinkTarget_1972"/>
+</bookmark>
+<bookmark title="8.9.2.4.18 Projection">
+<destination structID="LinkTarget_1975"/>
+</bookmark>
+<bookmark title="8.9.2.4.19 3D and RichMedia">
+<destination structID="LinkTarget_1976"/>
+</bookmark>
+<bookmark title="8.9.2.4.20 Other">
+<destination structID="LinkTarget_1978"/>
+</bookmark>
+</bookmark>
+</bookmark>
+<bookmark title="8.9.3 Order">
+<destination structID="LinkTarget_1980"/>
+<bookmark title="8.9.3.1 General">
+<destination structID="LinkTarget_1981"/>
+</bookmark>
+<bookmark title="8.9.3.2 Association with content">
+<destination structID="LinkTarget_1945"/>
+</bookmark>
+<bookmark title="8.9.3.3 Tab order">
+<destination structID="LinkTarget_1952"/>
+</bookmark>
+</bookmark>
+<bookmark title="8.9.4 Alternative descriptions">
+<destination structID="LinkTarget_1955"/>
+<bookmark title="8.9.4.1 Contents entries">
+<destination structID="LinkTarget_1956"/>
+</bookmark>
+<bookmark title="8.9.4.2 Alt properties">
+<destination structID="LinkTarget_1958"/>
+</bookmark>
+</bookmark>
+</bookmark>
+<bookmark title="8.10 Forms">
+<destination structID="LinkTarget_1960"/>
+</bookmark>
+<bookmark title="8.10.1 General">
+<destination structID="LinkTarget_1961"/>
+</bookmark>
+<bookmark title="8.10.2 Context">
+<destination structID="LinkTarget_1935"/>
+<bookmark title="8.10.2.1 General">
+<destination structID="LinkTarget_1936"/>
+</bookmark>
+<bookmark title="8.10.2.2 Labels">
+<destination structID="LinkTarget_1943"/>
+</bookmark>
+<bookmark title="8.10.2.3 Contents entry">
+<destination structID="LinkTarget_1917"/>
+</bookmark>
+<bookmark title="8.10.2.4 TU entry">
+<destination structID="LinkTarget_1923"/>
+</bookmark>
+</bookmark>
+<bookmark title="8.10.3 Fields">
+<destination structID="LinkTarget_1927"/>
+<bookmark title="8.10.3.1 General">
+<destination structID="LinkTarget_1928"/>
+</bookmark>
+<bookmark title="8.10.3.2 Button fields">
+<destination structID="LinkTarget_1897"/>
+<bookmark title="8.10.3.2.1 General">
+<destination structID="LinkTarget_1898"/>
+</bookmark>
+<bookmark title="8.10.3.2.2 Push‑button">
+<destination structID="LinkTarget_1901"/>
+</bookmark>
+<bookmark title="8.10.3.2.3 Check boxes and radio buttons">
+<destination structID="LinkTarget_1905"/>
+</bookmark>
+</bookmark>
+<bookmark title="8.10.3.3 Text fields">
+<destination structID="LinkTarget_1909"/>
+</bookmark>
+<bookmark title="8.10.3.4 Choice fields">
+<destination structID="LinkTarget_1911"/>
+</bookmark>
+<bookmark title="8.10.3.5 Signature fields">
+<destination structID="LinkTarget_1913"/>
+</bookmark>
+</bookmark>
+<bookmark title="8.10.4 Non-interactive forms">
+<destination structID="LinkTarget_1887"/>
+</bookmark>
+<bookmark title="8.11 Metadata">
+<destination structID="LinkTarget_1892"/>
+<bookmark title="8.11.1 General">
+<destination structID="LinkTarget_1893"/>
+</bookmark>
+<bookmark title="8.11.2 Interactive aspects">
+<destination structID="LinkTarget_1863"/>
+</bookmark>
+</bookmark>
+<bookmark title="8.12 Navigation">
+<destination structID="LinkTarget_1866"/>
+<bookmark title="8.12.1 General">
+<destination structID="LinkTarget_1867"/>
+</bookmark>
+<bookmark title="8.12.2 Outlines">
+<destination structID="LinkTarget_1869"/>
+</bookmark>
+<bookmark title="8.12.3 Page labels">
+<destination structID="LinkTarget_1873"/>
+</bookmark>
+<bookmark title="8.12.4 Article threads">
+<destination structID="LinkTarget_1876"/>
+</bookmark>
+</bookmark>
+<bookmark title="8.13 Actions">
+<destination structID="LinkTarget_1879"/>
+<bookmark title="8.13.1 General">
+<destination structID="LinkTarget_1880"/>
+</bookmark>
+<bookmark title="8.13.2 ECMAScript actions">
+<destination structID="LinkTarget_1882"/>
+</bookmark>
+<bookmark title="8.13.3 URI actions">
+<destination structID="LinkTarget_1837"/>
+</bookmark>
+</bookmark>
+<bookmark title="8.14 Use of embedded files">
+<destination structID="LinkTarget_1839"/>
+<bookmark title="8.14.1 Descriptions for embedded files">
+<destination structID="LinkTarget_1840"/>
+</bookmark>
+<bookmark title="8.14.2 Use of associated files">
+<destination structID="LinkTarget_1842"/>
+</bookmark>
+</bookmark>
+</bookmark>
+<bookmark title="Appendix A: Example PDF Declaration for an external standard (informative)">
+<destination structID="LinkTarget_1810"/>
+</bookmark>
+<bookmark title="Appendix B: Examples of attribute usage (informative)">
+<destination structID="LinkTarget_1738"/>
+<bookmark title="B.1 Standard layout attributes">
+<destination structID="LinkTarget_1739"/>
+</bookmark>
+<bookmark title="B.2 Standard list attributes">
+<destination structID="LinkTarget_1412"/>
+</bookmark>
+<bookmark title="B.3 PrintField attributes">
+<destination structID="LinkTarget_1422"/>
+</bookmark>
+<bookmark title="B.4 Attributes specific to table structure types">
+<destination structID="LinkTarget_1316"/>
+</bookmark>
+<bookmark title="B.5 Attributes specific to the Artifact structure type">
+<destination structID="LinkTarget_1332"/>
+</bookmark>
+</bookmark>
+<bookmark title="Appendix C: Declaring conformance with PDF/UA-2 (Normative)">
+<destination structID="LinkTarget_1294"/>
+</bookmark>
+<bookmark title="Bibliography">
+<destination structID="LinkTarget_1292"/>
+</bookmark>
+</bookmark-tree>
+
+<Document><Figure Alt=" PDF Association Logo ">
+
+<ImageData src="images/Well-Tagged-PDF-WTPDF-1.0_img_0.jpg"/>
+</Figure>
+
+<H1>Well-Tagged PDF (WTPDF) Using Tagged PDF for Accessibility and Reuse in PDF 2.0 </H1>
+
+<P>PDF Association</P>
+
+<P>PDF Reuse TWG &amp; PDF/UA TWG</P>
+
+<P>Version 1.0.0</P>
+
+<P>February 2024</P>
+
+<P>Copyright © 2024 PDF Association or its licensors.</P>
+
+<P>This work is licensed under the Creative Commons Attribution 4.0 International License.</P>
+
+<P>To view a copy of this license, visit  
+<Link Alt="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</Link>
+</P>
+
+<P>or send a letter to  Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.</P>
+
+<P>PDF Association </P>
+
+<P>Friedenstr. 2A · 16321 Bernau bei Berlin · Germany</P>
+
+<P>E-mail: 
+<Link Alt="copyright@pdfa.org ">copyright@pdfa.org </Link>
+</P>
+
+<P>Web: 
+<Link Alt="www.pdfa.org">www.pdfa.org</Link>
+</P>
+
+<P>Published in Germany and the United States of America</P>
+
+<P>Vendors own their respective copyrights wherever they are mentioned. The information contained in this document is provided only as general information, which may be incomplete or outdated. Users of this document are responsible for independently verifying any and all information. Any mention of companies or products does not imply endorsement or support of any of the mentioned information, services, products, or providers.</P>
+
+<H2 id="LinkTarget_2903">Table of Contents</H2>
+
+<TOC>
+<TOCI>
+<Reference>
+<Link Alt="1. Introduction   1">1. Introduction   1</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="2. Scope   2">2. Scope   2</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="3. Normative references   3">3. Normative references   3</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="4. Terms and definitions   4">4. Terms and definitions   4</Link>
+</Reference>
+
+<TOC>
+<TOCI>
+<Reference>
+<Link Alt="4.1 artifact marked content sequence   4">4.1 artifact marked content sequence   4</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="4.2 assistive technology   4">4.2 assistive technology   4</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="4.3 AT   4">4.3 AT   4</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="4.4 PDF 1.7 namespace   4">4.4 PDF 1.7 namespace   4</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="4.5 PDF 2.0 namespace   4">4.5 PDF 2.0 namespace   4</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="4.6 real content   4">4.6 real content   4</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="4.7 structure attribute   4">4.7 structure attribute   4</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="4.8 unique PDF 1.7 element   4">4.8 unique PDF 1.7 element   4</Link>
+</Reference>
+</TOCI>
+</TOC>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="5. Notation & Terminology   5">5. Notation &amp; Terminology   5</Link>
+</Reference>
+
+<TOC>
+<TOCI>
+<Reference>
+<Link Alt="5.1 Notation   5">5.1 Notation   5</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="5.2 Terminology   5">5.2 Terminology   5</Link>
+</Reference>
+</TOCI>
+</TOC>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="6. Conformance  6">6. Conformance  6</Link>
+</Reference>
+
+<TOC>
+<TOCI>
+<Reference>
+<Link Alt="6.1 Conformance levels   6">6.1 Conformance levels   6</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="6.2 Conformance requirements   7">6.2 Conformance requirements   7</Link>
+</Reference>
+</TOCI>
+</TOC>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="7. Reusable PDF   9">7. Reusable PDF   9</Link>
+</Reference>
+
+<TOC>
+<TOCI>
+<Reference>
+<Link Alt="7.1 General   9">7.1 General   9</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="7.2 Using other specifications and standards   9">7.2 Using other specifications and standards   9</Link>
+</Reference>
+</TOCI>
+</TOC>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="8. File format requirements   11">8. File format requirements   11</Link>
+</Reference>
+
+<TOC>
+<TOCI>
+<Reference>
+<Link Alt="8.1 General   11">8.1 General   11</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="8.2 Logical structure   11">8.2 Logical structure   11</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="8.3 Artifacts   27">8.3 Artifacts   27</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="8.4 Text representation for content   28">8.4 Text representation for content   28</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="8.5 Real content without textual semantics   32">8.5 Real content without textual semantics   32</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="8.6 Text string objects   33">8.6 Text string objects   33</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="8.7 Optional content   33">8.7 Optional content   33</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="8.8 Intra-document destinations   33">8.8 Intra-document destinations   33</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="8.9 Annotations   34">8.9 Annotations   34</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="8.10 Forms   40">8.10 Forms   40</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="8.11 Metadata   44">8.11 Metadata   44</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="8.12 Navigation   45">8.12 Navigation   45</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="8.13 Actions   45">8.13 Actions   45</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="8.14 Use of embedded files   46">8.14 Use of embedded files   46</Link>
+</Reference>
+</TOCI>
+</TOC>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="Appendix A: Example PDF Declaration for an external standard (informative)   47">Appendix A: Example PDF Declaration for an external standard (informative)   47</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="Appendix B: Examples of attribute usage (informative)   48">Appendix B: Examples of attribute usage (informative)   48</Link>
+</Reference>
+
+<TOC>
+<TOCI>
+<Reference>
+<Link Alt="B.1 Standard layout attributes   48">B.1 Standard layout attributes   48</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="B.2 Standard list attributes   51">B.2 Standard list attributes   51</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="B.3 PrintField attributes   51">B.3 PrintField attributes   51</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="B.4 Attributes specific to table structure types   52">B.4 Attributes specific to table structure types   52</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="B.5 Attributes specific to the Artifact structure type   52">B.5 Attributes specific to the Artifact structure type   52</Link>
+</Reference>
+</TOCI>
+</TOC>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="Appendix C: Declaring conformance with PDF/UA-2 (Normative)   53">Appendix C: Declaring conformance with PDF/UA-2 (Normative)   53</Link>
+</Reference>
+</TOCI>
+
+<TOCI>
+<Reference>
+<Link Alt="Bibliography   54">Bibliography   54</Link>
+</Reference>
+</TOCI>
+</TOC>
+
+<H2 id="LinkTarget_2875">1. Introduction</H2>
+
+<P>PDF is a digital format for representing documents. PDF files may be created natively in PDF form, converted from other electronic formats, or digitized from paper. Businesses, governments, libraries, archives, and other institutions and individuals around the world use PDF to represent considerable bodies of important information. Beyond representing documents in their conventional paginated form, PDF files should ensure that their content is reusable in various settings, such as non-paginated experiences, text-extraction, accessibility and so on.</P>
+
+<P>There is a large overlap between the requirements for reuse and accessibility. However, some requirements are critical for reuse whereas others are critical for accessibility. This document clearly identifies the requirements for each use-case via a conformance level mechanism.</P>
+
+<P>The reusability and accessibility of a PDF file depends on the inclusion of a variety of semantic information such as:</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>machine-readable text presented in a declared language;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>appropriate semantic structures for elements such as paragraphs, lists, tables and headings;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>the organization of semantic structures in a logical reading order;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>accurate representation of the content’s stylistic properties;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>descriptive metadata, such as alternate descriptions for images.</LBody>
+</LI>
+</L>
+
+<P>The primary purpose of this specification is to define how to represent electronic documents in the PDF format in a manner that allows the file to be reusable and accessible across a wide spectrum of possible use-cases.</P>
+
+<P>Tagged PDF is the mechanism by which semantic and stylistic information is included and made interoperable within a PDF. Including semantic and styling information in PDF is accomplished by identifying the set of PDF components that shall, should or may be used, as well as restrictions on the form of their use.</P>
+
+<P>This specification describes a usage of PDF 2.0 (ISO 32000-2) that is compatible with PDF/UA-2 (ISO 14289-2). Other specifications and standards may apply to the objectives of reusing PDF content and ensuring its accessibility. These other specifications and standards may be used in conjunction with this specification.</P>
+
+<H2 id="LinkTarget_2844">2. Scope</H2>
+
+<P>This document describes how to create reusable and accessible documents using the Portable Document Format (PDF). It builds on the Tagged PDF features defined in PDF 2.0, extending their requirements for the purposes of reuse and accessibility. This document focuses primarily on the document format (syntax), not the content itself, and does not mandate or restrict processing of the document in any manner. This document does not specify:</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>processing requirements, including processes for utilizing the PDF to enable reuse or accessibility;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>processes for achieving conformance with this specification from source digital or paper documents;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>technical design, user interface, implementation, or operational details;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>physical methods of storing these documents such as media and storage conditions;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>required computer hardware and/or operating systems;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>provisions specific to content (beyond programmatic access and textual representation);</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>provisions applying to specific classes (e.g. invoices, reports, etc.) of documents.</LBody>
+</LI>
+</L>
+
+<H2 id="LinkTarget_2842">3. Normative references</H2>
+
+<P>The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</P>
+
+<P>ISO 32000-2:2020, Document management — Portable document format — Part 2: PDF 2.0 
+<Link Alt="https://pdfa.org/resource/iso-32000-pdf/">https://pdfa.org/resource/iso-32000-pdf/</Link>
+</P>
+
+<P>ISO/TS 32005, Document management — Portable Document Format — PDF 1.7 and 2.0 structure namespace inclusion in ISO 32000‑2  
+<Link Alt="https://pdfa.org/resource/iso-32005/">https://pdfa.org/resource/iso-32005/</Link>
+</P>
+
+<P>W3C, Digital Publishing WAI‑ARIA Module 1.0 (DPUB‑ARIA),  W3C Recommendation, 14 December 2017, 
+<Link Alt="https://www.w3.org/TR/dpub-aria-1.0/">https://www.w3.org/TR/dpub-aria-1.0/</Link>
+</P>
+
+<P>PDF Association, PDF Declarations, September 5, 2019, 
+<Link Alt="https://www.pdfa.org/resource/pdf-declarations/">https://www.pdfa.org/resource/pdf-declarations/</Link>
+</P>
+
+<H2 id="LinkTarget_2820">4. Terms and definitions</H2>
+
+<P>For the purposes of this document, the following terms and definitions apply. Sort in alphabetical order.</P>
+
+<H3 id="LinkTarget_2822">4.1 artifact marked content sequence</H3>
+
+<P>artifact defined solely by a marked content sequence, and not defined by a structure element</P>
+
+<H3 id="LinkTarget_2824">4.2 assistive technology</H3>
+
+<P>hardware or software added to, or incorporated within, a system that increases accessibility for an individual</P>
+
+<P>[SOURCE ISO 9241-171:2008, 3.5]</P>
+
+<H3 id="LinkTarget_2827">4.3 AT</H3>
+
+<P>assistive technology (
+<Reference>
+<Link Alt="4.2">4.2</Link>
+</Reference>
+)</P>
+
+<H3 id="LinkTarget_2828">4.4 PDF 1.7 namespace</H3>
+
+<P>standard structure namespace for PDF 1.7</P>
+
+<P>[SOURCE ISO/TS 32005:2023, 3.1]</P>
+
+<H3 id="LinkTarget_2831">4.5 PDF 2.0 namespace</H3>
+
+<P>standard structure namespace for PDF 2.0</P>
+
+<P>[SOURCE ISO/TS 32005:2023, 3.2]</P>
+
+<H3 id="LinkTarget_2834">4.6 real content</H3>
+
+<P>graphics objects, annotations and form fields representing material intentionally introduced by a document’s author and necessary for an assistive technology (
+<Reference>
+<Link Alt="4.2">4.2</Link>
+</Reference>
+) user to understand that document’s content</P>
+
+<P>Note 1 to entry: Text, images and paths are all examples of “graphics objects” in PDF files.</P>
+
+<P>Note 2 to entry: The purpose of distinguishing between real and other content is to identify specific objects that the author intended for consumption by a human.</P>
+
+<H3 id="LinkTarget_2837">4.7 structure attribute</H3>
+
+<P>entry containing additional information contained within an attribute object</P>
+
+<P>Note 1 to entry: This term is introduced in ISO 32000-2:2020, 14.7.6.</P>
+
+<H3 id="LinkTarget_2840">4.8 unique PDF 1.7 element</H3>
+
+<P>standard structure element whose type is defined solely in the PDF 1.7 namespace (
+<Reference>
+<Link Alt="4.4">4.4</Link>
+</Reference>
+)</P>
+
+<P>[SOURCE ISO/TS 32005:2023, 3.5]</P>
+
+<H2 id="LinkTarget_2798">5. Notation &amp; Terminology</H2>
+
+<H3 id="LinkTarget_2799">5.1 Notation</H3>
+
+<P>Token characters, text string characters, PDF operators, operands, PDF keywords, the names of keys in PDF dictionaries, and other predefined names are written according to convention defined in ISO 32000-2:2020, clause 4 and in subclauses 7.2 and 7.9.2 (token characters and text string characters, respectively).</P>
+
+<H3 id="LinkTarget_2801">5.2 Terminology</H3>
+
+<P>This specification uses terminology consistently throughout the document to to avoid confusion and ambiguity. These terms are defined as follows:</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>this document — reference to this specification, “Usage of Tagged PDF in PDF 2.0”;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>document — describes a semantic document, along with its content, sometimes preceded by an “a” or “the”;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>file — indicates a file containing or representing a semantic document or content as a distinct entity;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>PDF file — indicates a file in the PDF format containing or representing a semantic document or content as a distinct entity.</LBody>
+</LI>
+</L>
+
+<H2 id="LinkTarget_2769">6.  Conformance</H2>
+
+<H3 id="LinkTarget_2770">6.1 Conformance levels</H3>
+
+<H4 id="LinkTarget_2771">6.1.1 General</H4>
+
+<P>To address the key differences between requirements for accessibility, content extraction, reflow and general reuse, this document defines conformance levels.</P>
+
+<P>A file conforming with this document shall identify conformance with at least one of the conformance levels defined in the following subclauses.</P>
+
+<P>Conformance levels are not mutually exclusive. A file may conform to multiple conformance levels.</P>
+
+<P>As specified in the following subclauses, applicable conformance level(s) shall be indicated using the appropriate PDF Declaration(s).</P>
+
+<P>NOTE The conformance levels defined in this document never specify requirements that contradict the requirements of another conformance level in this document, so it is always possible to conform to all conformance levels within the same file.</P>
+
+<H4 id="LinkTarget_2777">6.1.2 Conformance level for reuse</H4>
+
+<P>A file declaring conformance with the conformance level for reuse shall conform to all the general provisions of this document along with those identified as requirements for the conformance level for reuse.</P>
+
+<P>This document identifies requirements specific to the conformance level for reuse by including [Conformance level for reuse] at the start of each paragraph or clause containing that requirement. Such provisions are also highlighted.</P>
+
+<P>Files conforming to the conformance level for reuse shall include a PDF Declaration with the URI identifier “
+<Link Alt="http://pdfa.org/declarations/wtpdf/#reuse1.0">http://pdfa.org/declarations/wtpdf/#reuse1.0</Link>
+” as its pdfd:conformsTo entry. The PDF Declaration may provide additional claim information using the pdfd:claimData entry.</P>
+
+<P>EXAMPLE — PDF Declaration for the conformance level for reuse</P>
+
+<Code>
+<P>&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;</P>
+
+<P>&lt;rdf:RDF xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;&gt;</P>
+
+<P> &lt;rdf:Description rdf:about=&quot;&quot; xmlns:pdfd=&quot;http://pdfa.org/declarations/&quot;&gt;</P>
+
+<P>  &lt;pdfd:declarations&gt;</P>
+
+<P>   &lt;rdf:Bag&gt;</P>
+
+<P>    &lt;!-- Usage of Tagged PDF: conformance level for reuse --&gt;</P>
+
+<P>    &lt;rdf:li rdf:parseType=&quot;Resource&quot;&gt;</P>
+
+<P>&lt;pdfd:conformsTo&gt;</P>
+
+<P>       http://pdfa.org/declarations/wtpdf/#reuse1.0</P>
+
+<P>     &lt;/pdfd:conformsTo&gt;</P>
+
+<P>    &lt;/rdf:li&gt;</P>
+
+<P>   &lt;/rdf:Bag&gt;</P>
+
+<P>  &lt;/pdfd:declarations&gt;</P>
+
+<P> &lt;/rdf:Description&gt;</P>
+
+<P>&lt;/rdf:RDF&gt;</P>
+</Code>
+
+<H4 id="LinkTarget_2725">6.1.3 Conformance level for accessibility</H4>
+
+<P>A file declaring conformance with the conformance level for accessibility shall conform to all the general provisions of this document along with those identified as requirements for the conformance level for accessibility.</P>
+
+<P>This document identifies requirements specific to the conformance level for accessibility by including [Conformance level for accessibility] at the start of each paragraph or clause containing that requirement. Such provisions are also highlighted.</P>
+
+<P>A file that conforms to this document and to the conformance level for accessibility also meets all the requirements for ISO 14289-2 (PDF/UA-2) and, as such, may include the PDF/UA identification schema (see 
+<Reference>
+<Link Alt="Appendix C">Appendix C</Link>
+</Reference>
+) to indicate its conformance with ISO 14289-2.</P>
+
+<P>Files conforming to the conformance level for accessibility shall include a PDF Declaration with the URI identifier “
+<Link Alt="http://pdfa.org/declarations/wtpdf/#accessibility1.0">http://pdfa.org/declarations/wtpdf/#accessibility1.0</Link>
+” as its pdfd:conformsTo entry. The PDF Declaration may provide additional claim information using the pdfd:claimData entry.</P>
+
+<P>EXAMPLE — PDF Declaration for the conformance level for accessibility</P>
+
+<Code>
+<P>&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;</P>
+
+<P> &lt;rdf:RDF xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;&gt;</P>
+
+<P>  &lt;rdf:Description rdf:about=&quot;&quot; xmlns:pdfd=&quot;http://pdfa.org/declarations/&quot;&gt;</P>
+
+<P>   &lt;pdfd:declarations&gt;</P>
+
+<P>    &lt;rdf:Bag&gt;</P>
+
+<P>     &lt;!-- Usage of Tagged PDF: conformance level for accessibility --&gt;</P>
+
+<P>     &lt;rdf:li rdf:parseType=&quot;Resource&quot;&gt;</P>
+
+<P>      &lt;pdfd:conformsTo&gt;</P>
+
+<P>        http://pdfa.org/declarations/wtpdf/#accessibility1.0</P>
+
+<P>      &lt;/pdfd:conformsTo&gt;</P>
+
+<P>     &lt;/rdf:li&gt;</P>
+
+<P>    &lt;/rdf:Bag&gt;</P>
+
+<P>   &lt;/pdfd:declarations&gt;</P>
+
+<P>  &lt;/rdf:Description&gt;</P>
+
+<P>&lt;/rdf:RDF&gt;</P>
+</Code>
+
+<H3 id="LinkTarget_2729">6.2 Conformance requirements</H3>
+
+<P>Beyond the requirements in this document, conformance with this document requires that:</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>a file shall adhere to all requirements of ISO 32000-2;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>a file shall adhere to all requirements of ISO/TS 32005;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>a file should not contain any feature that is deprecated in ISO 32000-2;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>a file may include any valid ISO 32000-2 feature that is not explicitly forbidden by this document;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>a file should not contain features described in specifications prior to ISO 32000-2 which are not explicitly defined or identified in ISO 32000-2, ISO/TS 32005 or this document.</LBody>
+</LI>
+</L>
+
+<P>[Conformance level for accessibility] — an embedded file, if necessary to the understanding of the containing file, shall be accessible according to objectively verifiable standards, e.g., WCAG 2.2
+<Reference>
+<Link Alt="[5]">[5]</Link>
+</Reference>
+. If such an embedded file is a PDF file, it shall conform to ISO 14289 and/or to this document’s conformance level for accessibility.</P>
+
+<P>NOTE 1 Embedded files referenced from the containing file, for use by a human reader, can be necessary to the understanding of the document. See 
+<Reference>
+<Link Alt="8.14">8.14</Link>
+</Reference>
+.</P>
+
+<P>NOTE 2 Discouraging deprecated features aligns this document with ISO 19005-4.</P>
+
+<P>NOTE 3 Conformance with ISO/TS 32005 is required because, although ISO 32000-2 did not deprecate any structure types defined in PDF 1.7, ISO 32000-2:2020, Annex L provided containment rules only for structure types defined in the PDF 2.0 namespace. ISO/TS 32005 expands these containment rules to cover both the PDF 2.0 namespace and those elements unique to the PDF 1.7 namespace. By adhering to the requirements of ISO/TS 32005 it is possible to include both PDF 2.0 and PDF 1.7 structure types in files that conform to this document.</P>
+
+<P>A file may declare its support for, and conformity with, PDF extensions to ISO 32000-2:2020 by use of an Extensions dictionary, as specified in ISO 32000-2:2020, 7.12.</P>
+
+<P>NOTE 4 Use of extensions can potentially negatively impact accessibility, compatibility and consistency of files when consumed by different processors.</P>
+
+<P>Although other accessibility standards provide guidance for accessible content, this document deliberately avoids requirements related to content. Conformity to this document alone does not ensure that the content of a file is accessible. Examples of cases not covered by this document include:</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>where authors have used colour or contrast in an inaccessible manner;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>where ECMAScript present in the file can generate inaccessible results;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>where text content is potentially inaccessible to those with certain cognitive impairments;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>whether a particular content item is real content or artifact content.</LBody>
+</LI>
+</L>
+
+<P>NOTE 5 Requirements governing author’s creative choices, (e.g. requirements for plain language), or the use of specific degrees of colour-contrast, are out of scope for this document. For such requirements, authors can refer to WCAG 2.2
+<Reference>
+<Link Alt="[5]">[5]</Link>
+</Reference>
+ and other applicable standards such as ISO 24495-1.</P>
+
+<H2 id="LinkTarget_2688">7. Reusable PDF</H2>
+
+<H3 id="LinkTarget_2689">7.1 General</H3>
+
+<P>In PDF, reuse of, and access to, content is provided by the structures of the file and the software consuming the file. The content of a file is considered reusable if its real content, as specified in ISO 32000-2:2020, 14.8.2.2, is represented with text or has a text-based equivalent presented in logical reading order with appropriate semantics. This document establishes how to apply these principles to a PDF file; it addresses the way content is encoded within a conforming file but does not regulate that file’s content, as seen in the following examples.</P>
+
+<P>EXAMPLE 1 — The maximum number of characters in a line of text is unregulated.</P>
+
+<P>EXAMPLE 2 — Specific colours, colour-combinations, or contrast ratios are unregulated.</P>
+
+<P>EXAMPLE 3 — The choice to use plain language or other language is unregulated.</P>
+
+<P>EXAMPLE 4 — The size of fonts is unregulated.</P>
+
+<H3 id="LinkTarget_2695">7.2 Using other specifications and standards</H3>
+
+<H4 id="LinkTarget_2696">7.2.1 General</H4>
+
+<P>Requirements pertaining to content (e.g. the examples provided in 
+<Reference>
+<Link Alt="7.1">7.1</Link>
+</Reference>
+) are commonly addressed through other specifications and standards. Subclause 
+<Reference>
+<Link Alt="7.2.2">7.2.2</Link>
+</Reference>
+ describes a means of claiming conformity with one or more such specifications or standards.</P>
+
+<H4 id="LinkTarget_2697">7.2.2 Declarations</H4>
+
+<P>A file conforming with the requirements of this document may declare conformance with any other specification or standard by using the PDF Declarations mechanism.</P>
+
+<P>EXAMPLE 1 — A PDF Declaration can serve as the author’s statement attesting that:</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>all of the file’s content conforms to a specific accessibility standard (such as WCAG 2.2, Level AA);
+<Reference>
+<Link Alt="[5]">[5]</Link>
+</Reference>
+</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>all images and figures have been checked for appropriate alternate descriptions;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>the file has been certified reusable when using specific software;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>the file has been validated by a remediator.</LBody>
+</LI>
+</L>
+
+<P>NOTE 1 A detailed example of a PDF Declaration and its syntax is provided in 
+<Reference>
+<Link Alt="Appendix A">Appendix A</Link>
+</Reference>
+.</P>
+
+<P>Files in conformity with this document may leverage the PDF Declarations mechanism to include claims pertaining to the entire file, to portions of the file (even specific objects), or both.</P>
+
+<P>EXAMPLE 2 — A PDF Declaration can serve as the author’s statement attesting that an individual movie embedded in a file conforms to WCAG 2.2 Level AA.
+<Reference>
+<Link Alt="[5]">[5]</Link>
+</Reference>
+</P>
+
+<P>NOTE 2 It is expected that the file, portion, or object to which a PDF Declaration applies fully conforms to the specification or standards to which they are declaring conformity.</P>
+
+<P>NOTE 3 The PDF Association’s list of PDF Declarations is fully extensible. Other PDF Declarations can be defined there and elsewhere.</P>
+
+<P>[Conformance level for accessibility] — An embedded file that is not a PDF file, if necessary to the understanding of the document, shall have an associated PDF Declaration in accordance with PDF Declarations, indicating its conformance to an appropriate accessibility standard. The PDF Declaration, as specified in PDF Declarations, shall be included through the Metadata entry in the embedded file’s file specification dictionary.</P>
+
+<H4 id="LinkTarget_2687">7.2.3 ISO PDF subset standards</H4>
+
+<P>A file in conformity with this document may also conform to ISO standards based on ISO 32000-2 (PDF 2.0) including, but not limited to, ISO 14289-2 (PDF/UA-2), ISO 19005-4 (PDF/A-4)
+<Reference>
+<Link Alt="[1]">[1]</Link>
+</Reference>
+ and ISO 15930-9 (PDF/X-6)
+<Reference>
+<Link Alt="[2]">[2]</Link>
+</Reference>
+.</P>
+
+<H2 id="LinkTarget_2671">8. File format requirements</H2>
+
+<H3 id="LinkTarget_2672">8.1 General</H3>
+
+<P>Conformity with this document imposes requirements and restrictions beyond those specified in ISO 32000-2 and ISO/TS 32005. Clause 
+<Reference>
+<Link Alt="8">8</Link>
+</Reference>
+ specifies these additional requirements and restrictions. Where those requirements differ with respect to the conformance level, those differences are identified as described in 
+<Reference>
+<Link Alt="6.1">6.1</Link>
+</Reference>
+.</P>
+
+<P>Beyond requirements for aspects of logical structure, consistent and accurate rendering is also important to meet the objectives of this document. Accordingly, 
+<Reference>
+<Link Alt="8.4.5">8.4.5</Link>
+</Reference>
+ includes requirements matching those of the corresponding clause in ISO 19005-4 (PDF/A-4) and ISO 15930-9 (PDF/X-6).</P>
+
+<H3 id="LinkTarget_2673">8.2 Logical structure</H3>
+
+<H4 id="LinkTarget_2674">8.2.1 General</H4>
+
+<P>Conformity with this document depends on the correct use of semantically appropriate structure elements enclosing the document’s content, along with the structure elements’ properties and structure attributes (additional information attached to the structure element).</P>
+
+<H4 id="LinkTarget_2676">8.2.2 Real content</H4>
+
+<P>All real content, as specified in ISO 32000-2:2020, 14.8.2.2, shall be enclosed within semantically appropriate structure elements using appropriate attributes according to the definitions for each structure type (name objects that identify the nature of the structure element), as defined in ISO 32000-2:2020, 14.8 and ISO/TS 32005.</P>
+
+<P>NOTE 1 The concept of real content is defined in ISO 32000-2:2020, 14.8.2.2.1.</P>
+
+<P>NOTE 2 ISO/TS 32005 defines the permitted PDF 1.7 structure elements and their inclusion rules in relation to the PDF 2.0 structure elements as defined in ISO 32000-2.</P>
+
+<P>NOTE 3 Some structure elements with types such as Div and Span have no intrinsic semantics. Div is used to apply attributes to groups of structure elements and their descendants (including their respective contents), while Span is used to apply attributes to content.</P>
+
+<P>NOTE 4 Whether attributes are appropriate depends on context and content properties (see 
+<Reference>
+<Link Alt="8.2.6">8.2.6</Link>
+</Reference>
+).</P>
+
+<P>EXAMPLE 1 — The Placement attribute is appropriate on a Figure structure element whose content is inline in a paragraph.</P>
+
+<P>EXAMPLE 2 — The Placement attribute is optional when a Figure is placed in a block flow between two paragraphs.</P>
+
+<P>EXAMPLE 3 — The Placement attribute with a value of Block is appropriate for an FENote structure element placed in the block flow, whereas the Placement attribute with a value of Inline is appropriate for an FENote occurring inline contained within a P structure element.</P>
+
+<P>EXAMPLE 4 — The TextDecorationType attribute with a value of LineThrough is appropriate for a structure element enclosing struck text.</P>
+
+<P>EXAMPLE 5 — The TextPosition attribute with a value of Sup is appropriate for superscript characters.</P>
+
+<P>Tagging shall reflect the semantics of the document’s real content regardless of how the real content was laid out, paginated, or encoded by an authoring tool. Real content that is typically represented by a single semantic structure element with intrinsic semantics shall not be represented by several such structure elements of the same structure type.</P>
+
+<P>EXAMPLE 6 — A single table spanning two or more pages is correctly enclosed in a single Table structure element.</P>
+
+<P>NOTE 5 It is incorrect to have a single table spanning two or more pages enclosed in multiple Table structure elements.</P>
+
+<P>EXAMPLE 7 — A single paragraph that spans two or more pages or columns is correctly enclosed within a single P structure element.</P>
+
+<P>NOTE 6 It is incorrect to have multiple lines of a single paragraph enclosed within two or more P structure elements.</P>
+
+<P>NOTE 7 How content is encoded within a content stream does not indicate the semantically appropriate structure element(s). Unlike ISO 14289-1, this document clearly specifies that the use of images or vector-based drawings does not always require a Figure structure element.</P>
+
+<P>EXAMPLE 8 — An image solely used to represent text with no illustrative purpose can be enclosed in a Span structure element with appropriate ActualText, as opposed to a Figure structure element.</P>
+
+<P>Content that is not considered real content shall be an artifact in accordance with 
+<Reference>
+<Link Alt="8.3">8.3</Link>
+</Reference>
+.</P>
+
+<H4 id="LinkTarget_2660">8.2.3 Logical content order</H4>
+
+<P>The logical content order of structure elements and their contents according to ISO 32000-2:2020, 14.8.2.5 shall be semantically correct.</P>
+
+<P>NOTE 1 This requirement is equivalent to WCAG 2.2, Success Criterion 1.3.2.
+<Reference>
+<Link Alt="[5]">[5]</Link>
+</Reference>
+</P>
+
+<P>NOTE 2 This document does not impose any understanding of what “semantically correct” logical content order means to any given author. Two common example approaches to ordering real content are to follow the order of the geographical page layout appropriate to the language or script (e.g. top-down, left-right in some languages), or to order the most important real content first. The author chooses the approach and thus establishes the intended logical content order for the document.</P>
+
+<P>EXAMPLE 1 — The correct logical content order, in a trifold brochure in English, with its title on the right-hand panel of a landscape page, would typically locate the title content before the rest of the brochure in the structure tree.</P>
+
+<P>Artifact content intended to be consumed in a single unit shall be enclosed within a single Artifact structure element or artifact marked content sequence.</P>
+
+<P>NOTE 3 Artifact structure elements and artifact marked content sequences are specified in ISO 32000-2:2020, 14.8.2.2.2.</P>
+
+<P>EXAMPLE 2 — Textual content in a page footer would usually be identified as a single artifact.</P>
+
+<P>EXAMPLE 3 — Page numbers.</P>
+
+<P>If artifact content has a semantic order, the ordering of that content within the artifact shall match the semantic order.</P>
+
+<P>In some artifacts, some of the content has semantic order and some does not. Some artifact content, particularly drawing content, does not have a semantic order.</P>
+
+<P>EXAMPLE 4 — Paths comprising table borders have no semantic order.</P>
+
+<P>EXAMPLE 5 — Page numbers with a background have a partial semantic order in that the order of the digits of the page number is semantic, but the relative order of the background to the page number is not.</P>
+
+<H4 id="LinkTarget_2628">8.2.4 Structure types</H4>
+
+<P>All structure elements shall belong to, or be role mapped to, at least one of the following namespaces specified in ISO 32000-2:2020, 14.8.6:</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>the PDF 1.7 namespace;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>the PDF 2.0 namespace;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>the MathML namespace.</LBody>
+</LI>
+</L>
+
+<P>Other namespaces may be used by files in conformity with this document, but all structure elements in such namespaces shall have their structure types role mapped as described in this subclause. Such role mapping may be transitive through other namespaces.</P>
+
+<P>A structure element with no explicit namespace may be present. Such a structure element shall have, after any role mapping, a structure type matching one of the unique PDF 1.7 element types and as restricted by this document.</P>
+
+<P>NOTE 1 The default standard structure namespace in ISO 32000-2 is defined as the PDF 1.7 namespace.</P>
+
+<P>NOTE 2 
+<Reference>
+<Link Alt="8.2.5.14">8.2.5.14</Link>
+</Reference>
+ restricts the use of the Note structure type from the default standard structure namespace, and it is therefore not permitted despite being a unique PDF 1.7 element.</P>
+
+<P>Within a given explicitly provided namespace, structure types shall not be role mapped to other structure types in the same namespace.</P>
+
+<P>If custom structure types are role mapped, either directly or transitively, to standard structure types, they shall conform to the requirements for the standard structure types to which they are role mapped, including the containment rules specified in ISO/TS 32005:2023, Clause 7.</P>
+
+<P>EXAMPLE — A custom structure type mapped to a Caption standard structure type would incur all requirements for the Caption structure type, including its permitted location in the structure tree with respect to the structure element enclosing the captioned content and the element’s permitted descendants.</P>
+
+<H4 id="LinkTarget_2642">8.2.5 Additional requirements for specific structure types</H4>
+
+<H5 id="LinkTarget_2643">8.2.5.1 General</H5>
+
+<P>ISO 32000-2:2020, 14.8.4 and ISO/TS 32005:2023, 5.5 describe the full list of standard structure types for the PDF 2.0 namespace and PDF 1.7 namespace, respectively, and provide both requirements and examples of their use.</P>
+
+<P>Usage of the standard structure types shall be in accordance with the requirements specified in both ISO 32000-2:2020, 14.7.4.2 and ISO/TS 32005 for the PDF 2.0 namespace and PDF 1.7 namespace.</P>
+
+<P>
+<Reference>
+<Link Alt="8.2.5.2">8.2.5.2</Link>
+</Reference>
+ to 
+<Reference>
+<Link Alt="8.2.5.33">8.2.5.33</Link>
+</Reference>
+ provide additional requirements for specific structure types.</P>
+
+<P>NOTE 
+<Reference>
+<Link Alt="8.2.5.2">8.2.5.2</Link>
+</Reference>
+ to 
+<Reference>
+<Link Alt="8.2.5.33">8.2.5.33</Link>
+</Reference>
+ appear in the order in which the structure types occur in ISO 32000-2. If a structure type does not appear in 
+<Reference>
+<Link Alt="8.2.5.2">8.2.5.2</Link>
+</Reference>
+ to 
+<Reference>
+<Link Alt="8.2.5.33">8.2.5.33</Link>
+</Reference>
+, then no additional requirements apply beyond those specified in ISO 32000-2 and ISO/TS 32005.</P>
+
+<P>Requirements specific to structure attributes are addressed in 
+<Reference>
+<Link Alt="8.2.6">8.2.6</Link>
+</Reference>
+.</P>
+
+<H5 id="LinkTarget_2612">8.2.5.2 Document and DocumentFragment</H5>
+
+<P>The structure tree root (defined in ISO 32000-2:2020, 14.7.2) shall contain a single Document structure element as its only child, as specified in ISO 32000-2:2020, Annex L and ISO/TS 32005. The namespace for that element shall be specified as the PDF 2.0 namespace, in accordance with ISO 32000-2:2020, 14.8.6.</P>
+
+<P>NOTE 1 PDF/UA-2-conforming files cannot solely conform to PDF 1.7 because this subclause requires that the Document structure element is in the PDF 2.0 namespace.</P>
+
+<P>When a document encloses content from another document that is either a logical document or logical document fragment as specified in ISO 32000-2:2020, 14.8.4.3, that content should be enclosed in either a Document structure element or a DocumentFragment structure element, respectively.</P>
+
+<P>The DocumentFragment structure type shall only be used when the author’s intent is to identify real content as originating in another document.</P>
+
+<P>EXAMPLE — Excerpts from documents included inside another document.</P>
+
+<P>NOTE 2 DocumentFragment is inappropriate for content (e.g. some quotations) whose semantic intent does not rely on identification as an extract from another document.</P>
+
+<P>NOTE 3 Because the content is a fragment of another document, it is possible that heading levels do not align with the overall document and would not be expected to impact subsequent heading levels. However, headings in that fragment would be self-consistent and not multiple subsets of another document, as described in ISO 32000-2:2020, 14.8.4.3.</P>
+
+<H5 id="LinkTarget_2620">8.2.5.3 Part</H5>
+
+<P>When a grouping of content has semantic purpose unrelated to the document’s headings hierarchy, it should be enclosed within a Part structure element. ISO 32000-2:2020, Table 365 provides examples distinguishing the use of Part from the use of the Sect structure type.</P>
+
+<H5 id="LinkTarget_2622">8.2.5.4 Article (Art)</H5>
+
+<P>Where content is semantically representative of a self-contained article in a larger document that contains multiple such articles, that content shall be enclosed in an Art structure element.</P>
+
+<P>NOTE As such, articles often include titles, their own heading levels, and sub-structure.</P>
+
+<P>Where a title applies to an entire article, the Title structure element shall be included inside the Art structure element, either directly or indirectly.</P>
+
+<H5 id="LinkTarget_2626">8.2.5.5 Section (Sect)</H5>
+
+<P>When a document is divided into sections, Sect structure element(s) should be used to contain the structure elements and real content that comprise such sections. When a heading applies to an entire section, then that heading structure element shall be contained within that Sect structure element.</P>
+
+<P>NOTE 1 A section is a thematic grouping of content and structure elements, typically with a heading structure element at its start.</P>
+
+<P>NOTE 2 The presence of the Sect structure element enables efficiently skipping sections of a document.</P>
+
+<H5 id="LinkTarget_2596">8.2.5.6 Division (Div)</H5>
+
+<P>Where attributes or properties are common to a set of elements, a Div structure element may be used to apply those common attributes or properties to that group of elements.</P>
+
+<P>EXAMPLE — A set of paragraphs in a common language that differs from that of the surrounding content.</P>
+
+<P>NOTE A structure element with the Div structure type provides no direct semantics of its own.</P>
+
+<H5 id="LinkTarget_2600">8.2.5.7 Block quotation (BlockQuote)</H5>
+
+<P>BlockQuote shall be used to identify groups of block-level content that is quoted from another source other than the surrounding content. For inline-level content, refer to Quote (
+<Reference>
+<Link Alt="8.2.5.18">8.2.5.18</Link>
+</Reference>
+).</P>
+
+<P>NOTE 1 The other source can be a different author but can also be a different article in the same document or part of a different document by the same author.</P>
+
+<P>NOTE 2 Pull-quotes are duplicative and are therefore not considered to be block quotes but are generally considered asides.</P>
+
+<H5 id="LinkTarget_2603">8.2.5.8 Table of Contents (TOC/TOCI)</H5>
+
+<P>Tables of contents shall be identified using the TOC and TOCI standard structure types as defined in ISO/TS 32005:2023, Table 2.</P>
+
+<P>NOTE This requirement clarifies the requirement in 8.2.2, because the presence of TOC and TOCI in the PDF 1.7 namespace, but not in the PDF 2.0 namespace, can cause confusion regarding appropriate use of the structure types specific to tables of contents.</P>
+
+<P>Each TOCI in the table of contents shall identify the target of the reference using the Ref entry, either directly on the TOCI structure element itself or on a child structure element contained within, such as a Reference structure element.</P>
+
+<P>Leaders shall be identified as artifacts using one of the methods described in 
+<Reference>
+<Link Alt="8.3">8.3</Link>
+</Reference>
+.</P>
+
+<P>EXAMPLE — Leaders are commonly represented by a series of dots (e.g. “…..”) separating the item and corresponding page number.</P>
+
+<P>If using an Artifact structure element to enclose leaders, the location of such entries in the structure tree shall follow appropriate logical ordering and containment.</P>
+
+<H5 id="LinkTarget_2609">8.2.5.9 Aside</H5>
+
+<P>The Aside structure type shall be used to enclose real content that occurs outside the main flow of the content.</P>
+
+<P>EXAMPLE 1 — A sidebar containing advertising on a magazine page is typically understood as outside the main flow of the content.</P>
+
+<P>EXAMPLE 2 — Side notes in a textbook.</P>
+
+<P>If content in an Aside is related to the main flow of content, the parent of the Aside structure element shall be the deepest structure element to which the Aside structure element’s content relates.</P>
+
+<P>NOTE Aside loosely couples its content to a single location in the structure tree. Refer to 
+<Reference>
+<Link Alt="8.2.5.14">8.2.5.14</Link>
+</Reference>
+ for information about the related FENote structure element.</P>
+
+<H5 id="LinkTarget_2580">8.2.5.10 NonStruct</H5>
+
+<P>The NonStruct structure type may be used as the role mapping target of a structure element with a custom structure type in a custom namespace to indicate that the structure elements of this type and their attributes are not relevant. Descendant structure elements and their respective content retain their semantics.</P>
+
+<P>EXAMPLE — A custom namespace can have a structure type representing pauses in spoken language. In such cases, NonStruct can be used as a role mapping target to indicate the lack of semantic significance of that custom type in relation to the standard structure namespaces.</P>
+
+<H5 id="LinkTarget_2583">8.2.5.11 Paragraph (P)</H5>
+
+<P>The P structure type shall be used for any content that is considered a paragraph, regardless of the containing parent structure element and the number of paragraphs within a parent structure element. The P structure type should only be used when content is intended to be a semantic paragraph, or when there is not a more semantically appropriate structure type. Content that is not intended to be a semantic paragraph (e.g. a fragment of text in the LBody of a list item) should not be enclosed in a P.</P>
+
+<P>EXAMPLE 1 — In a list item, where the content enclosed within the LBody is a paragraph, then that content is tagged as a paragraph.</P>
+
+<P>When more than one paragraph exists within a parent element, each paragraph shall be tagged with a P structure element.</P>
+
+<P>EXAMPLE 2 — Where a footnote contains multiple paragraphs as its content, each paragraph is enclosed within its own P structure element.</P>
+
+<P>Where textual real content is insufficiently semantically defined by its parent element (or enclosing ancestor elements), a P structure element may be used to separate that content from surrounding content and to provide a base semantics for the text.</P>
+
+<P>NOTE See examples in 
+<Reference>
+<Link Alt="4.6">4.6</Link>
+</Reference>
+.</P>
+
+<H5 id="LinkTarget_2589">8.2.5.12 Heading (Hn) and (H)</H5>
+
+<P>Conforming files shall use the explicitly numbered heading structure types (H1-Hn) and shall not use the H structure type.</P>
+
+<P>NOTE 1 The H structure type requires processors to track section depth, which adds an unnecessary burden on processors and can cause ambiguity.</P>
+
+<P>Where a heading’s level is evident, the heading level of the structure element enclosing it shall match that heading level.</P>
+
+<P>NOTE 2 Standards such as ISO 14289-1 include requirements on the use of sequential heading levels. This document does not, in accordance with WCAG,
+<Reference>
+<Link Alt="[5]">[5]</Link>
+</Reference>
+ include such a requirement, but instead focuses on ensuring that correct semantics are provided for a given document’s content.</P>
+
+<P>EXAMPLE — A heading with the real content “4.5.6 Foobar” is evidently at heading level 3.</P>
+
+<H5 id="LinkTarget_2553">8.2.5.13 Title</H5>
+
+<P>Titles shall be identified by the Title standard structure type and shall not be identified as a heading.</P>
+
+<P>NOTE This requirement is specific to real content and does not pertain to requirements for metadata. As titles can vary depending on exact usage, there is no intent to require a match between real content tagged with Title and dc:title information in XMP metadata.</P>
+
+<H5 id="LinkTarget_2556">8.2.5.14 Footnotes and Endnotes (FENote)</H5>
+
+<H6 id="LinkTarget_2557">8.2.5.14.1 Structure requirements</H6>
+
+<P>FENote effectively replaces the Note structure type specified in ISO 32000-1:2008, 14.8.4.4.1. The Note standard structure type shall not be present in conforming files.</P>
+
+<P>NOTE 1 This does not prohibit using a Note structure type in any other namespace if it is role mapped to an allowed structure type in the PDF 1.7 namespace or PDF 2.0 namespace.</P>
+
+<P>Real content that refers to footnotes or endnotes (real content enclosed in FENote structure elements) shall use the Ref entry as specified in 
+<Reference>
+<Link Alt="8.8">8.8</Link>
+</Reference>
+ on the referring structure element to reference the FENote. The corresponding FENote shall also use the Ref entry to identify all citations that reference it. If the reference to the footnote or endnote is interactive, it shall point to the footnote or endnote by means of a link annotation using a structure destination, as specified in ISO 32000-2:2020, 12.3.2.3.</P>
+
+<P>NOTE 2 FENote tightly couples its content to one or more locations in the structure tree.</P>
+
+<H6 id="LinkTarget_2561">8.2.5.14.2 FENote Attribute Owner</H6>
+
+<P>To facilitate disambiguation for the intent of specific FENote structure elements, a new attribute owner should be used as defined in 
+<Reference>
+<Link Alt="Table 1">Table 1</Link>
+</Reference>
+.</P>
+
+<Table>
+<Caption>
+<P>Table 1. FENote Attribute Owner</P>
+</Caption>
+
+<TR>
+<TH>
+<P>Owner value for the attribute object’s O entry</P>
+</TH>
+
+<TH>
+<P>Description</P>
+</TH>
+</TR>
+
+<TR>
+<TH>
+<P>FENote</P>
+</TH>
+
+<TD>
+<P>Attribute governing type of footnotes, endnotes and other types of FENote.</P>
+</TD>
+</TR>
+</Table>
+
+<P>If appropriate to the content, the attributes described in 
+<Reference>
+<Link Alt="Table 2">Table 2</Link>
+</Reference>
+ should appear on an FENote structure element. These attributes may be defined in attribute objects whose O entry has the value FENote.</P>
+
+<P>NOTE It is possible that a processor does not know the type of FENote, therefore an explicit NoteType cannot be required.</P>
+
+<Table>
+<Caption>
+<P>Table 2. Standard FENote attributes</P>
+</Caption>
+
+<TR>
+<TH>
+<P>Key</P>
+</TH>
+
+<TH>
+<P>Type</P>
+</TH>
+
+<TH>
+<P>Value</P>
+</TH>
+</TR>
+
+<TR>
+<TH>
+<P>NoteType</P>
+</TH>
+
+<TD>
+<P>name</P>
+</TD>
+
+<TD>
+<P>(Optional) The type of the FENote indicating a more specific semantic definition for the FENote. The value of the NoteType shall be one of the following and shall be applied as described here.</P>
+
+<P>Footnote A subtype indicating a footnote</P>
+
+<P>Endnote A subtype indicating an endnote</P>
+
+<P>None A subtype indicating that the type is not specified</P>
+
+<P>Default value: None</P>
+</TD>
+</TR>
+</Table>
+
+<H5 id="LinkTarget_2513">8.2.5.15 Subdivision (Sub)</H5>
+
+<P>Sub should be used to identify semantic subdivisions within a block-level element.</P>
+
+<H5 id="LinkTarget_2515">8.2.5.16 Label (Lbl)</H5>
+
+<P>Real content that labels other real content shall be enclosed within Lbl structure elements.</P>
+
+<P>EXAMPLE 1 — Footnotes are often labelled by a superscript number, letter, or symbol.</P>
+
+<P>NOTE 1 Artifact content can label real content. In such a case, a Lbl structure element is not appropriate.</P>
+
+<P>EXAMPLE 2 — Line numbers in legal documents or source code are usually artifacts, but, when quoted in other texts, line numbers can be real content (i.e. using Sub and Lbl structure elements to enclose the line and its line number).</P>
+
+<P>To strongly associate a label with the real content being labelled, the Lbl shall be a descendant of a structure element that semantically groups both the Lbl and the content being labelled. Labels and labelled content may be enclosed within an additional substructure.</P>
+
+<P>NOTE 2 The label is associated with the most immediate semantically significant ancestor element that groups both the label and the content being labelled.</P>
+
+<H5 id="LinkTarget_2522">8.2.5.17 Span</H5>
+
+<P>The Span structure type shall be used inline to apply attributes and properties to real content where all of the following are true:</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>no other semantically appropriate inline structure element fully encompasses only the relevant content;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>the properties and structure attributes do not apply to the parent structure element;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>the semantics are not otherwise conveyed via properties on marked content sequences.</LBody>
+</LI>
+</L>
+
+<P>EXAMPLE — In the middle of a paragraph, a word occurs in a different colour and the Span element is used to provide the appropriate layout attribute (colour).</P>
+
+<P>A Span structure element may be used anywhere it is permitted (see ISO/TS 32005).</P>
+
+<H5 id="LinkTarget_2487">8.2.5.18 Quote</H5>
+
+<P>The Quote structure type shall be used to identify inline-level content that is quoted from another source other than the surrounding content. For block-level quotations, see BlockQuote (
+<Reference>
+<Link Alt="8.2.5.7">8.2.5.7</Link>
+</Reference>
+).</P>
+
+<P>NOTE Content that has quotation marks around it is not necessarily considered a quote. For example, newspapers often use quotation marks to indicate non-factual or interpretive statements, which are not quotes.</P>
+
+<H5 id="LinkTarget_2489">8.2.5.19 Emphasis (Em) and Strong</H5>
+
+<P>The Em and Strong structure types are used to indicate emphasis and should not be used for other purposes.</P>
+
+<P>NOTE Styling is sometimes used to denote constructs in a document, for example, keywords. The Em and Strong structure types are not intended for such purposes.</P>
+
+<H5 id="LinkTarget_2492">8.2.5.20 Link and Reference</H5>
+
+<P>A link annotation (see 
+<Reference>
+<Link Alt="8.9.2.4.2">8.9.2.4.2</Link>
+</Reference>
+) and its associated content shall be enclosed in either a Link or Reference structure element. The Link structure type should be used for external links and the Reference structure type should be used for intra-document targets. Link annotations that target different locations shall be in separate Link or Reference structure elements.</P>
+
+<P>NOTE External vs intra-document linkage is a semantic concept and is not intended to describe the syntactic mechanism used to provide such a target. For example, a target that uses a URL to reference the file in which the link originates can be considered an internal target and included in a Reference structure element. See 
+<Reference>
+<Link Alt="8.8">8.8</Link>
+</Reference>
+ for additional requirements regarding intra-document destinations.</P>
+
+<P>EXAMPLE 1 — A bibliography entry including an ISBN or URN referencing external material can be linked using a Link structure element while a link to another page in the same document can be linked using a Reference structure element.</P>
+
+<P>Multiple link annotations shall be included in a single Link or Reference structure element if they target the same location and are semantically perceived to be a single link.</P>
+
+<P>EXAMPLE 2 — A URL that is split across two pages has at least two link annotations but is semantically perceived as the same link and tagged within a single Link structure element.</P>
+
+<P>EXAMPLE 3 — An authoring application can choose to produce two link annotations if content being linked is split across multiple lines and is tagged within a single Link or Reference structure element.</P>
+
+<P>The Reference structure type may be used for both interactive links using link annotations and may also be used for non-interactive content where a reference is present.</P>
+
+<P>EXAMPLE 4 — An example of a non-interactive reference is a callout to a table in a document from within a paragraph.</P>
+
+<P>When a Link or Reference structure element encloses content that requires a description, an Alt entry may be used to describe both the content and the link.</P>
+
+<P>EXAMPLE 5 — A Link structure element with an Alt entry enclosing a link annotation and a logo.</P>
+
+<H5 id="LinkTarget_2501">8.2.5.21 Annot</H5>
+
+<P>Use of the Annot structure type shall be in accordance with the requirements of 
+<Reference>
+<Link Alt="8.9">8.9</Link>
+</Reference>
+.</P>
+
+<H5 id="LinkTarget_2460">8.2.5.22 Form</H5>
+
+<P>Use of the Form structure type shall be in accordance with the requirements of 
+<Reference>
+<Link Alt="8.10">8.10</Link>
+</Reference>
+.</P>
+
+<H5 id="LinkTarget_2461">8.2.5.23 Ruby (Ruby, RB, RT, RP)</H5>
+
+<P>Ruby is often used to provide glosses or phonetic aids adjacent to the base text to which it applies. When ruby is used for this purpose, the Ruby structure element shall be used. The Ruby structure element shall contain a single RB structure element enclosing the annotated base text, and a single RT structure element enclosing the annotating ruby text.</P>
+
+<P>In cases where ruby typesetting is used for other purposes, the Ruby structure element shall not be used.</P>
+
+<P>NOTE 1 Interlinear notes typeset in a smaller ruby-like font can be tagged using the Aside structure element.</P>
+
+<P>The grouping of Ruby structure elements should be such that individual words or other semantically atomic units of content are not subdivided, even when a more granular pairing of ruby text to base text is available.</P>
+
+<P>NOTE 2 Ensuring that the grouping of Ruby structure elements respects semantic boundaries can be helpful to assistive technology.</P>
+
+<P>When a portion of the ruby annotation in a ruby pair would otherwise duplicate the base text, the overlapping characters are typically omitted from the ruby text. When tagging such content in a single Ruby structure element, ActualText shall be used on the RT sub-element to provide a complete textual replacement restoring all omitted characters.</P>
+
+<P>EXAMPLE 1 — A document contains the Japanese word “文書”, annotated with “ぶんしょ” as a phonetic gloss in ruby. The ruby assembly is tagged as:</P>
+
+<Code>
+<P>&lt;Ruby&gt;&lt;RB&gt;文書&lt;/RB&gt;&lt;RT&gt;ぶんしょ&lt;/RT&gt;&lt;/Ruby&gt;</P>
+</Code>
+
+<P>even though the readings of the individual characters “文” and “書” are “ぶん” and “しょ”, respectively.</P>
+
+<P>EXAMPLE 2 — A document contains the Japanese word “今日”, annotated with “きょう” as a ruby phonetic gloss. This ruby pair cannot be subdivided any further, and as such is tagged as:</P>
+
+<Code>
+<P>&lt;Ruby&gt;&lt;RB&gt;今日&lt;/RB&gt;&lt;RT&gt;きょう&lt;/RT&gt;&lt;/Ruby&gt;</P>
+</Code>
+
+<P>EXAMPLE 3 — When annotating the word “振り仮名” with its reading “ふりがな”, one would ordinarily put “ふ” adjacent to “振”, and “がな” adjacent to “仮名”. The “り” is typically not duplicated in the ruby text. When tagging this pair in a single Ruby structure element (e.g. to meet an accessibility need), it is rendered as:</P>
+
+<Code>
+<P>&lt;Ruby&gt;&lt;RB&gt;振り仮名&lt;/RB&gt;&lt;RT ActualText=&quot;ふりがな&quot;&gt;ふがな&quot;&gt;&lt;/RT&gt;&lt;/Ruby&gt;</P>
+</Code>
+
+<P>EXAMPLE 4 — A Japanese-language document contains the English name “International Organization for Standardization” annotated with “国際標準化 機構” as a native ruby gloss. Since the base text forms a single semantic unit, this ruby pair is tagged as:</P>
+
+<Code>
+<P>&lt;Ruby&gt;&lt;RB&gt;International Organization for Standardization&lt;/RB&gt;&lt;RT&gt;国際標準化機構 &lt;/RT&gt;&lt;/Ruby&gt;</P>
+</Code>
+
+<P>In some cases, phonetic glosses are rendered as parentheticals in running text, as an alternative to ruby text, but with the same semantics. In these cases, the Ruby structure element should be used. When used in this manner, the Ruby structure element shall consist of a four-element subsequence: RB, RP, RT, RP, with the content distributed as follows:</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>the RB element shall enclose the annotated portion of the base text;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>the first RP element shall enclose the opening delimiter of the annotation text;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>the RT element shall enclose the annotation text;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>the second RP element shall enclose the closing delimiter of the annotation text.</LBody>
+</LI>
+</L>
+
+<P>EXAMPLE 5 — Word-processing software without ruby support can annotate the word “振り仮名” as “振り仮名(ふりがな)”. This is tagged as:</P>
+
+<Code>
+<P>&lt;Ruby&gt;&lt;RB&gt;振り仮名&lt;/RB&gt;&lt;RP&gt;(&lt;/RP&gt;&lt;RT&gt;ふりがな&lt;/RT&gt;&lt;RP&gt;)&lt;/RP&gt;&lt;/Ruby&gt;.</P>
+</Code>
+
+<H5 id="LinkTarget_2412">8.2.5.24 Warichu (WT, WP)</H5>
+
+<P>Content typeset as warichu shall be tagged in a three-element sequence consisting of the structure elements WP, WT and WP, grouped inside a Warichu structure element. The first WP structure element shall enclose the opening delimiter separating the warichu content from the surrounding content. The main body of the warichu content shall be enclosed in a single WT structure element. The second WP structure element shall enclose the closing delimiter separating the warichu content from the surrounding content.</P>
+
+<P>The Warichu structure element shall not be used for content that is not typeset as warichu.</P>
+
+<P>NOTE Warichu notes are semantically similar to footnotes. Some authors use both note variants for different purposes.</P>
+
+<H5 id="LinkTarget_2416">8.2.5.25 List (L, LI, LBody)</H5>
+
+<P>If a list includes real content used as a label, such labels shall be enclosed within Lbl structure elements.</P>
+
+<P>If Lbl structure elements are present, the ListNumbering attribute (see Table B.5) shall be present on the respective L structure element and should have the value that most closely approximates the intended labelling scheme; in such cases the value None shall not be used.</P>
+
+<P>Any real content within an LI structure element that is not enclosed in a Lbl structure element shall be enclosed in an LBody structure element.</P>
+
+<P>If a list continues from a previous list, the ContinuedList attribute shall be present and have a value of true. If the previous list is present in the document the ContinuedFrom attribute shall be present.</P>
+
+<P>NOTE There is value to the ContinuedList attribute even when the previous list is not present, since it would help to explain the partial nature of the content, for example, partial numbering.</P>
+
+<P>If a list is continued in a subsequent list, or continues from a previous list, a Ref entry should be present and, if present, it shall reference all list segments.</P>
+
+<P>[Conformance level for reuse] — If a list is continued in a subsequent list, or continues from a previous list, a Ref entry shall be present.</P>
+
+<H5 id="LinkTarget_2383">8.2.5.26 Table (Table, TR, TH, TD, THead, TBody, TFoot)</H5>
+
+<P>Tables shall be regular.</P>
+
+<P>NOTE 1 Tables are regular when the number of logical cells is equal in each row after accounting for RowSpan and ColSpan attributes.</P>
+
+<P>Row groupings formed by THead, TBody and TFoot structure elements shall be regular.</P>
+
+<P>NOTE 2 Row groups are regular when the number of logical cells is equal in each row after accounting for RowSpan and ColSpan attributes and where cells do not span row groups.</P>
+
+<P>When a table contains header cells, that table shall provide sufficient semantic information to accurately determine which table header cells (structure element TH) pertain to other cells as specified in ISO 32000-2:2020, 14.8.5.7.</P>
+
+<P>NOTE 3 Some tables do not have headers.</P>
+
+<P>ISO 32000-2:2020, 14.8.4.8.3 describes an algorithm to determine header cells for a cell in the table. If the algorithm results in default values for Scope, as specified in ISO 32000-2:2020, 14.8.4.8.3, that are insufficient to describe the relationship between the header cell and other cells, then the Scope attribute shall be specified.</P>
+
+<P>If the algorithm results in a header cell with an implicit or explicit Scope that cannot describe the header/cell relationships for all the cells in the table, then the Headers attribute shall be present for all cells to which a header applies (see B.4).</P>
+
+<P>NOTE 4 This means that if the Headers attribute is used anywhere in the table, it is required for all cells in the table that have headers, regardless of whether Scope describes their relationships.</P>
+
+<P>NOTE 5 The use of Headers does not negate the need for Scope.</P>
+
+<P>As noted in ISO 32000-2:2020, Annex L, Table rows (TR) may include both TH and TD cells.</P>
+
+<P>NOTE 6 Tables can contain cells that are column headers, row headers and both column and row headers.</P>
+
+<P>Examples of table-specific attributes are provided in 
+<Reference>
+<Link Alt="B.4">B.4</Link>
+</Reference>
+.</P>
+
+<P>NOTE 7 End user reliance on assistive technology implies a need for as much information as possible about the structure of tables. Table header cells and their attributes play a key role in providing structural information.</P>
+
+<H5 id="LinkTarget_2397">8.2.5.27 Caption</H5>
+
+<P>All content that captions other content shall be enclosed within a Caption structure element.</P>
+
+<P>When present, the Caption element shall be a child of the structure element enclosing the content to which the caption pertains. When the caption is intended to be consumed before the content to which it pertains, it shall be the first child, but when it is intended to follow the content, it shall be the last child.</P>
+
+<H5 id="LinkTarget_2360">8.2.5.28 Figure</H5>
+
+<H6 id="LinkTarget_2361">8.2.5.28.1 Figure semantics</H6>
+
+<P>As Figure structure elements represent fixed-layout content intended to be consumed as a unit, a Figure structure element shall enclose all content used to generate the final appearance, including background content.</P>
+
+<P>A Figure may contain substructures to semantically describe the graphics objects that comprise the real content’s appearance.</P>
+
+<P>NOTE Graphics objects include text, vector paths, raster images and other objects as defined in ISO 32000-2:2020, 8.2.</P>
+
+<P>EXAMPLE 1 — An organization chart enclosed by a single Figure structure element that itself contains substructure to describe each subunit of the chart.</P>
+
+<P>EXAMPLE 2 — A background image intersecting an image which the author considers to be an intrinsic part of the figure is artifact content in this case.</P>
+
+<P>The presence of Figure structure elements implies additional requirements in accordance with 
+<Reference>
+<Link Alt="8.5">8.5</Link>
+</Reference>
+.</P>
+
+<H6 id="LinkTarget_2367">8.2.5.28.2 Figure properties</H6>
+
+<P>A Figure structure element should have at least one of the following properties:</P>
+
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>an alternate description (Alt property), as specified in ISO 32000-2:2020, 14.9.3;</LBody>
+</LI>
+
+<LI>
+<Lbl>b. </Lbl>
+
+<LBody>a replacement text (ActualText property) that represents the content enclosed by the Figure structure element.</LBody>
+</LI>
+</L>
+
+<P>[Conformance level for accessibility] — A Figure structure element shall have at least one of the above properties.</P>
+
+<P>Figure elements including an ActualText property, irrespective of the presence of an Alt property, shall be contained within the semantically appropriate block-level element.</P>
+
+<P>NOTE 1 Requirements for Figure structure elements including ActualText are provided in 
+<Reference>
+<Link Alt="8.5.2">8.5.2</Link>
+</Reference>
+.</P>
+
+<P>NOTE 2 WCAG 2.2
+<Reference>
+<Link Alt="[5]">[5]</Link>
+</Reference>
+, also has requirements for alternative descriptions.</P>
+
+<H5 id="LinkTarget_2375">8.2.5.29 Formula</H5>
+
+<H6 id="LinkTarget_2376">8.2.5.29.1 Mathematical expressions</H6>
+
+<P>Mathematical expressions shall be represented using either structure types defined in presentation MathML, as specified in ISO 32000-2:2020, 14.8.6.3, or as presentation MathML via the Associated Files mechanism specified in ISO 32000-2:2020, 14.13.6, or both.</P>
+
+<P>NOTE 1 It is often easier for authors to represent mathematical expressions with MathML via an Associated File, which is why this document supports using both structure elements and Associated Files to represent math.</P>
+
+<P>The math structure type, as defined in ISO 32000-2:2020, 14.8.6.3, shall occur only as a child of a Formula structure element. When an associated file is used to provide a representation of a Formula in presentation MathML, it shall be associated with the respective Formula structure element and shall include an AFRelationship entry with the value of Supplement.</P>
+
+<P>NOTE 2 In general, MathML can represent the same formula in different ways.</P>
+
+<P>EXAMPLE — Using the MathML namespace to tag the mathematics in <Figure Alt=" cube root of x ">
+
+<ImageData src="images/Well-Tagged-PDF-WTPDF-1.0_img_1.jpg"/>
+ </Figure>
+, the 3 is tagged with MathML’s mn element, the x is tagged with mi, and the entire root is tagged with mroot. Fully tagging every element greatly simplifies the processor’s burden to synchronize the highlighting of speech and text.</P>
+
+<P>NOTE 3 Using MathML to represent mathematical expressions allows a processor to:</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>speak the expression customized to a user’s needs;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>navigate the expression so that larger expressions can be more easily understood;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>convert the expression to a mathematical braille code;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>synchronize speech and highlighting of text;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>perform computations based on mathematical formulae;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>export the equation to MathML and other formats.</LBody>
+</LI>
+</L>
+
+<H6 id="LinkTarget_2329">8.2.5.29.2 Non-mathematical scientific formulae</H6>
+
+<P>Non-mathematical scientific formulae shall be enclosed within Formula structure elements and should have either an Alt entry or an ActualText entry in its structure element dictionary. Such formulae should be represented using either structure types defined in an appropriate namespace or via the Associated Files (ISO 32000-2:2020, 14.13.5) mechanism, or both.</P>
+
+<P>[Conformance level for accessibility] — The Formula structure element shall have either an Alt or ActualText entry.</P>
+
+<P>EXAMPLE — A chemical formula, such as 2Na + 2 H20 → H2 + 2NaOH.</P>
+
+<H5 id="LinkTarget_2332">8.2.5.30 Index</H5>
+
+<P>The Index structure type shall be used to group the content, and the sub-structure representing the full semantics for that content, which is intended to be consumed as an index. A document may include multiple indexes representing different types of index, in which case, each index shall be tagged as a separate index. For each index, there should be a single Index structure element enclosing all content and sub-structure comprising that content.</P>
+
+<P>Within a single index item, the Reference structure element should enclose the content and any interactive link that targets a location for the topic within the document. When an index item refers to multiple different locations within the document, each reference should be enclosed in a separate Reference structure element.</P>
+
+<P>EXAMPLE — If an index is an ordered list of alphabetically ordered references, then that list is structured with an L structure element within an Index structure element, the ordering is specified explicitly in the ListNumbering attribute and in the LBody structure elements, Reference structure elements are used to specify the internal references.</P>
+
+<P>For each Reference structure element indicating a range of content within an Index structure element, there should be a corresponding Ref entry within it identifying each structure element enclosing that referenced content.</P>
+
+<H5 id="LinkTarget_2294">8.2.5.31 Bibliographic entry (BibEntry)</H5>
+
+<P>Content within a document that represents a bibliography entry shall be enclosed in a BibEntry structure element. For such bibliography entries, there should be a Ref entry in their respective structure element dictionaries that identifies all the places (if any) within the document that refer to that specific entry.</P>
+
+<P>For a section of the document that is intended to be a bibliography, an ARIA (Accessible Internet Rich Applications) attribute (see 
+<Reference>
+<Link Alt="8.2.6.4">8.2.6.4</Link>
+</Reference>
+), in accordance with WAI-ARIA Module 1.0 shall be provided for the corresponding Sect structure element, indicating that the section type is doc‑bibliography.</P>
+
+<P>EXAMPLE — A use of ARIA roles to identify a section intended to be consumed as a bibliography.</P>
+
+<Code>
+<P>3 0 obj     % Structure element for /Sect</P>
+
+<P>&lt;&lt;</P>
+
+<P>  /Type /StructElem</P>
+
+<P>  /S /Sect  % Structure type</P>
+
+<P>  /A &lt;&lt;</P>
+
+<P>    /O /ARIA-1.1   % ARIA attribute owner</P>
+
+<P>    /role /doc-bibliography % DPUB role &quot;doc-bibliography&quot;</P>
+
+<P>  &gt;&gt;</P>
+
+<P>  /NS …     % Indirect reference to the PDF 2.0 namespace</P>
+
+<P>  /P …      % Parent in structure hierarchy</P>
+
+<P>  /K …      % Kids in the structure hierarchy</P>
+
+<P>&gt;&gt;</P>
+
+<P>endobj</P>
+</Code>
+
+<H5 id="LinkTarget_2310">8.2.5.32 Code</H5>
+
+<P>For content within a document that represents a fragment of computer code, that content shall be enclosed in a Code structure element.</P>
+
+<P>NOTE The author determines what is considered as code.</P>
+
+<P>EXAMPLE — An author can consider an ASN.1 type definition to be code.</P>
+
+<P>Where the content of the Code structure element is intended to be consumed as text, a textual representation of that code shall be present. A Code structure element may have an Alt property describing the code.</P>
+
+<H5 id="LinkTarget_2315">8.2.5.33 Artifact</H5>
+
+<P>Use of the Artifact structure type shall conform with the requirements in 
+<Reference>
+<Link Alt="8.3">8.3</Link>
+</Reference>
+.</P>
+
+<H4 id="LinkTarget_2316">8.2.6 Structure attributes</H4>
+
+<H5 id="LinkTarget_2317">8.2.6.1 General</H5>
+
+<P>All structure attributes defined in ISO 32000-2:2020, 14.7.6, along with their attribute owners as defined in ISO 32000-2:2020, 14.8.5.2, and in 
+<Reference>
+<Link Alt="8.2.5.14.2">8.2.5.14.2</Link>
+</Reference>
+, may be present in a PDF file that conforms to this document. These attributes may be used as appropriate on all elements, regardless of namespace. Custom attribute owners and/or namespaces may be used.</P>
+
+<P>NOTE ISO 32000-2 adds new attributes and new attribute values.</P>
+
+<H5 id="LinkTarget_2274">8.2.6.2 Layout</H5>
+
+<P>Given that layout (position, colour, etc.) is not encoded into PDF content streams in a way that strongly associates stylistic properties with content, structure elements shall include layout attributes in accordance with ISO 32000-2:2020, 14.8.5.4 to fully convey the semantics of a given use of colour, contrast, format or layout as necessary, to reflect all intended meaning in a manner that addresses the broadest-possible range of consuming technologies.</P>
+
+<P>NOTE 1 This document does not intend to require complete descriptions of page layouts. However, layout information can help to provide assistive technology users with information about the material they are reading.</P>
+
+<P>Attributes shall be present when the relevant semantic property is present in the content, has semantic significance and differs from any default or inherited value. Any attribute may be present to the extent that the property exists in the content. An attribute should not be present if the property does not exist in the content.</P>
+
+<P>NOTE 2 Annex B provides examples of semantic significance for the various attribute types. Where semantic significance is marginal or unlikely, no examples are provided.</P>
+
+<H5 id="LinkTarget_2279">8.2.6.3 Table, List, PrintField, Artifact</H5>
+
+<P>Standard structure types to which Table (
+<Reference>
+<Link Alt="8.2.5.26">8.2.5.26</Link>
+</Reference>
+), List (
+<Reference>
+<Link Alt="8.2.5.25">8.2.5.25</Link>
+</Reference>
+), PrintField (
+<Reference>
+<Link Alt="8.10.4">8.10.4</Link>
+</Reference>
+) and Artifact (
+<Reference>
+<Link Alt="8.3.1">8.3.1</Link>
+</Reference>
+) attributes apply shall use their respective attributes.</P>
+
+<P>NOTE 
+<Reference>
+<Link Alt="Annex B">Annex B</Link>
+</Reference>
+ provides information on considering the semantic relevance of attributes.</P>
+
+<H5 id="LinkTarget_2280">8.2.6.4 ARIA</H5>
+
+<P>ARIA has utility in PDF by providing a set of roles which extend the semantic structures defined in HTML and PDF. In PDF, ARIA roles serve at least two purposes:</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>expanding the semantics of a given structure element (e.g. identify content enclosed in an FENote structure element as a footnote or endnote);</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>providing semantics for non-semantic elements (e.g. identify that a Div structure element encloses a complex infographic).</LBody>
+</LI>
+</L>
+
+<P>The ARIA‑1.1 attribute owner, introduced in ISO 32000-2:2020, 14.8.5.2, may be used to include ARIA (version 1.1) attributes on any structure element. ARIA attributes shall be semantically appropriate for the use cases defined in the WAI-ARIA Module 1.0.</P>
+
+<P>ARIA (version 1.1) and DPUB-ARIA roles, if present, shall use the ARIA‑1.1 attribute owner. When a role is specified, it shall not contradict the semantic intent of the structure element to which it applies.</P>
+
+<P>EXAMPLE — The following code represents a possible use of ARIA roles to extend the semantics of the Part structure type to identify it as a glossary.</P>
+
+<Code>
+<P>3 0 obj          % Structure element</P>
+
+<P>&lt;&lt;</P>
+
+<P>  /Type /StructElem</P>
+
+<P>  /S /Part       % Structure type</P>
+
+<P>  /A &lt;&lt;</P>
+
+<P>    /O /ARIA-1.1 % ARIA attribute owner</P>
+
+<P>    /role /doc-glossary % Digital Publishing role &quot;doc-glossary&quot;</P>
+
+<P>  &gt;&gt;</P>
+
+<P>  /NS 7 0 R      % Indirect reference to the PDF 2.0 namespace</P>
+
+<P>  /P …           % Parent in structure hierarchy</P>
+
+<P>  /K …           % Kids in the structure hierarchy</P>
+
+<P>&gt;&gt;</P>
+
+<P>endobj</P>
+
+<P>7 0 obj          % Namespace dictionary</P>
+
+<P>&lt;&lt;</P>
+
+<P>  /Type /Namespace</P>
+
+<P>  /NS (http://iso.org/pdf2/ssn) % PDF 2.0 namespace identifier</P>
+
+<P>&gt;&gt;</P>
+
+<P>endobj</P>
+</Code>
+
+<P>ARIA offers other attributes beyond role, including those which can define the state and properties of a given structure element. States and properties may be used, but do not impact rendering of the PDF, nor its interactive features.</P>
+
+<P>NOTE PDF does not have a live Document Object Model (DOM) in the way that HTML does. There is limited interaction within PDF, and PDF processors do not expect structure element attributes to dynamically change within the document. There is no means by which JavaScript can directly control the attributes on a structure element, which limits author control of these attributes to what is specified within the file.</P>
+
+<H3 id="LinkTarget_2266">8.3 Artifacts</H3>
+
+<H4 id="LinkTarget_2267">8.3.1 General</H4>
+
+<P>Any content, except Annotations (see 
+<Reference>
+<Link Alt="8.9">8.9</Link>
+</Reference>
+), that is not real content as specified in ISO 32000-2:2020, 14.8.2.2 shall be explicitly identified using one of the two methods defined in ISO 32000-2:2020, 14.8.2.2.2.</P>
+
+<P>NOTE 1 Rather than allow this identification to be implied by the content’s absence from the structure tree, this requirement strengthens the recommendation to explicitly identify artifacts in ISO 32000-2:2020, 14.8.2.2.</P>
+
+<P>Where an artifact property list entry, as defined in ISO 32000-2:2020, 14.8.2.2.2, is semantically appropriate for an artifact defined solely using a marked content sequence, they shall be present. Where artifact attributes, as defined in ISO 32000-2:2020, 14.8.5.8, are semantically appropriate for an Artifact structure element, they shall be present.</P>
+
+<P>NOTE 2 An artifact defined without an Artifact structure element uses property list entries associated with the marked content sequence. An artifact defined with an Artifact structure element uses structure attributes, not property list entries.</P>
+
+<H4 id="LinkTarget_2233">8.3.2 Use of the Artifact structure element</H4>
+
+<P>Where an artifact is only meaningful in the context of content in the structure tree, it shall be enclosed in an Artifact structure element.</P>
+
+<P>NOTE The Artifact structure type is useful, for example, in the case of page content that is not intended for inline reading. One such case is a legal document in which each line is numbered for reference purposes. In this case, a Sub structure element in accordance with ISO 32000-2:2020, 14.8.4.6 can enclose each line within a P (paragraph) structure element. Within each Sub, the use of an Artifact structure element to enclose the line-number serves to distinguish the line-number for reading purposes while retaining the context for reference purposes. Use of an Lbl structure element in this case (as implied in ISO 32000-2:2020, 14.8.4.6) is inappropriate because the line-numbers (a mechanical artifact, akin to pagination) would thereby be included in the document content.</P>
+
+<H3 id="LinkTarget_2236">8.4 Text representation for content</H3>
+
+<H4 id="LinkTarget_2237">8.4.1 General</H4>
+
+<P>Conformity with this document requires that text content be programmatically determinable.</P>
+
+<H4 id="LinkTarget_2239">8.4.2 Unicode mapping in tagged PDF</H4>
+
+<P>As no pre-defined meaning is associated with Unicode Private Use Area (PUA) values, such values in content streams shall be used only if no other valid Unicode value is available.</P>
+
+<P>NOTE The preceding paragraph differs from ISO 32000-2:2020 only in that use of the Unicode PUA when published meanings are available is directly contrary to the general requirements specified in this document.</P>
+
+<H4 id="LinkTarget_2242">8.4.3 Replacements and alternatives for text</H4>
+
+<P>ActualText shall be used when it is necessary to convey an alternative set of Unicode codepoints than what is generated by a processor based on ISO 32000-2:2020, 9.10.</P>
+
+<P>For content mapped to a code or codes in the Unicode PUA, an ActualText entry as specified in ISO 32000-2:2020, 14.9.4 should be present for this character or for the sequence of characters of which such character is a part. In all cases, where real content maps to Unicode PUA values, an ActualText or Alt entry should be present.</P>
+
+<P>[Conformance level for accessibility] — In all cases, where real content maps to Unicode PUA values, an ActualText or Alt entry shall be present.</P>
+
+<P>NOTE ActualText and Alt entries cannot use the Unicode PUA (see 
+<Reference>
+<Link Alt="8.6">8.6</Link>
+</Reference>
+).</P>
+
+<H4 id="LinkTarget_2219">8.4.4 Declaring natural language</H4>
+
+<P>The language of all content and text strings shall be specified.</P>
+
+<P>NOTE 1 Where a file includes Unicode text strings with two or more languages requiring three-letter language codes, it is possible that the language of some text is not representable.</P>
+
+<P>The default natural language for content and text strings shall be specified using the Lang entry, with a non-empty value, in the document catalog dictionary.</P>
+
+<P>Changes in the natural language shall be declared using the methods described in ISO 32000-2:2020, 14.9.2. Changes in natural language inside text strings (e.g. inside alternate descriptions) shall be declared using a language identifier as described in ISO 32000-2:2020, 7.9.2.2.</P>
+
+<P>When specifying language using one of the methods above, a Lang entry shall resolve to a specific language.</P>
+
+<P>NOTE 2 The declaration of natural language in the document catalog dictionary does not imply a primary language for the document. It is the responsibility of processors to consider how documents containing multiple languages are represented to end users to avoid the perception that the Lang entry in the document catalog dictionary represents a primary or otherwise dominant language.</P>
+
+<H4 id="LinkTarget_2226">8.4.5 Fonts</H4>
+
+<H5 id="LinkTarget_2227">8.4.5.1 General</H5>
+
+<P>The intent of the requirements in 
+<Reference>
+<Link Alt="8.4.5.1">8.4.5.1</Link>
+</Reference>
+ to 
+<Reference>
+<Link Alt="8.4.5.7">8.4.5.7</Link>
+</Reference>
+ is to ensure that the future rendering of the textual content of a conforming file matches, on a glyph-by-glyph basis, the static appearance of the file as originally created and, when possible, to allow the recovery of semantic properties for each character of the textual content. Unless a requirement specifically states that it shall only apply to text rendered by a conforming processor, it shall apply to any font including those used exclusively with text rendering mode 3.</P>
+
+<P>NOTE A font referenced solely in text rendering mode 3 (ISO 32000-2:2020, 9.3.6) is not rendered and is thus exempt from the requirements that impact the visual representation of the glyphs of a font.</P>
+
+<H5 id="LinkTarget_2229">8.4.5.2 Font types</H5>
+
+<P>All fonts and font programs used in a conforming file, regardless of rendering mode usage, shall conform to the requirements specified in ISO 32000-2:2020, 9.6 and 9.7, as well as to the font specifications referenced by these requirements.</P>
+
+<P>NOTE This document does not prescribe how such conformance is determined.</P>
+
+<P>Multiple master fonts shall be considered a special case of Type 1 fonts. Any requirement regarding Type 1 fonts shall also be required for multiple master fonts.</P>
+
+<H5 id="LinkTarget_2196">8.4.5.3 Composite fonts</H5>
+
+<H6 id="LinkTarget_2197">8.4.5.3.1 General</H6>
+
+<P>For any given composite (Type 0) font within a conforming file, the CIDSystemInfo entry in its CIDFont dictionary and its Encoding dictionary shall have the following relationship:</P>
+
+<L>
+<LI>
+<Lbl>a.	</Lbl>
+
+<LBody>If the Encoding key in the Type 0 font dictionary has a value of Identity-H or Identity-V, then any values Registry, Ordering, and Supplement keys may be used in the CIDSystemInfo dictionary of the CIDFont.</LBody>
+</LI>
+
+<LI>
+<Lbl>b.	</Lbl>
+
+<LBody>Otherwise, the corresponding values of the Registry and Ordering keys in both CIDSystemInfo dictionaries shall be identical, and the value of the Supplement key in the CIDSystemInfo dictionary of the CIDFont shall be greater than or equal to the value of the Supplement key in the CIDSystemInfo dictionary of the CMap.</LBody>
+</LI>
+</L>
+
+<P>NOTE The requirement for the Supplement key ensures that the font includes glyphs for all CIDs (Character Identifiers) which can be referenced by the CMap.</P>
+
+<H6 id="LinkTarget_2202">8.4.5.3.2 CIDFonts</H6>
+
+<P>All embedded Type 2 CIDFonts in the CIDFont dictionary shall contain a CIDToGIDMap entry that shall be a stream mapping from CIDs to glyph indices or the name Identity, as described in ISO 32000-2:2020, Table 115.</P>
+
+<H5 id="LinkTarget_2204">8.4.5.4 CMaps</H5>
+
+<P>All CMaps used within a file that conforms to this document, except those listed in ISO 32000-2:2020, Table 116, shall be embedded in that file, as described in ISO 32000-2:2020, 9.7.5. For those CMaps that are embedded, the integer value of the WMode entry in the CMap dictionary shall be identical to the WMode value in the embedded CMap stream.</P>
+
+<P>A CMap shall not reference any other CMap except those listed in ISO 32000-2:2020, Table 116.</P>
+
+<H5 id="LinkTarget_2207">8.4.5.5 Embedding</H5>
+
+<H6 id="LinkTarget_2208">8.4.5.5.1 General</H6>
+
+<P>The font programs for all fonts used for rendering within a conforming file, as determined by whether at least one of its glyphs is referenced from one or more content streams, shall be embedded within that file, as defined in ISO 32000-2:2020, 9.9.</P>
+
+<P>NOTE 1 Embedding the font programs allows any conforming processor to correctly reproduce all glyphs in the way they were originally published without reference to external resources.</P>
+
+<P>NOTE 2 As discussed in ISO 32000-2:2020, 9.3.6, text rendering mode 3 specifies that glyphs are not stroked, filled, or used as a clipping boundary. A font referenced for use solely in this mode is therefore not rendered and is thus exempt from the embedding requirement.</P>
+
+<P>Only font programs that are legally embeddable in a file for unlimited, universal rendering shall be used.</P>
+
+<P>NOTE 3 This document precludes the embedding of font programs whose legality depends upon special agreement with the copyright holder. This requirement can create an unacceptable burden to verify the existence, validity, and longevity of such claims.</P>
+
+<P>Embedded fonts shall define all glyphs referenced for rendering within the conforming file.</P>
+
+<P>NOTE 4 As stated in 
+<Reference>
+<Link Alt="8.4.5.5.2">8.4.5.5.2</Link>
+</Reference>
+, subsets of a font are acceptable if the embedded font provides glyph definitions for all characters referenced within the file.</P>
+
+<H6 id="LinkTarget_2182">8.4.5.5.2 Subset embedding</H6>
+
+<P>Conforming files may include embedded subsets of font programs in accordance with ISO 32000-2:2020, 9.6 and 9.7.</P>
+
+<P>NOTE The use of subsets of a font and its associated font program allows a potentially substantial reduction in the size of conforming files.</P>
+
+<H5 id="LinkTarget_2185">8.4.5.6 Font metrics</H5>
+
+<P>For every font embedded in a conforming file and referenced for rendering, the glyph width information in the font dictionary and in the embedded font program shall be consistent for every glyph. Glyphs that are referenced only with rendering mode 3 are exempt from this requirement.</P>
+
+<P>If a composite (Type 0) font is used for rendering in vertical writing mode as specified in ISO 32000-2:2020, 9.7.4.3 and if the associated embedded font program contains information about vertical metrics of the glyphs, this information shall be consistent with the values of the DW2 and W2 keys in the font descriptor dictionary.</P>
+
+<P>For this document, consistent is defined to be a difference of no more than 1/1000 unit in text space, consistent with ISO 32000-2:2020, 9.2.4.</P>
+
+<P>NOTE Conformance with this subclause ensures predictable font rendering, regardless of whether a given processor uses the metrics in the font dictionary or those in the font program.</P>
+
+<H5 id="LinkTarget_2190">8.4.5.7 Character encodings</H5>
+
+<P>For all non-symbolic TrueType fonts used for rendering, the embedded TrueType font program shall contain at least the Microsoft Unicode (3, 1 – Platform ID = 3, Encoding ID = 1), or the Macintosh Roman (1, 0 – Platform ID = 1, Encoding ID = 0) “cmap” subtable.</P>
+
+<P>NOTE Conformance with this requirement ensures that all necessary glyph lookups can be carried out.</P>
+
+<P>All non-symbolic TrueType fonts shall have either MacRomanEncoding or WinAnsiEncoding as the value for the Encoding key in the Font dictionary, or as the value for the BaseEncoding key in the dictionary that is the value of the Encoding key in the Font dictionary.</P>
+
+<P>In addition, all non-symbolic TrueType fonts shall not define a Differences array unless all the glyph names in the Differences array are listed in the Adobe Glyph List and the embedded font program contains at least the Microsoft Unicode (3, 1 – Platform ID = 3, Encoding ID = 1) encoding in the “cmap” subtable.</P>
+
+<P>Symbolic TrueType fonts shall not contain an Encoding entry in the font dictionary. The “cmap” subtable in the embedded font program shall either contain the Microsoft Symbol (3, 0 – Platform ID = 3, Encoding ID = 0) or the Mac Roman (1, 0 – Platform ID = 1, Encoding ID = 1) encoding.</P>
+
+<P>In all cases for TrueType fonts that are to be rendered, character codes shall be able to be mapped to glyphs in accordance with ISO 32000-2:2020, 9.6.5, without the use of a non-standard mapping chosen by the conforming processor.</P>
+
+<H5 id="LinkTarget_2153">8.4.5.8 Unicode character maps</H5>
+
+<P>The font dictionary of all fonts, regardless of their rendering mode usage, shall include a ToUnicode entry whose value is a CMap stream object that maps character codes for at least all referenced glyphs to Unicode values, as described in ISO 32000-2:2020, 9.10.3, unless the font meets at least one of the following four conditions:</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>it uses the predefined encodings MacRomanEncoding, MacExpertEncoding or WinAnsiEncoding, as defined in ISO 32000-2:2020, Annex D;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>it is a Type 1 or Type 3 font where the glyph names of the glyphs referenced are all contained in the Adobe Glyph List, or the set of named characters in the Symbol font, as defined in ISO 32000-2:2020, Annex D;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>it is a Type 0 font whose descendant CIDFont uses the Adobe-GB1, Adobe-CNS1, Adobe-Japan1 or Adobe-KR-9 character collections;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>it is a non-symbolic TrueType font.</LBody>
+</LI>
+</L>
+
+<P>NOTE Unicode mapping allows the retrieval of semantic properties regarding every character referenced in the file.</P>
+
+<P>If a ToUnicode CMap is present, the Unicode values it specifies shall all be greater than zero (0), but not equal to either U+FEFF or U+FFFE.</P>
+
+<H5 id="LinkTarget_2161">8.4.5.9 Use of .notdef glyph</H5>
+
+<P>A file in conformance with this document shall not contain a reference to the .notdef glyph as defined in ISO 32000-2:2020, 9.7.6.3, from any of the text showing operators, regardless of text rendering mode, in any content stream.</P>
+
+<P>NOTE Since the .notdef glyph does not have any semantic value, this requirement is present to avoid any ambiguity which can result from its use.</P>
+
+<H3 id="LinkTarget_2164">8.5 Real content without textual semantics</H3>
+
+<H4 id="LinkTarget_2165">8.5.1 General</H4>
+
+<P>Real content that does not possess the semantics of text objects and does not have an alternate textual representation shall be enclosed within Figure structure elements in accordance with ISO 32000-2:2020, 14.8.4.8.5, or Formula structure elements in accordance with ISO 32000-2:2020, 14.8.4.8.6, as appropriate.</P>
+
+<P>NOTE Although encoded as text, ASCII art typically possesses semantics appropriate to the Figure structure type. Likewise, although encoded (to take one possible example) as non-textual objects, in a conforming file, a set of paths can possess the semantics appropriate to structure elements typically used for text, so long as they include appropriate Alt and/or ActualText attributes.</P>
+
+<H4 id="LinkTarget_2128">8.5.2 Use of ActualText</H4>
+
+<P>When real content is intended to be consumed as text, but is not present as text objects, and is therefore not inherently interpretable as text by a PDF processor, an ActualText property as specified in ISO 32000-2:2020, 14.9.4 shall be provided.</P>
+
+<P>Structure elements that include an ActualText property shall be, or shall be enclosed within, a semantically appropriate structure element.</P>
+
+<P>NOTE The definition of ActualText in ISO 32000-2:2020, Table 355 changed from the definition in ISO 32000-1:2008, Table 323.</P>
+
+<P>EXAMPLE — It is common for text to be represented from native PDF vector drawing operations, i.e. without text objects.</P>
+
+<H3 id="LinkTarget_2133">8.6 Text string objects</H3>
+
+<P>Text strings (see ISO 32000-2:2020, 7.9.2.2) intended to be human readable shall not use the Unicode PUA.</P>
+
+<P>NOTE Text string type is a subtype of string type and represents data encoded using specific conventions. It is not used for content within content streams.</P>
+
+<P>EXAMPLE — Bookmarks (outlines) are an example of a user-facing text string.</P>
+
+<H3 id="LinkTarget_2137">8.7 Optional content</H3>
+
+<P>[Conformance level for accessibility] — The requirements defined in this subclause shall only apply to the conformance level for accessibility.</P>
+
+<P>All optional content configuration dictionaries in the file, including the default optional content configuration dictionary, shall contain a Name entry (see ISO 32000-2:2020, Table 96) whose value is a non-empty text string when:</P>
+
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>a file contains a Configs entry in the OCProperties entry of the document catalog dictionary (see ISO 32000-2:2020, Table 29), and</LBody>
+</LI>
+
+<LI>
+<Lbl>b. </Lbl>
+
+<LBody>the Configs entry contains at least one optional content configuration dictionary.</LBody>
+</LI>
+</L>
+
+<P>The AS key shall not appear in any optional content configuration dictionary.</P>
+
+<P>NOTE 1 This prevents the automatic adjustment of states based on usage information (see ISO 32000-2:2020, 8.11.4.5).</P>
+
+<P>NOTE 2 The requirements of 
+<Reference>
+<Link Alt="8.4.5">8.4.5</Link>
+</Reference>
+ apply for all fonts used in all optional content, even where a particular exchange does not result in some optional content being rendered.</P>
+
+<H3 id="LinkTarget_2146">8.8 Intra-document destinations</H3>
+
+<P>All destinations (see ISO 32000-2:2020, 12.3.2) whose target lies within the same document shall be structure destinations (see ISO 32000-2:2020, 12.3.2.3).</P>
+
+<P>NOTE 1 This requirement applies to link annotations providing intra-document navigation.</P>
+
+<P>Where content actionably points to other content, such as links occurring in the context of captions, tables of contents, cross references, hyperlinks, or other links within a document, such content shall use one or both of the following mechanisms:</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>point to the other content by means of a link annotation using a Structure Destination (see ISO 32000-2:2020, 12.3.2.3);</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>use the Ref entry (see ISO 32000-2:2020, Table 355) on the source structure element to reference the target structure element.</LBody>
+</LI>
+</L>
+
+<P>NOTE 2 Consuming software can choose to provide various navigation features leveraging the Ref entry to possibly provide richer navigation options than are available with link annotations alone.</P>
+
+<P>NOTE 3 Footnotes and endnotes have specific requirements pertaining to the Ref entry (see 
+<Reference>
+<Link Alt="8.2.5.14">8.2.5.14</Link>
+</Reference>
+).</P>
+
+<H3 id="LinkTarget_2099">8.9 Annotations</H3>
+
+<H4 id="LinkTarget_2100">8.9.1 General</H4>
+
+<P>Annotations serve multiple purposes within PDF files, including (but not limited to):</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>supporting document workflows, including review, approval and redaction;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>support for multimedia in PDF, including video, sound and 3D;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>support for interactive elements such as links and forms.</LBody>
+</LI>
+</L>
+
+<P>These distinct purposes mean that requirements vary for different annotation types and even potentially depending on the specific use of a given annotation type. This clause identifies requirements for each of these purposes except for forms (see 
+<Reference>
+<Link Alt="8.10">8.10</Link>
+</Reference>
+).</P>
+
+<P>Annotation types deprecated in ISO 32000-2 shall not be present.</P>
+
+<P>Annotations whose subtypes are not defined in ISO 32000-2 may be present and shall be in conformity with all requirements in 
+<Reference>
+<Link Alt="8.9">8.9</Link>
+</Reference>
+.</P>
+
+<H4 id="LinkTarget_2109">8.9.2 Semantics and content</H4>
+
+<H5 id="LinkTarget_2110">8.9.2.1 General</H5>
+
+<P>This clause describes semantic requirements for all annotation types defined in ISO 32000-2.</P>
+
+<P>Annotations (see ISO 32000-2:2020, 12.5) shall be included in the structure tree unless explicitly excluded by the following subclauses.</P>
+
+<P>When included in the structure tree, annotations shall use the most semantically appropriate structure type in accordance with 
+<Reference>
+<Link Alt="8.2.2">8.2.2</Link>
+</Reference>
+.</P>
+
+<P>The semantics of annotation types shall be defined by the enclosing parent structure element, or, where no semantically appropriate element exists, a respective Annot structure element.</P>
+
+<P>NOTE 1 ISO 32000-2 permits use of the Annot structure type for all annotation types except Widget and Link, but Annot is not required for annotations.</P>
+
+<P>The use of the Annot structure type does not itself imply any specific type of annotation.</P>
+
+<P>NOTE 2 A single Annot structure element can enclose multiple annotation objects (see ISO 32000-2:2020, Table 368) when they are intended to be perceived as a single object. See 
+<Reference>
+<Link Alt="8.9.4">8.9.4</Link>
+</Reference>
+ for requirements related to alternate descriptions in this context.</P>
+
+<P>EXAMPLE — A set of markup annotation objects, such as strikeout, caret and highlight, can represent a single intent.</P>
+
+<P>NOTE 3 Annotation objects cannot occur multiple times in the structure tree (see ISO 32000-2:2020, Table 166) because only one StructParent is allowed.</P>
+
+<P>ISO 32000-2 enables substructure within annotation appearance streams via marked content references. Files in conformity with this document shall not use marked content references to substructure annotation appearance streams (see ISO 32000-2:2020, Table 357).</P>
+
+<P>NOTE 4 The effect of the above clause is to require that annotations are included as whole objects in a single structure element.</P>
+
+<P>The following subclauses specify additional requirements specific to both classes of annotations and individual annotation types.</P>
+
+<H5 id="LinkTarget_2034">8.9.2.2 Annotations as artifacts</H5>
+
+<P>Any annotation, regardless of its type, may be an artifact (see 
+<Reference>
+<Link Alt="8.3">8.3</Link>
+</Reference>
+). Annotations that are artifacts shall either not be present in the structure tree or shall be enclosed within Artifact structure elements.</P>
+
+<P>In addition, annotations meeting either of the following criteria shall be artifacts:</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>The Invisible flag is set in accordance with ISO 32000-2:2020, Table 167;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>The NoView flag is set and the ToggleNoView flag is not set, in accordance with ISO 32000-2:2020, Table 167.</LBody>
+</LI>
+</L>
+
+<P>NOTE The Hidden flag defined in ISO 32000-2, Table 167 does not imply that the annotation is always an artifact, as that flag often changes during the user’s workflow, for example with Widget annotations.</P>
+
+<H5 id="LinkTarget_2041">8.9.2.3 Markup annotations</H5>
+
+<P>Markup annotations defined in ISO 32000-2:2020, 12.5.6.2 and ISO 32000-2:2020, Table 171 include the following annotation types:</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>Text (also known as sticky notes) (defined in ISO 32000-2:2020, 12.5.6.4)</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>Free text (defined in ISO 32000-2:2020, 12.5.6.6)</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>Line (defined in ISO 32000-2:2020, 12.5.6.7)</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>Square and circle (defined in ISO 32000-2:2020, 12.5.6.8)</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>Polygon and polyline (defined in ISO 32000-2:2020, 12.5.6.9)</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>Text markup (Highlight, Underline, Squiggly-underline, Strikeout) (defined in ISO 32000-2:2020, 12.5.6.10)</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>Caret (defined in ISO 32000-2:2020, 12.5.6.11)</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>Rubber stamp (defined in ISO 32000-2:2020, 12.5.6.12)</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>Ink (defined in ISO 32000-2:2020, 12.5.6.13)</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>File attachment (defined in ISO 32000-2:2020, 12.5.6.15)</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>Redaction (defined in ISO 32000-2:2020, 12.5.6.23)</LBody>
+</LI>
+</L>
+
+<P>As annotation semantics are defined by annotation type, markup annotations shall be enclosed within Annot structure elements.</P>
+
+<P>NOTE 1 Markup annotations are only intended to annotate real content, not to represent it.</P>
+
+<P>[Conformance level for accessibility] — Markup annotations may omit RC and Contents entries, but if the context of the annotation (other than a free text annotation) is insufficient to convey its purpose, a Contents entry shall be present to convey that purpose.</P>
+
+<P>When both RC and Contents entries are present, they shall be textually equivalent.</P>
+
+<P>NOTE 2 Free text annotations use the RC and Contents entries to provide their displayed text.</P>
+
+<P>NOTE 3 Sighted users often benefit from visual clues derived from the visual representation of annotations that other users are not able to perceive. RC and Contents entries can provide greater context to assist with consumption.</P>
+
+<P>NOTE 4 Content in an RC entry has appearance characteristics, including colour contrast and other visual qualities, that require accessibility consideration (for example, colour-contrast in WCAG 2.2
+<Reference>
+<Link Alt="[5]">[5]</Link>
+</Reference>
+).</P>
+
+<H5 id="LinkTarget_2019">8.9.2.4 Annotation types</H5>
+
+<H6 id="LinkTarget_2020">8.9.2.4.1 Text</H6>
+
+<P>Text annotations shall follow the requirements in 
+<Reference>
+<Link Alt="8.9.2.3">8.9.2.3</Link>
+</Reference>
+.</P>
+
+<P>The location of text annotations in the structure tree, combined with their respective Contents entries, should provide sufficient context to understand each annotation’s intent.</P>
+
+<P>NOTE 
+<Reference>
+<Link Alt="8.9.3.1">8.9.3.1</Link>
+</Reference>
+ explains the rationale for this provision.</P>
+
+<P>The value of the Name entry should match the author’s semantic intent for the annotation.</P>
+
+<H6 id="LinkTarget_2023">8.9.2.4.2 Link</H6>
+
+<P>Link annotations should include a Contents entry to enrich information available to assistive technology.</P>
+
+<P>NOTE 1 Link annotations are often accessed out of context; the Contents entry provides optional additional information. The Contents entry is also particularly valuable in the context of link targets that are not intended to be human-readable.</P>
+
+<P>EXAMPLE — A link over the text “click here” is improved by a Contents entry to advise the user regarding the link’s target.</P>
+
+<P>See 
+<Reference>
+<Link Alt="8.2.5.20">8.2.5.20</Link>
+</Reference>
+ for requirements specific to the Link and Reference structure types.</P>
+
+<P>See 
+<Reference>
+<Link Alt="8.13.3">8.13.3</Link>
+</Reference>
+ for requirements specific to link annotations that use URI actions.</P>
+
+<P>The content associated with a link annotation shall be contiguous in the logical reading order.</P>
+
+<P>NOTE 2 This requirement implies that non-contiguous linked content always uses multiple link annotations.</P>
+
+<H6 id="LinkTarget_1997">8.9.2.4.3 Free text</H6>
+
+<P>Free text annotations shall follow the requirements in 
+<Reference>
+<Link Alt="8.9.2.3">8.9.2.3</Link>
+</Reference>
+.</P>
+
+<P>If the free text annotation includes an intent of FreeTextCallout, in accordance with the IT key defined in ISO 32000-2:2020, Table 177, then the logical reading order should align with the location of the callout’s origination.</P>
+
+<H6 id="LinkTarget_1999">8.9.2.4.4 Line, square, circle, polygon and polyline</H6>
+
+<P>Line, square, circle, polygon and polyline annotations shall follow the requirements of 
+<Reference>
+<Link Alt="8.9.2.3">8.9.2.3</Link>
+</Reference>
+.</P>
+
+<P>EXAMPLE — For a line connecting two paragraphs, the respective P structure elements can include Ref entries that reference the Annot structure element that encloses the respective line annotation. Further, that Annot structure element can include a Ref entry that references the related P structure elements.</P>
+
+<H6 id="LinkTarget_2001">8.9.2.4.5 Text markup</H6>
+
+<P>Text markup annotations shall follow the requirements of 
+<Reference>
+<Link Alt="8.9.2.3">8.9.2.3</Link>
+</Reference>
+.</P>
+
+<P>If a text markup (highlight, underline, squiggly or strikeout) annotation is associated with content that is non-contiguous in the logical reading order, separate text markup annotations should be used for each contiguous unit of content.</P>
+
+<P>NOTE For a highlight spanning two pages, a single Annot structure element can include object references to the two highlight annotations.</P>
+
+<H6 id="LinkTarget_2004">8.9.2.4.6 Caret</H6>
+
+<P>Caret annotations shall follow the requirements of 
+<Reference>
+<Link Alt="8.9.2.3">8.9.2.3</Link>
+</Reference>
+.</P>
+
+<H6 id="LinkTarget_2005">8.9.2.4.7 Rubber stamp</H6>
+
+<P>Rubber stamp annotations shall follow the requirements of 
+<Reference>
+<Link Alt="8.9.2.3">8.9.2.3</Link>
+</Reference>
+.</P>
+
+<P>[Conformance level for accessibility] — If the Name entry, as defined in ISO 32000-2:2020, 12.5.6.12, is insufficient to describe the intent of the stamp annotation, a Contents entry describing the author’s intent shall be provided.</P>
+
+<H6 id="LinkTarget_2007">8.9.2.4.8 Ink</H6>
+
+<P>Ink annotations shall follow the requirements of 
+<Reference>
+<Link Alt="8.9.2.3">8.9.2.3</Link>
+</Reference>
+.</P>
+
+<P>[Conformance level for accessibility] — A Contents entry describing the author’s intent shall be provided.</P>
+
+<P>NOTE As Ink annotations are freeform, descriptive information is necessary for accessibility. For example, a handwritten signature for John Doe can be described as “the signature of John Doe”.</P>
+
+<H6 id="LinkTarget_2010">8.9.2.4.9 Popup</H6>
+
+<P>Popup annotations shall not be present in the structure tree.</P>
+
+<P>NOTE Popup annotations do not define any semantics and are solely defined in the context of their parent markup annotation.</P>
+
+<H6 id="LinkTarget_1983">8.9.2.4.10 File attachment</H6>
+
+<P>File attachment annotations shall follow the requirements of 
+<Reference>
+<Link Alt="8.9.2.3">8.9.2.3</Link>
+</Reference>
+.</P>
+
+<P>NOTE 1 A sufficient description can come from the Desc entry of a file specification dictionary referenced by the file attachment annotation. The Contents entry of the file attachment annotation takes precedence over the Desc entry if more context is required, in accordance with ISO 32000-2:2020, 12.5.6.15.</P>
+
+<P>When a file attachment annotation (as defined in ISO 32000-2:2020, 12.5.6.15) references a file specification dictionary (as defined in ISO 32000-2:2020, 7.11.3), the file specification dictionary shall include an AFRelationship entry.</P>
+
+<P>NOTE 2 File specifications can be a string or a dictionary, as defined in ISO 32000-2:2020, 7.11.1. Using the string form is equivalent to the AFRelationship entry having the value of Unspecified.</P>
+
+<H6 id="LinkTarget_1987">8.9.2.4.11 Sound, movie</H6>
+
+<P>Sound and movie annotations are deprecated in PDF 2.0 and therefore, in accordance with 
+<Reference>
+<Link Alt="8.9.1">8.9.1</Link>
+</Reference>
+, shall not be present.</P>
+
+<P>NOTE The functions of sound and movie annotations have been replaced by multimedia features specified in ISO 32000-2:2020, Clause 13.</P>
+
+<H6 id="LinkTarget_1989">8.9.2.4.12 Screen</H6>
+
+<P>Screen annotations shall include a Contents entry.</P>
+
+<P>NOTE When including video or audio using screen annotations, in support of accessibility, third party accessibility requirements such as WCAG
+<Reference>
+<Link Alt="[5]">[5]</Link>
+</Reference>
+ typically apply.</P>
+
+<H6 id="LinkTarget_1991">8.9.2.4.13 Widget</H6>
+
+<P>Widget annotations are intended to facilitate interactive forms, see 
+<Reference>
+<Link Alt="8.10">8.10</Link>
+</Reference>
+.</P>
+
+<P>In addition to the requirements of 
+<Reference>
+<Link Alt="8.9.2.2">8.9.2.2</Link>
+</Reference>
+, a widget annotation of zero height and width shall be an artifact in accordance with 
+<Reference>
+<Link Alt="8.3">8.3</Link>
+</Reference>
+.</P>
+
+<P>NOTE 1 When used as part of a document workflow that makes use of signature profiles such as PAdES-B-LTA, widget annotations associated with document timestamp signatures are often artifacts in this sense. In such workflows, the number of timestamps that will be added over time can typically not be predicted in advance. Since modifying the structure tree in incremental updates after signing complicates signature validation, it is important that invisible widgets be exempt from any tagging requirements otherwise imposed by this document.</P>
+
+<P>NOTE 2 Widget annotations that are artifacts, regardless of visibility, can nevertheless have their Print flag set [e.g. in cases where compliance with ISO 19005-4 (PDF/A-4) is required].</P>
+
+<H6 id="LinkTarget_1994">8.9.2.4.14 Printer’s mark</H6>
+
+<P>A printer’s mark annotation shall be an artifact.</P>
+
+<H6 id="LinkTarget_1996">8.9.2.4.15 Trap network</H6>
+
+<P>Trap network annotations are deprecated in PDF 2.0 and shall not be used in files conforming to this document, in accordance with 
+<Reference>
+<Link Alt="8.9.1">8.9.1</Link>
+</Reference>
+.</P>
+
+<H6 id="LinkTarget_1970">8.9.2.4.16 Watermark</H6>
+
+<P>When used as real content, Watermark annotations shall follow the requirements of 
+<Reference>
+<Link Alt="8.9.2.3">8.9.2.3</Link>
+</Reference>
+.</P>
+
+<P>NOTE For the purposes of this document, the general requirements for markup annotations also apply to Watermark annotations.</P>
+
+<H6 id="LinkTarget_1972">8.9.2.4.17 Redaction</H6>
+
+<P>Redaction annotations shall follow the requirements of 
+<Reference>
+<Link Alt="8.9.2.3">8.9.2.3</Link>
+</Reference>
+.</P>
+
+<P>NOTE 1 The requirements of 
+<Reference>
+<Link Alt="8.9.2.2">8.9.2.2</Link>
+</Reference>
+ and this subclause have no bearing on redactions themselves. They apply only to redaction annotations. On the other hand, the redaction artifact subtype specified in ISO 32000-2:2020, Table 363 and Table 385 does not apply to redaction annotations, but to redactions themselves (e.g. black boxes resulting from the application of redaction annotations to the document).</P>
+
+<P>Where possible (considering the use of QuadPoints defined in ISO 32000-2:2020, Table 195), a single logical redaction shall be enclosed within a single Redaction annotation.</P>
+
+<P>NOTE 2 This requirement implies that a single redaction spanning two or more lines on a single page would occur within a single Redaction annotation.</P>
+
+<H6 id="LinkTarget_1975">8.9.2.4.18 Projection</H6>
+
+<P>Projection annotations shall follow the requirements in 
+<Reference>
+<Link Alt="8.9.2.3">8.9.2.3</Link>
+</Reference>
+.</P>
+
+<H6 id="LinkTarget_1976">8.9.2.4.19 3D and RichMedia</H6>
+
+<P>[Conformance level for accessibility] — 3D and RichMedia annotations shall include alternate descriptions in their respective Contents entries.</P>
+
+<P>NOTE When including 3D, video or audio using 3D or RichMedia annotations, in support of accessibility, third party requirements such as WCAG
+<Reference>
+<Link Alt="[5]">[5]</Link>
+</Reference>
+ typically apply.</P>
+
+<H6 id="LinkTarget_1978">8.9.2.4.20 Other</H6>
+
+<P>Annotations whose subtypes are not defined in ISO 32000-2 shall meet the requirements of this document.</P>
+
+<H4 id="LinkTarget_1980">8.9.3 Order</H4>
+
+<H5 id="LinkTarget_1981">8.9.3.1 General</H5>
+
+<P>Many users benefit from a visual association between annotations and real content. The placement of annotations in the structure tree, together with an understanding of the overlap between the annotations and associated content, ensures that annotations become part of the logical content order together with other real content in the document.</P>
+
+<H5 id="LinkTarget_1945">8.9.3.2 Association with content</H5>
+
+<P>In the case of text markup, redaction and link annotations, the visual association between content and an annotation is represented by a QuadPoints entry or a Rect entry.</P>
+
+<P>When included in the structure tree, annotations shall be placed as close to the annotated content as possible, as either:</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>a child or sibling of the applicable structure element enclosing the real content, or</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>a child of an Annot, Link or Reference structure element.</LBody>
+</LI>
+</L>
+
+<P>NOTE The content associated with a link annotation is defined by the Link or Reference structure element pointing to it. Any geometric association via QuadPoints or Rect is secondary.</P>
+
+<P>To more closely associate annotations to the content they annotate, Ref entries may be used to associate structure elements enclosing those annotations with one or more structure elements enclosing that real content.</P>
+
+<H5 id="LinkTarget_1952">8.9.3.3 Tab order</H5>
+
+<P>Every page that includes an annotation shall contain a Tabs entry in its page dictionary in accordance with ISO 32000-2:2020, Table 31, and its value shall be A, W or S.</P>
+
+<P>NOTE Regardless of the value of the Tabs entry, each annotation’s location in the logical structure is defined by the structure tree.</P>
+
+<H4 id="LinkTarget_1955">8.9.4 Alternative descriptions</H4>
+
+<H5 id="LinkTarget_1956">8.9.4.1 Contents entries</H5>
+
+<P>[Conformance level for accessibility] — For many annotation types, the Contents entry serves as one mechanism for providing alternative descriptions. If an annotation requires an alternative description and if the Contents entry is available for that purpose, the alternative description shall be included using the Contents entry. However, for annotation types where the Contents entry is not intended as an alternative description, and if an annotation requires an alternative description, one of the other mechanisms defined in ISO 32000-2:2020, 14.9.3 shall be used.</P>
+
+<H5 id="LinkTarget_1958">8.9.4.2 Alt properties</H5>
+
+<P>Where an annotation has a Contents entry providing an alternative description and the directly enclosing structure element has an Alt entry, the values of Alt and Contents shall be identical.</P>
+
+<H3 id="LinkTarget_1960">8.10 Forms</H3>
+
+<H4 id="LinkTarget_1961">8.10.1 General</H4>
+
+<P>Widget annotations (see ISO 32000-2:2020, 12.5.6.19), which comprise the interactive aspect of forms on the page, are referenced from the structure tree, whereas fields (see ISO 32000-2:2020, 12.7.4) provide the functional representation of forms.</P>
+
+<P>Each widget annotation shall be enclosed by a Form structure element (see 
+<Reference>
+<Link Alt="8.2.5.22">8.2.5.22</Link>
+</Reference>
+) unless the widget annotation is an artifact.</P>
+
+<P>EXAMPLE — A widget annotation used exclusively for calculations is enclosed within an Artifact structure element.</P>
+
+<P>A Form structure element shall enclose at most one widget annotation.</P>
+
+<P>NOTE Form structure elements include individual widgets, several of which can together comprise a single field. As such, a Form structure element does not semantically equate to a form field.</P>
+
+<P>A Form structure element may be used to enclose the content in non-interactive forms (forms without a widget annotation) (see 
+<Reference>
+<Link Alt="8.10.4">8.10.4</Link>
+</Reference>
+).</P>
+
+<P>XFA forms (see ISO 32000-2:2020, Annex K) shall not be present.</P>
+
+<H4 id="LinkTarget_1935">8.10.2 Context</H4>
+
+<H5 id="LinkTarget_1936">8.10.2.1 General</H5>
+
+<P>The context for a widget annotation shall be provided through a combination of the following:</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>the real content surrounding the widget annotation;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>the position and grouping of structure elements containing the Form structure element (see 
+<Reference>
+<Link Alt="8.10.4">8.10.4</Link>
+</Reference>
+);</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>the field’s label, if any (see 
+<Reference>
+<Link Alt="8.10.2.2">8.10.2.2</Link>
+</Reference>
+);</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>the field’s TU entry, if any (see 
+<Reference>
+<Link Alt="8.10.2.4">8.10.2.4</Link>
+</Reference>
+);</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>the widget’s label, if any (see 
+<Reference>
+<Link Alt="8.10.2.2">8.10.2.2</Link>
+</Reference>
+);</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>the widget’s Contents entry, if any (see 
+<Reference>
+<Link Alt="8.10.2.3">8.10.2.3</Link>
+</Reference>
+).</LBody>
+</LI>
+</L>
+
+<P>NOTE The field’s name (its T entry) does not contribute to conveying the field’s context.</P>
+
+<P>The context provided by these means shall provide users with sufficient information to understand an interactive form field and any associated widget annotations.</P>
+
+<P>EXAMPLE 1 — A set of radio buttons to choose ice-cream flavours labelled “Vanilla”, “Strawberry”, and “Chocolate” that can be fully described by their respective labels together with the TU entry on the associated field, would not require a Contents entry.</P>
+
+<P>EXAMPLE 2 — Each radio button in a survey form in which the column headers of a table contain the labels “Agree” and “Disagree” for the widgets in their respective columns, would require a Contents entry.</P>
+
+<P>Where field types provide additional mechanisms for context, those mechanisms shall be considered.</P>
+
+<H5 id="LinkTarget_1943">8.10.2.2 Labels</H5>
+
+<P>Where real content is used to label a widget annotation, that real content shall be enclosed in one or several Lbl structure elements, which shall in turn be a direct descendent of a Form structure element that also includes the object reference to the widget annotation.</P>
+
+<P>Where real content is used as the label for a group of widget annotations, that real content shall be enclosed in one or several Lbl structure elements. In turn, the Lbl structure element(s) shall be contained within the parent structure element that also contains, directly or indirectly, the Form structure element for each widget.</P>
+
+<P>NOTE A label for a group of Form structure elements is considered a form field’s label.</P>
+
+<P>EXAMPLE 1 — A form design application can allow an author to group questions comprising arbitrary text and/or structure elements such as lists, along with form controls, within a single semantic element.</P>
+
+<P>EXAMPLE 2 — A form design application can allow an author to group arbitrary content along with form controls.</P>
+
+<H5 id="LinkTarget_1917">8.10.2.3 Contents entry</H5>
+
+<P>If a label for a widget annotation is not present, or if the label is insufficient, a Contents entry shall be provided to supply description and context for the widget. The Contents entry should not be identical to the label because an identical entry does not add information.</P>
+
+<P>NOTE ISO 32000-2:2020, Table 166 defines the Contents entry as providing alternative descriptions for some annotations, including widget annotations.</P>
+
+<P>The field’s TU entry may be used to complement or be identical to a widget’s Contents entry.</P>
+
+<P>EXAMPLE — A cryptic label referencing information in nearby paragraphs or pages implies the need for a Contents entry.</P>
+
+<P>If an additional action (AA) entry, as defined in ISO 32000-2:2020, Table 191, is present in a widget annotation dictionary, the respective widget’s Contents entry shall describe the action’s intent.</P>
+
+<H5 id="LinkTarget_1923">8.10.2.4 TU entry</H5>
+
+<P>The TU entry in the field’s dictionary is useful when there is higher-level context that a sighted user gets from their overview of the form. A TU entry may provide repetitive and useful information to facilitate easy consumption and may also duplicate higher-level content to maximize the reader’s understanding of the field’s context.</P>
+
+<P>When a form field dictionary has multiple widget annotations, a TU entry is often insufficient to provide full context for each annotation, thus, a label, a Contents entry, or both, shall be present for each annotation to provide additional context.</P>
+
+<P>NOTE Establishing context for AT users in complex forms presents many challenges. The TU entry provides a means of conveying additional or supplementary context.</P>
+
+<H4 id="LinkTarget_1927">8.10.3 Fields</H4>
+
+<H5 id="LinkTarget_1928">8.10.3.1 General</H5>
+
+<P>Fields may be read-only.</P>
+
+<H5 id="LinkTarget_1897">8.10.3.2 Button fields</H5>
+
+<H6 id="LinkTarget_1898">8.10.3.2.1 General</H6>
+
+<P>For a widget annotation that is associated with a button field, the Contents entry, if present, shall reflect the intent of the CA entry in the widget’s appearance characteristics dictionary (see ISO 32000-2:2020, Table 192).</P>
+
+<P>NOTE The CA entry provides a default caption for the button which can be used to help understand the semantic purpose of the button.</P>
+
+<H6 id="LinkTarget_1901">8.10.3.2.2 Push‑button</H6>
+
+<P>For a widget annotation that is associated with a push-button field, the Contents entry, if present, shall also reflect the intent of the RC, AC, I, RI and IX entries, in addition to the CA entry, in the widget’s appearance characteristics dictionary (see ISO 32000-2:2020, Table 192).</P>
+
+<P>NOTE These properties reflect the semantic intent of the user’s interaction with the button.</P>
+
+<P>If the TU entry is present in the field’s dictionary, it shall reflect the intent of the RC entry in the widget’s appearance characteristics dictionary.</P>
+
+<H6 id="LinkTarget_1905">8.10.3.2.3 Check boxes and radio buttons</H6>
+
+<P>For checkboxes and radio buttons, both the field and its associated widgets shall conform to the requirements specified in 
+<Reference>
+<Link Alt="8.10.2">8.10.2</Link>
+</Reference>
+.</P>
+
+<P>EXAMPLE 1 — A single check box button field containing multiple widget annotations representing individual checkboxes.</P>
+
+<P>EXAMPLE 2 — A single radio button field containing multiple widget annotations representing individual radio buttons.</P>
+
+<P>NOTE Export values are intended for processing and are not intended to be descriptive.</P>
+
+<H5 id="LinkTarget_1909">8.10.3.3 Text fields</H5>
+
+<P>For text fields, when an RV entry (as defined in ISO 32000-2:2020, Table 228) is present, a V entry (as defined in ISO 32000-2:2020, Table 226) shall also be present, and they shall be textually equivalent.</P>
+
+<H5 id="LinkTarget_1911">8.10.3.4 Choice fields</H5>
+
+<P>For choice fields, the Opt entry specifies both the export value and the text for each choice as displayed to the user and, in this context, the text for each choice shall sufficiently convey its intent.</P>
+
+<P>Both the field and its associated widget shall conform to 
+<Reference>
+<Link Alt="8.10.2">8.10.2</Link>
+</Reference>
+.</P>
+
+<H5 id="LinkTarget_1913">8.10.3.5 Signature fields</H5>
+
+<P>If the location of a signature within a document has a bearing on its legal meaning, then the signature field’s widget annotation, in accordance with 
+<Reference>
+<Link Alt="8.9.2.4.13">8.9.2.4.13</Link>
+</Reference>
+, shall be treated as real content and shall be present in the structure tree. A signature field’s widget annotation shall be considered an artifact if it meets the criteria defined in 
+<Reference>
+<Link Alt="8.9.2.2">8.9.2.2</Link>
+</Reference>
+.</P>
+
+<P>NOTE 1 As stated in ISO 32000-2:2020, 12.7.5.5, the location of a signature within a document can have a bearing on its legal meaning. The exact location of a signature relative to other content is essential to universal access.</P>
+
+<P>NOTE 2 The Hidden flag defined in ISO 32000-2, Table 167 has no impact on whether a given signature field’s widget annotation is considered an artifact, see 
+<Reference>
+<Link Alt="8.9.2.2">8.9.2.2</Link>
+</Reference>
+.</P>
+
+<P>If a portion of the appearance of a signature is represented by a graphic, alternative text shall be provided for that graphic (see 
+<Reference>
+<Link Alt="8.9.4">8.9.4</Link>
+</Reference>
+).</P>
+
+<P>The annotation’s appearance shall not contradict the signature’s metadata as found in the signature dictionary.</P>
+
+<P>NOTE 3 Various metadata related to the signature such as date and time of signing, can be accessed through the signature field’s signature dictionary. Accordingly, for accessibility purposes, processing the signature’s appearance is not necessary.</P>
+
+<H4 id="LinkTarget_1887">8.10.4 Non-interactive forms</H4>
+
+<P>Non-interactive content representing a form field shall be enclosed within a Form structure element. Such a Form element shall include appropriate PrintField attributes as specified in ISO 32000-2:2020, 14.8.5.6.</P>
+
+<P>NOTE 1 
+<Reference>
+<Link Alt="B.3">B.3</Link>
+</Reference>
+ provides examples for PrintField attributes.</P>
+
+<P>NOTE 2 There is no requirement that any specific non-interactive content (e.g. database output formatted to look like an input form) represents a form field.</P>
+
+<P>Where real content is used to label a non-interactive form field, that real content shall be enclosed in one or several Lbl structure elements, which shall in turn be a descendent of a Form structure element that also encloses the real content of the form field.</P>
+
+<P>Where real content is used to label a group of non-interactive form fields, that real content shall be enclosed in one or several Lbl structure elements. In turn, the Lbl structure element(s) shall be contained within the parent structure element that also contains, directly or indirectly, the Form structure element for each form field.</P>
+
+<H3 id="LinkTarget_1892">8.11 Metadata</H3>
+
+<H4 id="LinkTarget_1893">8.11.1 General</H4>
+
+<P>The Metadata stream as specified in ISO 32000-2:2020, 14.3 in the document catalog dictionary shall include a dc:title entry reflecting the title of the document.</P>
+
+<P>NOTE 1 Consistent with deployment objectives, files can include an abstract, publisher information, publisher contact information, publication number, author, date, and copyright information in their XMP metadata.</P>
+
+<P>NOTE 2 Other metadata can be present in files in conformity with this document.</P>
+
+<H4 id="LinkTarget_1863">8.11.2 Interactive aspects</H4>
+
+<P>[Conformance level for accessibility] — The ViewerPreferences dictionary of the document catalog dictionary shall be present and shall contain at least the DisplayDocTitle key with a value of true, as defined in ISO 32000-2:2020, Table 147.</P>
+
+<P>NOTE This makes the recommendation for DisplayDocTitle in ISO 32000-2:2020, Table 147 into a requirement.</P>
+
+<H3 id="LinkTarget_1866">8.12 Navigation</H3>
+
+<H4 id="LinkTarget_1867">8.12.1 General</H4>
+
+<P>Navigation features facilitate effective orientation and efficient reading, especially on longer or highly structured documents.</P>
+
+<H4 id="LinkTarget_1869">8.12.2 Outlines</H4>
+
+<P>[Conformance level for accessibility] — Longer documents should include a document outline as specified in ISO 32000-2:2020, 12.3.3.</P>
+
+<P>Each entry in an outline dictionary should include an Action as specified in 
+<Reference>
+<Link Alt="8.13">8.13</Link>
+</Reference>
+.</P>
+
+<P>NOTE 1 A document outline contains items that are often referred to as bookmarks. Outline items can refer to destinations or invoke actions.</P>
+
+<P>NOTE 2 This document deliberately avoids defining any specific length as “longer”.</P>
+
+<H4 id="LinkTarget_1873">8.12.3 Page labels</H4>
+
+<P>If a page label as specified in ISO 32000-2:2020, 12.4.2 is present, it shall represent the same number as that perceived by a user.</P>
+
+<P>When a page’s number is not equal to one plus the page’s index, page labels shall be present.</P>
+
+<H4 id="LinkTarget_1876">8.12.4 Article threads</H4>
+
+<P>Article threads as specified in ISO 32000-2:2020, 12.4.3, if present, should reflect the logical content order.</P>
+
+<P>NOTE Article threads are not considered a content reuse or accessibility technology.</P>
+
+<H3 id="LinkTarget_1879">8.13 Actions</H3>
+
+<H4 id="LinkTarget_1880">8.13.1 General</H4>
+
+<P>Conforming files may include actions as specified in ISO 32000-2:2020, 12.6.</P>
+
+<H4 id="LinkTarget_1882">8.13.2 ECMAScript actions</H4>
+
+<P>ECMAScript, if used, should enable processors to communicate changes to content, visibility, focus and location in an accessible manner.</P>
+
+<H4 id="LinkTarget_1837">8.13.3 URI actions</H4>
+
+<P>[Conformance level for accessibility] — When the IsMap entry in a URI action dictionary, as specified in ISO 32000-2:2020, 12.6.4.8, has a value of true, equivalent functionality shall be provided elsewhere in the real content.</P>
+
+<H3 id="LinkTarget_1839">8.14 Use of embedded files</H3>
+
+<H4 id="LinkTarget_1840">8.14.1 Descriptions for embedded files</H4>
+
+<P>The Desc entry, as specified in ISO 32000-2:2020, Table 43, shall be present on all file specification dictionaries present in the EmbeddedFiles name tree of a conforming file, and shall provide sufficient context to make clear the intent of the embedded file.</P>
+
+<H4 id="LinkTarget_1842">8.14.2 Use of associated files</H4>
+
+<P>Files in conformity with this document may include representations that supplement the file’s real content or provide an alternate to the file’s real content.</P>
+
+<P>NOTE One use of alternative representations can be to accommodate specific accessibility needs such as allowing derivation of Braille from MathML.</P>
+
+<P>Where embedded files are intended to provide alternative or supplemental representations of content, such files should:</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>be embedded as embedded associated files as specified in ISO 32000-2:2020, 14.13.2;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>be associated with the applicable structure element as specified in ISO 32000-2:2020, 14.13.6;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>include the AFRelationship entry in the respective file specification dictionaries as specified in ISO 32000-2:2020, Table 43;</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>include the Subtype entry in the respective embedded file stream dictionary in accordance with ISO 32000-2:2020, Table 44.</LBody>
+</LI>
+</L>
+
+<H2 id="LinkTarget_1810">Appendix A: Example PDF Declaration for an external standard (informative)</H2>
+
+<P>The following PDF Declaration placed in a document’s XMP metadata declares that the document conforms to WCAG 2.2 Level AA
+<Reference>
+<Link Alt="[5]">[5]</Link>
+</Reference>
+:</P>
+
+<Code>
+<P>&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;</P>
+
+<P> &lt;rdf:RDF xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;&gt;</P>
+
+<P>  &lt;rdf:Description rdf:about=&quot;&quot; xmlns:pdfd=&quot;http://pdfa.org/declarations/&quot;&gt;</P>
+
+<P>   &lt;pdfd:declarations&gt;</P>
+
+<P>    &lt;rdf:Bag&gt;</P>
+
+<P>     &lt;!-- Declaration of conformity with WCAG 2.2 Level AA --&gt;</P>
+
+<P>     &lt;rdf:li rdf:parseType=&quot;Resource&quot;&gt;</P>
+
+<P>      &lt;pdfd:conformsTo&gt;http://pdfa.org/declarations#wcag22aa&lt;/pdfd:conformsTo&gt;</P>
+
+<P>      &lt;!-- Optional entries permitted by the Declaration mechanism --&gt;</P>
+
+<P>      &lt;pdfd:claimData&gt;</P>
+
+<P>       &lt;rdf:Bag&gt;</P>
+
+<P>        &lt;rdf:li rdf:parseType=&quot;Resource&quot;&gt;</P>
+
+<P>         &lt;!-- Optional properties of an individual claim --&gt;</P>
+
+<P>         &lt;pdfd:claimBy&gt;Validator company&lt;/pdfd:claimBy&gt;</P>
+
+<P>         &lt;pdfd:claimDate&gt;2023-07-01&lt;/pdfd:claimDate&gt;</P>
+
+<P>         &lt;pdfd:claimCredentials&gt;Validation credentials&lt;/pdfd:claimCredentials&gt;</P>
+
+<P>         &lt;pdfd:claimReport&gt;https://validator-entity.org/report67890.html&lt;/pdfd:claimReport&gt;</P>
+
+<P>        &lt;/rdf:li&gt;</P>
+
+<P>       &lt;/rdf:Bag&gt;</P>
+
+<P>      &lt;/pdfd:claimData&gt;</P>
+
+<P>     &lt;/rdf:li&gt;</P>
+
+<P>    &lt;/rdf:Bag&gt;</P>
+
+<P>   &lt;/pdfd:declarations&gt;</P>
+
+<P>  &lt;/rdf:Description&gt;</P>
+
+<P>&lt;/rdf:RDF&gt;</P>
+</Code>
+
+<H2 id="LinkTarget_1738">Appendix B: Examples of attribute usage (informative)</H2>
+
+<H3 id="LinkTarget_1739">B.1 Standard layout attributes</H3>
+
+<P>Examples of semantic significance for standard layout attributes for inline-level structure element (ILSE) types in accordance with ISO 32000-2:2020, Tables 377 and 378 are provided in 
+<Reference>
+<Link Alt="Table B.1">Table B.1</Link>
+</Reference>
+.</P>
+
+<Table>
+<Caption>
+<P>Table B.1. Examples of semantic significance for standard layout attributes common to all structure types</P>
+</Caption>
+
+<TR>
+<TH>
+<P>Structure elements</P>
+</TH>
+
+<TH>
+<P>Attribute</P>
+</TH>
+
+<TH>
+<P>Examples</P>
+</TH>
+</TR>
+
+<TR>
+<TH>
+<P>Any structure element</P>
+</TH>
+
+<TH>
+<P>Placement</P>
+</TH>
+
+<TD>
+<P>A Figure that is a child of a P has a default Placement value of Inline. If a Figure breaks the flow of the paragraph’s block, the Placement value is explicitly set to Block to be semantically correct.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>Writing Mode</P>
+</TH>
+
+<TD>
+<P>Text written from right to left.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>BackgroundColor</P>
+</TH>
+
+<TD>
+<P>Background colour of a TD structure element identifying a group of cells.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>BorderColor</P>
+</TH>
+
+<TD>
+<P>The border of a box in which the box’s appearance denotes the significance of the content (such as an alert).</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>BorderStyle</P>
+</TH>
+
+<TD>
+<P>Lines used to represent relationships in an organization chart.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>BorderThickness</P>
+</TH>
+
+<TD>
+<P>A table cell where thicker lines are used to denote that the cell contains a summation of other cells’ values.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>Padding</P>
+</TH>
+
+<TD>
+<P>Spacing around text columns to disambiguate the columns.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>Color</P>
+</TH>
+
+<TD>
+<P>Use of colour in a chart legend.</P>
+</TD>
+</TR>
+</Table>
+
+<P>Examples of semantic significance for standard layout attributes for block-level structure element (BLSE) types in accordance with ISO 32000-2:2020, Tables 377 and 379 are described in 
+<Reference>
+<Link Alt="Table B.2">Table B.2</Link>
+</Reference>
+.</P>
+
+<Table>
+<Caption>
+<P>Table B.2. Examples of semantic significance for additional standard layout attributes specific to block level structure types</P>
+</Caption>
+
+<TR>
+<TH>
+<P>Structure elements</P>
+</TH>
+
+<TH>
+<P>Attribute</P>
+</TH>
+
+<TH>
+<P>Examples</P>
+</TH>
+</TR>
+
+<TR>
+<TH>
+<P>Any BLSE; ILSEs with Placement other than Inline</P>
+</TH>
+
+<TH>
+<P>SpaceBefore</P>
+</TH>
+
+<TD>
+<P>Spacing used to enhance readability.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>SpaceAfter</P>
+</TH>
+
+<TD>
+<P>Spacing used to enhance readability.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>StartIndent</P>
+</TH>
+
+<TD>
+<P>Levels of indentation for lines for code in a programming language.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>EndIndent</P>
+</TH>
+
+<TD>
+<P>Lines of code.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>BLSEs containing text</P>
+</TH>
+
+<TH>
+<P>TextIndent</P>
+</TH>
+
+<TD>
+<P>Poetry</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>TextAlign</P>
+</TH>
+
+<TD>
+<P>Music showing chords and lyrics.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>Figure, Form, Formula and Table elements</P>
+</TH>
+
+<TH>
+<P>BBox</P>
+</TH>
+
+<TD>
+<P>A formula that lies on a single page and occupies a single rectangle.</P>
+
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>NOTE 1 When present, the rectangle defined by the BBox encloses all of the element’s visible content.</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>NOTE 2 Current-generation assistive technology often relies on this attribute.</LBody>
+</LI>
+</L>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>Width</P>
+</TH>
+
+<TD>
+<P>A form using a certain amount of space to allow for input.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>Height</P>
+</TH>
+
+<TD>
+<P>Two figures with different-sized content are represented with the same height on the page.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>TH (Table header); TD (Table data)</P>
+</TH>
+
+<TH>
+<P>Width</P>
+</TH>
+
+<TD>
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>A table cell whose width is important and differs from the content width.</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>A header cell (TH) that should have a specific width, but whose content is much smaller.</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>An empty cell that maintains a certain width, contributing to the layout.</LBody>
+</LI>
+</L>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>Height</P>
+</TH>
+
+<TD>
+<P>A set of table cells of consistent height but containing addresses of three or four lines.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>BlockAlign</P>
+</TH>
+
+<TD>
+<P>A table cell in which alignment denotes a totalling or other meaning.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>InlineAlign</P>
+</TH>
+
+<TD>
+<P>A table cell containing a right-aligned number indicating that the cell contains the total of the values in the cells above it.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>TBorderStyle</P>
+</TH>
+
+<TD>
+<P>A table cell with a specific border styling indicating that the cell contains the total of the values in the cells above it.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>TPadding</P>
+</TH>
+
+<TD>
+<P>A table cell with specific padding indicating that the cell contains the total of the values in the cells above it.</P>
+</TD>
+</TR>
+</Table>
+
+<P>Examples of semantic significance for standard layout attributes for inline-level structure element (ILSE) types in accordance with ISO 32000-2:2020, Tables 377 and Table 380 are described in 
+<Reference>
+<Link Alt="Table B.3">Table B.3</Link>
+</Reference>
+.</P>
+
+<Table>
+<Caption>
+<P>Table B.3. Examples of semantic significance for standard layout attributes specific to inline-level structure types</P>
+</Caption>
+
+<TR>
+<TH>
+<P>Structure elements</P>
+</TH>
+
+<TH>
+<P>Attribute</P>
+</TH>
+
+<TH>
+<P>Examples</P>
+</TH>
+</TR>
+
+<TR>
+<TH>
+<P>Any ILSE; BLSEs containing ILSEs or containing direct or nested content items</P>
+</TH>
+
+<TH>
+<P>BaselineShift</P>
+</TH>
+
+<TD>
+<P>To allow the LATEX logo to be used in reflow applications, the BaselineShift for the “a” and “e” is specified.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>LineHeight</P>
+</TH>
+
+<TD>
+<P>(No semantic intent identified)</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>TextPosition</P>
+</TH>
+
+<TD>
+<P>An ordinal suffix such as 21st has the TextPosition value of Sup.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>TextDecorationColor</P>
+</TH>
+
+<TD>
+<P>Text decorations such as strikeouts and carets that are colour-coded by author.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>TextDecorationThickness</P>
+</TH>
+
+<TD>
+<P>(No semantic intent identified)</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>TextDecorationType</P>
+</TH>
+
+<TD>
+<P>Text to be struck from the document has the attribute with a value of LineThrough.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>RB, RT, RP</P>
+</TH>
+
+<TH>
+<P>RubyAlign</P>
+</TH>
+
+<TD>
+<P>(no semantic intent identified)</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>RubyPosition</P>
+</TH>
+
+<TD>
+<P>Some authors vary ruby positioning conventions to disambiguate between different kinds of ruby annotation within the same document. The RubyPosition attribute can be used to preserve that semantic intent.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>Any structure element containing text whose inline-progression direction is top to bottom or bottom to top.</P>
+</TH>
+
+<TH>
+<P>GlyphOrientationVertical</P>
+</TH>
+
+<TD>
+<P>The preferred orientation of alphabetic (non-ideographic) text within a vertically typeset Japanese document content can depend on what that text represents. In this context, initialisms like “PDF” are usually set with an orientation angle of 0, while the expanded form “Portable Document Format” is rotated 90 degrees.</P>
+</TD>
+</TR>
+</Table>
+
+<P>Examples of semantic significance for standard layout attributes specific to content in columns (see ISO 32000-2:2020, Tables 377 and 381) are described in 
+<Reference>
+<Link Alt="Table B.4">Table B.4</Link>
+</Reference>
+.</P>
+
+<Table>
+<Caption>
+<P>Table B.4. Examples of semantic significance for standard layout attributes specific to content in columns</P>
+</Caption>
+
+<TR>
+<TH>
+<P>Structure elements</P>
+</TH>
+
+<TH>
+<P>Attribute</P>
+</TH>
+
+<TH>
+<P>Examples</P>
+</TH>
+</TR>
+
+<TR>
+<TH>
+<P>Grouping structure types containing columns</P>
+</TH>
+
+<TH>
+<P>ColumnCount</P>
+</TH>
+
+<TD>
+<P>(No semantic intent identified)</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>ColumnGap</P>
+</TH>
+
+<TD>
+<P>(No semantic intent identified)</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>ColumnWidths</P>
+</TH>
+
+<TD>
+<P>(No semantic intent identified)</P>
+</TD>
+</TR>
+</Table>
+
+<H3 id="LinkTarget_1412">B.2 Standard list attributes</H3>
+
+<P>Examples of semantic significance for standard list attributes (see ISO 32000-2:2020, Table 382) are described in 
+<Reference>
+<Link Alt="Table B.5">Table B.5</Link>
+</Reference>
+.</P>
+
+<P>NOTE Structure types for lists have special requirements for attributes, see 
+<Reference>
+<Link Alt="8.2.5.25">8.2.5.25</Link>
+</Reference>
+.</P>
+
+<Table>
+<Caption>
+<P>Table B.5. Examples of semantic significance for standard list attributes</P>
+</Caption>
+
+<TR>
+<TH>
+<P>Attribute</P>
+</TH>
+
+<TH>
+<P>Examples</P>
+</TH>
+</TR>
+
+<TR>
+<TH>
+<P>ListNumbering</P>
+</TH>
+
+<TD>
+<P>A list that uses decimal Arabic numerals as labels has the attribute’s value set to Decimal.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>ContinuedList</P>
+</TH>
+
+<TD>
+<P>For a semantic list whose items are separated into two lists due to other content in between list-items, the second list’s L structure element, has the attribute present and set to true.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>ContinuedFrom</P>
+</TH>
+
+<TD>
+<P>For a semantic list whose items are separated into two lists due to other content in between list-items, the second list’s L structure element, has the attribute present and identifies the first list as the one it continues from.</P>
+</TD>
+</TR>
+</Table>
+
+<H3 id="LinkTarget_1422">B.3 PrintField attributes</H3>
+
+<P>Examples of semantic significance for the use of PrintField attributes (see ISO 32000-2:2020, 14.8.5.6) are described in 
+<Reference>
+<Link Alt="Table B.6">Table B.6</Link>
+</Reference>
+.</P>
+
+<Table>
+<Caption>
+<P>Table B.6. Examples of semantic significance for PrintField attributes</P>
+</Caption>
+
+<TR>
+<TH>
+<P>Attribute</P>
+</TH>
+
+<TH>
+<P>Examples</P>
+</TH>
+</TR>
+
+<TR>
+<TH>
+<P>Role</P>
+</TH>
+
+<TD>
+<P>Page content representing a non-interactive radio button has the attribute set to rb.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>Checked, checked</P>
+</TH>
+
+<TD>
+<P>Page content representing the state of a non-interactive checkbox that is checked has the attribute value of on.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>Desc</P>
+</TH>
+
+<TD>
+<P>For page content representing a non-interactive form field whose purpose is not clear from the content has an attribute value describing the context of the content.</P>
+</TD>
+</TR>
+</Table>
+
+<H3 id="LinkTarget_1316">B.4 Attributes specific to table structure types</H3>
+
+<P>Examples of semantic significance for table attributes (see ISO 32000-2:2020, 14.8.5.7) are described in 
+<Reference>
+<Link Alt="Table B.7">Table B.7</Link>
+</Reference>
+. See 
+<Reference>
+<Link Alt="8.2.5.26">8.2.5.26</Link>
+</Reference>
+ for requirements for the attributes defined in 
+<Reference>
+<Link Alt="Table B.7">Table B.7</Link>
+</Reference>
+.</P>
+
+<Table>
+<Caption>
+<P>Table B.7. Examples of semantic significance for attributes specific to table structure types</P>
+</Caption>
+
+<TR>
+<TH>
+<P>Attribute</P>
+</TH>
+
+<TH>
+<P>Examples</P>
+</TH>
+</TR>
+
+<TR>
+<TH>
+<P>RowSpan</P>
+</TH>
+
+<TD>
+<P>A cell that vertically spans two rows has the attribute with value of 2.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>ColSpan</P>
+</TH>
+
+<TD>
+<P>A cell that horizontally spans three columns has the attribute with value of 3.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>Headers</P>
+</TH>
+
+<TD>
+<P>A cell whose header cell(s) cannot be determined by the algorithm defined for this purpose in ISO 32000-2:2020, 14.8.4.8.3.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>Scope</P>
+</TH>
+
+<TD>
+<P>A row of header cells that is not the first row of a table all have Scope attributes with a value of Row.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>Summary</P>
+</TH>
+
+<TD>
+<P>A complex table whose structure is not easily understood without a short explanation which is then provided by a summary.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>Short</P>
+</TH>
+
+<TD>
+<P>See ISO 32000-2:2020, Table 384.</P>
+</TD>
+</TR>
+</Table>
+
+<H3 id="LinkTarget_1332">B.5 Attributes specific to the Artifact structure type</H3>
+
+<P>Examples of semantic significance for artifact attributes (see ISO 32000-2:2020, 14.8.5.8) are described in 
+<Reference>
+<Link Alt="Table B.8">Table B.8</Link>
+</Reference>
+.</P>
+
+<P>See 
+<Reference>
+<Link Alt="8.3">8.3</Link>
+</Reference>
+ for requirements related to artifact attributes.</P>
+
+<Table>
+<Caption>
+<P>Table B.8. Examples of semantic significance for attributes specific to the Artifact structure type</P>
+</Caption>
+
+<TR>
+<TH>
+<P>Attribute</P>
+</TH>
+
+<TH>
+<P>Examples</P>
+</TH>
+</TR>
+
+<TR>
+<TH>
+<P>Type</P>
+</TH>
+
+<TD>
+<P>See ISO 32000-2:2020, Table 385</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>BBox</P>
+</TH>
+
+<TD>
+<P>A redacted figure for which the redaction occurs on a single page and occupies a single rectangle.</P>
+
+<P>NOTE When present, the rectangle defined by the BBox encloses all of the element’s visible content.</P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P>Subtype</P>
+</TH>
+
+<TD>
+<L>
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>A page header is tagged with an Artifact structure element with a Subtype attribute with a value of Header.A page footer is tagged with an Artifact structure element with a Subtype attribute with a value of Footer.</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>A watermark is tagged with an Artifact structure element with a Subtype attribute with a value of Watermark.</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>A document’s page number is tagged with an Artifact structure element with a Subtype attribute with a value of PageNum.</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>A Bates number in a legal filing is tagged with an Artifact structure element with a Subtype attribute with a value of Bates.</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>A line number in a contract is tagged with an Artifact structure element with a Subtype attribute with a value of LineNum.</LBody>
+</LI>
+
+<LI>
+<Lbl> • </Lbl>
+
+<LBody>A redaction indicator (e.g. a black box) is tagged with an Artifact structure element with a Subtype attribute with a value of Redaction.</LBody>
+</LI>
+</L>
+</TD>
+</TR>
+</Table>
+
+<H2 id="LinkTarget_1294">Appendix C: Declaring conformance with PDF/UA-2 (Normative)</H2>
+
+<P>A file that is conformant with the conformance level for accessibility as defined in 
+<Reference>
+<Link Alt="6.1.3">6.1.3</Link>
+</Reference>
+ that also declares itself as conformant with ISO 14289-2 (PDF/UA-2) shall include in its document level metadata the PDF/UA-2 identification schema as defined in ISO 14289-2:2024, Table 1.</P>
+
+<P>EXAMPLE — Snippet of PDF/UA identification schema for PDF/UA-2</P>
+
+<Code>
+<P>&lt;rdf:RDF xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;&gt;</P>
+
+<P>  &lt;rdf:Description rdf:about=&quot;&quot;</P>
+
+<P>   xmlns:pdfuaid=&quot;http://www.aiim.org/pdfua/ns/id/&quot;&gt;</P>
+
+<P>    &lt;pdfuaid:part&gt;2&lt;/pdfuaid:part&gt;</P>
+
+<P>    &lt;pdfuaid:rev&gt;2024&lt;/pdfuaid:rev&gt;</P>
+
+<P>  &lt;/rdf:Description&gt;</P>
+
+<P>&lt;/rdf:RDF&gt;</P>
+</Code>
+
+<H2 id="LinkTarget_1292">Bibliography</H2>
+
+<L>
+<LI>
+<Lbl>[1]</Lbl>
+
+<LBody> ISO 19005-4, Document management — Electronic document file format for long-term preservation — Part 4: Use of ISO 32000‑2 (PDF/A‑4)</LBody>
+</LI>
+
+<LI>
+<Lbl>[2]</Lbl>
+
+<LBody> ISO 15930-9, Graphic technology — Prepress digital data exchange using PDF — Part 9: Complete exchange of printing data (PDF/X‑6) and partial exchange of printing data with external profile reference (PDF/X-6p and PDF/X-6n) using PDF 2.0</LBody>
+</LI>
+
+<LI>
+<Lbl>[3]</Lbl>
+
+<LBody> ISO 9241-171:2008, Ergonomics of human-system interaction — Part 171: Guidance on software accessibility</LBody>
+</LI>
+
+<LI>
+<Lbl>[4]</Lbl>
+
+<LBody> ISO 24495-1, Plain language — Part 1: Governing principles and guidelines</LBody>
+</LI>
+
+<LI>
+<Lbl>[5]</Lbl>
+
+<LBody> W3C, Web Content Accessibility Guidelines (WCAG) 2.2, W3C Recommendation,  
+<Link Alt="https://www.w3.org/TR/WCAG22/">https://www.w3.org/TR/WCAG22/</Link>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>[6]</Lbl>
+
+<LBody> ISO 32000-1, Document management — Portable document format — Part 1: PDF 1.7</LBody>
+</LI>
+
+<LI>
+<Lbl>[7]</Lbl>
+
+<LBody> ISO 14289-1, Document management applications — Electronic document file format enhancement for accessibility — Part 1: Use of ISO 32000‑1 (PDF/UA‑1)</LBody>
+</LI>
+</L>
+
+<P>PDF Association — Well-Tagged PDF (WTPDF)</P>
+</Document>
+</TaggedPDF-doc>
