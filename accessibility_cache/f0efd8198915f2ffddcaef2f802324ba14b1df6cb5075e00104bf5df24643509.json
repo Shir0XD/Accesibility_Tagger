@@ -1,0 +1,27 @@
+{
+  "role": "list",
+  "list_type": "unordered",
+  "items": [
+    {
+      "index": 1,
+      "content": "the Drawings;",
+      "level": 1,
+      "description": "This list item specifies 'the Drawings'. In a contractual context, 'the Drawings' typically refer to technical illustrations, blueprints, schematics, or architectural plans that provide visual and detailed specifications for the project, product, or service being contracted. They are essential for understanding the scope, design, and requirements. The semicolon indicates that this is one item in a series."
+    },
+    {
+      "index": 2,
+      "content": "Data Sheets",
+      "level": 1,
+      "description": "This list item specifies 'Data Sheets'. 'Data Sheets' are documents containing detailed technical specifications, performance characteristics, material properties, or other critical information about components, products, or systems. They serve as a reference for verification, compliance, and operational understanding within the contract."
+    },
+    {
+      "index": 3,
+      "content": "Any other documents forming part of the Contract.",
+      "level": 1,
+      "description": "This list item is a comprehensive clause stating 'Any other documents forming part of the Contract'. This phrase ensures that the list of included documents is not exhaustive and encompasses all additional agreements, appendices, schedules, addendums, or other legal instruments that, by mutual agreement or reference, are considered integral to the complete contractual agreement. It provides a catch-all for all relevant documentation."
+    }
+  ],
+  "summary": "This is an unordered list enumerating specific types of documents that are explicitly included and form an integral part of the overall Contract.",
+  "reading_order": 1,
+  "description": "This is an unordered list of three items, detailing documents that form part of the Contract. The first item is 'the Drawings', which are technical illustrations or plans providing detailed specifications. The second item is 'Data Sheets', documents containing technical specifications or performance characteristics. The third item is 'Any other documents forming part of the Contract', a comprehensive clause covering all additional agreements or legal instruments that are integral to the complete contractual agreement."
+}

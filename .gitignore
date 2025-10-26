@@ -12,7 +12,7 @@ ENV/
 .env
 
 # Cache and Output
-accessibility_cache/
+# accessibility_cache/  # Keep cache in repo for examples
 output/
 
 # Test outputs

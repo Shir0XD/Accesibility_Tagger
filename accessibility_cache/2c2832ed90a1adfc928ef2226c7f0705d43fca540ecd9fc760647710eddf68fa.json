@@ -1,0 +1,15 @@
+{
+  "role": "list",
+  "list_type": "unordered",
+  "items": [
+    {
+      "index": 1,
+      "content": "Termination of Employment",
+      "level": 1,
+      "description": "This list item represents a significant section title or a primary topic heading within the document. It introduces content that will detail the various aspects, policies, procedures, or conditions related to the ending of an employment relationship, which may include voluntary resignation, involuntary termination, layoffs, or retirement. This phrase signals a shift in subject matter to a critical area of human resources and legal compliance."
+    }
+  ],
+  "summary": "This list, located on Page 2, introduces a primary topic or major section of the document, specifically focusing on the subject of employment termination.",
+  "reading_order": 1,
+  "description": "This is an unordered list containing one item. The list is located on Page 2 of the document and serves to introduce a primary topic or major section. The single item, 'Termination of Employment', functions as a key heading, indicating that the subsequent content will provide detailed information regarding the procedures, policies, or conditions associated with the ending of an employment relationship."
+}

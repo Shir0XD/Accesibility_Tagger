@@ -1,0 +1,15 @@
+{
+  "role": "list",
+  "list_type": "unordered",
+  "items": [
+    {
+      "index": 1,
+      "content": "In consideration of the payments to be made by the Employer to the Contractor",
+      "level": 1,
+      "description": "This is the first and only item in the list. It functions as an introductory clause, establishing the foundational premise or 'consideration' for a contractual agreement. It explicitly states that the subsequent terms, conditions, or actions within the document are predicated upon, or made in exchange for, the financial payments that the Employer is obligated to make to the Contractor. This clause sets the stage for the reciprocal obligations within the agreement, specifically highlighting the financial aspect from the Employer's side."
+    }
+  ],
+  "summary": "This list, containing a single introductory clause, establishes the primary consideration for a contractual agreement. It highlights the payments from the Employer to the Contractor as the foundational basis for the agreement's terms.",
+  "reading_order": 1,
+  "description": "This is an unordered list with one item. The list's purpose is to introduce a contractual agreement by stating the foundational consideration. Item 1: In consideration of the payments to be made by the Employer to the Contractor. This item functions as an introductory clause, establishing the foundational premise or 'consideration' for a contractual agreement. It explicitly states that the subsequent terms, conditions, or actions within the document are predicated upon, or made in exchange for, the financial payments that the Employer is obligated to make to the Contractor. This clause sets the stage for the reciprocal obligations within the agreement, specifically highlighting the financial aspect from the Employer's side."
+}
