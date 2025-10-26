@@ -50,7 +50,7 @@ python view_tags_in_pdf.py output/tagged_coe.pdf
 # View → Show/Hide → Tags (Navigation Pane)
 ```
 
-**Tags are embedded as hidden annotations** in the PDF - fully accessible to screen readers!
+**Tags are available in JSON format** - use Adobe Acrobat Pro to add to PDF or integrate with specialized PDF libraries.
 
 ## Structure Tag Taxonomy
 
