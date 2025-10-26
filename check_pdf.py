@@ -1,7 +1,7 @@
 """Quick check of PDF structure"""
 import pikepdf
 
-pdf_path = "output/COE_auto_tagged.pdf"
+pdf_path = "output/COE_advanced.pdf"
 
 with pikepdf.open(pdf_path) as pdf:
     print("\n" + "="*70)

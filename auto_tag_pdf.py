@@ -38,7 +38,7 @@ def tag_pdf(input_pdf: str, output_name: str):
     json_file = generate_json_tags(input_pdf, output_name)
     
     # Step 2: Create tagged PDF with structure tree
-    logger.info("\n[Step 2/2] Creating tagged PDF with structure tree...")
+    logger.info("\n[Step 2/2] Creating tagged PDF with MCID structure tree...")
     tagged_pdf = create_tagged_pdf_from_json(input_pdf, json_file, output_name)
     
     logger.info("\n" + "="*70)
@@ -84,16 +84,16 @@ def generate_json_tags(input_pdf: str, output_name: str) -> str:
 
 
 def create_tagged_pdf_from_json(input_pdf: str, json_file: str, output_name: str) -> str:
-    """Create tagged PDF from JSON tags using pikepdf via subprocess"""
+    """Create tagged PDF from JSON tags using advanced MCID version"""
     
     # Output path
     output_pdf = Path("output") / f"{output_name}_tagged.pdf"
     
-    # Run create_tagged_pdf_v2 as subprocess
-    logger.info(f"Running: python create_tagged_pdf_v2.py \"{input_pdf}\" \"{json_file}\" \"{output_pdf}\"")
+    # Run advanced version with MCID support
+    logger.info(f"Running: python create_tagged_pdf_advanced.py \"{input_pdf}\" \"{json_file}\" \"{output_pdf}\"")
     
     result = subprocess.run(
-        [sys.executable, "create_tagged_pdf_v2.py", input_pdf, json_file, str(output_pdf)],
+        [sys.executable, "create_tagged_pdf_advanced.py", input_pdf, json_file, str(output_pdf)],
         capture_output=True,
         text=True,
         timeout=60  # 1 minute timeout
@@ -103,7 +103,7 @@ def create_tagged_pdf_from_json(input_pdf: str, json_file: str, output_name: str
         logger.error(f"Error creating tagged PDF: {result.stderr}")
         raise RuntimeError(f"Failed to create tagged PDF: {result.stderr}")
     
-    logger.info(f"✓ Created tagged PDF: {output_pdf}")
+    logger.info(f"✓ Created tagged PDF with MCID: {output_pdf}")
     
     return str(output_pdf)
 
