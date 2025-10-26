@@ -22,22 +22,26 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Option 1: Basic Expert Classification (Fast)
+### Single Command (Recommended) ✅
+
 ```bash
-python expert_pdf_tagger.py "input.pdf" "output_name"
+python auto_tag_pdf.py "input.pdf" "output_name"
 ```
 
-### Option 2: Full Structure Tree (Complete Automation)
+This single command:
+1. ✅ Generates expert JSON tags with LLM classification
+2. ✅ Creates tagged PDF with full structure tree
+3. ✅ All structure elements visible in Acrobat Pro
+
+### Two-Step Process (Advanced)
 
 ```bash
-# Step 1: Generate expert JSON tags
+# Step 1: Generate JSON tags
 python expert_pdf_tagger.py "input.pdf" "output_name"
 
-# Step 2: Convert to tagged PDF with full structure tree visible in Acrobat Pro
+# Step 2: Create tagged PDF with structure tree
 python create_tagged_pdf_v2.py "input.pdf" "accessibility_cache/output_name_tags.json" "output/final.pdf"
 ```
-
-**Result:** PDFs with full structure tree visible in Acrobat Pro Tags pane!
 
 ## Output
 
