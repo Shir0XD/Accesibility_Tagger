@@ -89,11 +89,11 @@ def create_tagged_pdf_from_json(input_pdf: str, json_file: str, output_name: str
     # Output path
     output_pdf = Path("output") / f"{output_name}_tagged.pdf"
     
-    # Run hierarchical version for better structure
-    logger.info(f"Running: python create_tagged_pdf_hierarchical.py \"{input_pdf}\" \"{json_file}\" \"{output_pdf}\"")
+    # Run complete version with MCID content injection
+    logger.info(f"Running: python create_tagged_pdf_complete.py \"{input_pdf}\" \"{json_file}\" \"{output_pdf}\"")
     
     result = subprocess.run(
-        [sys.executable, "create_tagged_pdf_hierarchical.py", input_pdf, json_file, str(output_pdf)],
+        [sys.executable, "create_tagged_pdf_complete.py", input_pdf, json_file, str(output_pdf)],
         capture_output=True,
         text=True,
         timeout=60  # 1 minute timeout

@@ -1,137 +1,87 @@
-# Expert PDF Accessibility Tagger
+# PDF Accessibility Tagger
 
-Professional PDF accessibility tagging with complete PDF/UA structure taxonomy, intelligent classification, and smart caching.
+Automated PDF accessibility tagging with LLM-powered structure detection and intelligent caching.
+
+## Quick Start
+
+```bash
+# Tag any PDF
+python auto_tag_pdf.py "path/to/input.pdf" "output_name"
+```
+
+**Output:** `output/output_name_tagged.pdf`
 
 ## Features
 
-- ✅ **Complete PDF/UA Taxonomy** - All 41 structure tag types (Document, H1-H6, Lists, Tables, Figures, etc.)
-- ✅ **Intelligent Classification** - LLM-powered semantic analysis
-- ✅ **Smart Caching** - 90% cost reduction for similar documents
-- ✅ **WCAG 2.1 AA Compliant** - Full accessibility compliance
+✅ **LLM-Powered Classification** - Uses Google Gemini to identify content types  
+✅ **Complete Taxonomy** - 41 tag types across 9 categories  
+✅ **Intelligent Cache** - Minimizes LLM calls for similar PDFs  
+✅ **Structure Tree** - Creates proper PDF/UA structure hierarchy  
+✅ **MCID Support** - Links structure elements to content  
 
 ## Installation
 
 ```bash
-# Install dependencies
 pip install -r requirements.txt
+```
 
-# Set up your Gemini API key
-# Create a .env file:
-# GEMINI_API_KEY=your-key-here
+Create `.env` file:
+```
+GEMINI_API_KEY=your_key_here
 ```
 
 ## Usage
 
-### Single Command (Recommended) ✅
+### Basic Tagging
 
 ```bash
-python auto_tag_pdf.py "input.pdf" "output_name"
+python auto_tag_pdf.py "input.pdf" "my_document"
 ```
 
-This single command:
-1. ✅ Generates expert JSON tags with LLM classification
-2. ✅ Creates tagged PDF with full structure tree
-3. ✅ All structure elements visible in Acrobat Pro
+Creates:
+- `output/my_document_tagged.pdf` - Tagged PDF
+- `accessibility_cache/my_document_tags.json` - JSON tags
 
-### Two-Step Process (Advanced)
+### Main Scripts
 
-```bash
-# Step 1: Generate JSON tags
-python expert_pdf_tagger.py "input.pdf" "output_name"
+- **`auto_tag_pdf.py`** - Main entry point (USE THIS)
+- **`expert_pdf_tagger.py`** - LLM-powered tag generation
+- **`create_tagged_pdf_complete.py`** - Structure tree creation
+- **`pdf_structure_taxonomy.py`** - Tag type definitions
 
-# Step 2: Create tagged PDF with structure tree
-python create_tagged_pdf_v2.py "input.pdf" "accessibility_cache/output_name_tags.json" "output/final.pdf"
+## Tag Structure
+
+The system creates proper PDF accessibility tags:
+
 ```
+Document (Root)
+  ├── P: "FIBER MONTHLY STATEMENT..."
+  ├── Table: "Previous Dues / Payments..."
+  ├── Table: "This Month's Summary..."
+  └── ...
+```
+
+Each tag shows:
+- **Type**: P, Table, H1, etc.
+- **Title**: First 80 chars of content
+- **MCID**: Links to structure
 
 ## Output
 
-The system generates:
-1. **Tagged PDF** - `output/tagged_coe.pdf` with structure elements
-2. **JSON Tags File** - `accessibility_cache/tagged_coe_tags.json` with complete structure hierarchy
-3. **Full Structure Tree** - Use `create_tagged_pdf_v2.py` to create structure trees visible in Acrobat Pro
+Open in Adobe Acrobat Pro → View → Tags to see structure tree.
 
-All output files are organized in folders:
-- `output/` - Tagged PDFs
-- `accessibility_cache/` - JSON tags and cache data
-
-### Verify Structure Tree
-
-```bash
-# Check if structure tree was created
-python check_pdf.py
-
-# Or open in Adobe Acrobat Pro
-# View → Show/Hide → Tags (Navigation Pane)
-# Should see full structure tree with all elements!
-```
-
-**Use `create_tagged_pdf_v2.py` for full structure trees visible in Acrobat Pro.**
-
-## Structure Tag Taxonomy
-
-### Document Structure
-- Document, Part, Art, Sect, Div
-
-### Headings & Text
-- H1, H2, H3, H4, H5, H6
-- P (Paragraph), Quote, Note, Span
-
-### Lists
-- L (List), LI (ListItem), Lbl (Label), LBody (List Body)
-
-### Tables
-- Table, TR (Row), TH (Header), TD (Data)
-- THead, TBody, TFoot
-
-### Figures & Formulas
-- Figure, Caption, Formula
-
-### More
-- Link, Reference, Form, Annot
-- Artifact, TOC, TOCI, Index, Ruby
-
-## Cost Optimization
-
-The intelligent cache dramatically reduces costs:
-
-**Example: Process 100 similar PDFs**
-- Without cache: $5.00
-- With cache: $1.04
-- **Savings: 79%**
-
-## Project Structure
-
-```
-pdf_accessibility_tags/
-├── expert_pdf_tagger.py         # Main expert tagger (LLM classification)
-├── create_tagged_pdf_v2.py      # Structure tree creator (visible in Acrobat Pro)
-├── pdf_structure_taxonomy.py    # Complete taxonomy (41 tags)
-├── check_pdf.py                 # Verify structure tree
-├── requirements.txt              # Dependencies
-├── README.md                     # This file
-├── USAGE_GUIDE.md               # Complete usage guide
-├── PIKEPDF_INTEGRATION.md       # pikepdf integration details
-├── .env                         # Your API key
-├── output/                      # Tagged PDFs (auto-created)
-├── accessibility_cache/          # JSON tags & cache (auto-created)
-└── Sample PDF/                  # Sample PDFs for testing
-```
-
-## How It Works
-
-1. **Extract** - Parse PDF content
-2. **Classify** - Use LLM to classify into proper structure
-3. **Cache** - Store tags for similar content
-4. **Tag** - Apply PDF/UA structure tags
-5. **Output** - Generate tagged PDF + JSON
+Tags display with:
+- Proper tag names (P, Table, H1, etc.)
+- Content descriptions
+- Hierarchical structure
+- MCID references
 
 ## Requirements
 
 - Python 3.8+
-- Gemini API key
-- PyMuPDF, pdfplumber, google-generativeai
+- Google Gemini API key
+- PyMuPDF, pikepdf, pdfplumber, google-generativeai
 
-## License
+## Support
 
-MIT
-
+For issues or questions, see USAGE_GUIDE.md
