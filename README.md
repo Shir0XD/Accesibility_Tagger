@@ -83,5 +83,5 @@ Tags display with:
 - PyMuPDF, pikepdf, pdfplumber, google-generativeai
 
 ## Support
-
+python create_tagged_pdf_complete.py "Sample PDF/79610-b8d517.pdf" "accessibility_cache/final_hierarchical_tags.json" "output/complete_tagged.pdf"
 For issues or questions, see USAGE_GUIDE.md
