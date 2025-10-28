@@ -61,6 +61,7 @@ class TagType(Enum):
     ANNOT = "Annot"
     
     # Special
+    TITLE = "Title"  # Document or section title
     ARTIFACT = "Artifact"
     TOC = "TOC"  # Table of Contents
     TOCI = "TOCI"  # TOC Item
@@ -162,6 +163,7 @@ class TaxonomyClassifier:
     # Mapping from generic types to specific taxonomy
     TYPE_MAPPING = {
         'paragraph': TagType.P,
+        'title': TagType.TITLE,
         'heading': TagType.H1,
         'heading1': TagType.H1,
         'heading2': TagType.H2,
@@ -175,6 +177,8 @@ class TaxonomyClassifier:
         'table_row': TagType.TR,
         'table_cell': TagType.TD,
         'table_header': TagType.TH,
+        'table_header_row': TagType.TR,
+        'table_data_row': TagType.TR,
         'figure': TagType.FIGURE,
         'caption': TagType.CAPTION,
         'formula': TagType.FORMULA,

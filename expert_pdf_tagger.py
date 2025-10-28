@@ -144,23 +144,55 @@ class ExpertTagGenerator:
             return self._default_attributes(element, tag_type)
     
     def _create_classification_prompt(self, element: ExtractedElement, tag_type: TagType) -> str:
-        """Create prompt for LLM classification"""
+        """Create prompt for LLM classification with full PDF/UA taxonomy"""
         
-        prompt = f"""You are a PDF accessibility expert (WCAG 2.1 AA compliant).
+        # Get all available tag types from taxonomy
+        all_tag_types = [tag.value for tag in TagType]
+        tag_types_description = "\n".join([f"- {tag}" for tag in sorted(all_tag_types)])
         
-Analyze this PDF content and generate proper PDF/UA accessibility attributes.
+        prompt = f"""You are a PDF accessibility expert specializing in WCAG 2.1 AA and PDF/UA compliance.
 
-TAG TYPE: {tag_type.value}
+Analyze the PDF content and classify it using the comprehensive PDF/UA structure taxonomy.
+
+AVAILABLE PDF/UA TAG TYPES:
+{tag_types_description}
+
+CURRENT TAG TYPE: {tag_type.value}
 CONTENT: {element.content[:500]}
 
-Provide a JSON object with:
-- "alt": "Alternative text description" (for figures, tables)
-- "actualText": "Text for screen readers" (the full content)
-- "lang": "Language code" (default: "en")
-- "title": "Descriptive title"
-- "summary": "Detailed summary of purpose and meaning"
+DETECTED TYPE: {element.detected_type}
 
-Return ONLY valid JSON, nothing else:
+CLASSIFICATION INSTRUCTIONS:
+1. For TAG TYPE "Title": Use when content is a document title, section title, or standalone title element
+2. For TAG TYPES "H1-H6": Use for headings with appropriate hierarchy level
+3. For TAG TYPE "H": Generic heading without specific level
+4. For TAG TYPE "P": Use for paragraphs and body text
+5. For TAG TYPE "Figure": Use for images, charts, diagrams with captions
+6. For TAG TYPE "Caption": Use for descriptive text below figures/tables
+7. For TAG TYPE "Formula": Use for mathematical equations
+8. For TAG TYPE "Table": Use for tabular data structures
+9. For TAG TYPE "L" and "LI": Use for lists and list items
+10. For TAG TYPE "Quote": Use for quoted text
+11. For TAG TYPE "Note": Use for notes, callouts, annotations
+12. For TAG TYPE "Link": Use for hyperlinks
+13. For TAG TYPE "TOC": Use for table of contents
+14. For TAG TYPE "TOCI": Use for table of contents items
+
+Generate a JSON object with these accessibility attributes:
+- "actualText": "Full text as it appears for screen readers" (REQUIRED)
+- "lang": "Language code (default: en)" (REQUIRED)
+- "title": "Short descriptive title of the element"
+- "summary": "Detailed summary explaining the purpose and meaning of this content"
+- "alt": "Alternative text description (for figures, tables, formulas)"
+
+IMPORTANT:
+- Title elements: Use descriptive, concise titles that identify the purpose
+- Headings: Preserve the heading level from DETECTED_TYPE if specified (h1, h2, etc.)
+- Tables: Provide detailed alt text describing the table structure
+- Figures: Provide descriptive alt text of visual content
+- Ensure all text is accessible and meaningful for screen readers
+
+Return ONLY valid JSON, no explanations, no markdown code blocks, just the JSON object:
 """
         return prompt
     
