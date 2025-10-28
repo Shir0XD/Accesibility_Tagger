@@ -1,7 +1,15 @@
+# PDF Libraries
 PyMuPDF>=1.23.0
 pdfplumber>=0.10.0
-google-generativeai>=0.3.0
-python-dotenv>=1.0.0
-pydantic>=2.5.0
+aspose-pdf>=23.0.0
 pikepdf>=5.0.0
+
+# LLM for intelligent tagging
+google-generativeai>=0.3.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Data validation
+pydantic>=2.5.0
 

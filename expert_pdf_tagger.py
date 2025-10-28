@@ -299,19 +299,88 @@ class ExpertPDFTagger:
                 for page_num, page in enumerate(pdf.pages, start=1):
                     logger.info(f"Processing page {page_num}")
                     
-                    # Extract paragraphs
+                    # Extract text line by line  
                     text = page.extract_text()
                     if text:
-                        paragraphs = [p.strip() for p in text.split('\n\n') if len(p.strip()) > 20]
-                        for para in paragraphs:
-                            # Detect if it's a heading
-                            is_heading = self._is_heading(para)
-                            elements.append(ExtractedElement(
-                                content=para,
-                                detected_type="heading" if is_heading else "paragraph",
-                                page=page_num,
-                                metadata={"original_text": para}
-                            ))
+                        lines = text.split('\n')
+                        logger.info(f"Extracted {len(lines)} lines from page {page_num}")
+                        current_para = ""
+                        
+                        for line_idx, line in enumerate(lines):
+                            line = line.strip()
+                            if not line:
+                                # Empty line - process accumulated paragraph
+                                if current_para and len(current_para) > 5:
+                                    is_heading = self._is_heading(current_para)
+                                    is_list_item = self._is_list_item(current_para)
+                                    
+                                    if is_list_item:
+                                        # Extract individual list items
+                                        list_items = self._extract_list_items(current_para)
+                                        for item in list_items:
+                                            elements.append(ExtractedElement(
+                                                content=item,
+                                                detected_type="list_item",
+                                                page=page_num,
+                                                metadata={"original_text": item}
+                                            ))
+                                    else:
+                                        elements.append(ExtractedElement(
+                                            content=current_para,
+                                            detected_type="heading" if is_heading else "paragraph",
+                                            page=page_num,
+                                            metadata={"original_text": current_para}
+                                        ))
+                                    current_para = ""
+                                continue
+                            
+                            # Check if this line is a list item on its own
+                            if self._is_list_item(line):
+                                # Save current para if exists
+                                if current_para:
+                                    elements.append(ExtractedElement(
+                                        content=current_para,
+                                        detected_type="heading" if self._is_heading(current_para) else "paragraph",
+                                        page=page_num,
+                                        metadata={"original_text": current_para}
+                                    ))
+                                    current_para = ""
+                                
+                                # Process the list item
+                                elements.append(ExtractedElement(
+                                    content=line,
+                                    detected_type="list_item",
+                                    page=page_num,
+                                    metadata={"original_text": line}
+                                ))
+                            else:
+                                # Accumulate into paragraph
+                                if current_para:
+                                    current_para += " " + line
+                                else:
+                                    current_para = line
+                        
+                        # Process any remaining paragraph
+                        if current_para and len(current_para) > 5:
+                            is_heading = self._is_heading(current_para)
+                            is_list_item = self._is_list_item(current_para)
+                            
+                            if is_list_item:
+                                list_items = self._extract_list_items(current_para)
+                                for item in list_items:
+                                    elements.append(ExtractedElement(
+                                        content=item,
+                                        detected_type="list_item",
+                                        page=page_num,
+                                        metadata={"original_text": item}
+                                    ))
+                            else:
+                                elements.append(ExtractedElement(
+                                    content=current_para,
+                                    detected_type="division" if is_heading else "paragraph",
+                                    page=page_num,
+                                    metadata={"original_text": current_para}
+                                ))
                     
                     # Extract tables
                     tables = page.extract_tables()
@@ -348,6 +417,62 @@ class ExpertPDFTagger:
             return True
         
         return False
+    
+    def _is_list_item(self, text: str) -> bool:
+        """Check if text is a list item"""
+        text_stripped = text.strip()
+        
+        # Check for bullet points
+        bullet_chars = ['•', '▪', '▫', '‣', '⁃', '◦', '○', '●', '\u2022']
+        if text_stripped and text_stripped[0] in bullet_chars:
+            return True
+        
+        # Check for numbered lists
+        import re
+        if re.match(r'^\d+[\.\)]\s+', text_stripped):
+            return True
+        
+        # Check for lettered lists
+        if re.match(r'^[a-z][\.\)]\s+', text_stripped):
+            return True
+        
+        # Check for Roman numerals
+        if re.match(r'^[ivxlcdm]+[\.\)]\s+', text_stripped, re.IGNORECASE):
+            return True
+        
+        return False
+    
+    def _extract_list_items(self, text: str) -> list:
+        """Extract individual list items from text"""
+        import re
+        
+        # Split by bullets
+        items = []
+        bullet_chars = ['•', '▪', '▫', '‣', '⁃', '◦', '○', '●', '\u2022']
+        
+        for bullet in bullet_chars:
+            parts = text.split(bullet)
+            if len(parts) > 1:
+                for part in parts:
+                    part = part.strip()
+                    if part:
+                        # Remove leading numbering if present
+                        part = re.sub(r'^\d+[\.\)]\s+', '', part)
+                        part = re.sub(r'^[a-z][\.\)]\s+', '', part)
+                        part = re.sub(r'^[ivxlcdm]+[\.\)]\s+', '', part, flags=re.IGNORECASE)
+                        items.append(part)
+                break
+        
+        # If no bullets found, try numbered lists
+        if not items:
+            numbered = re.split(r'\n\s*\d+[\.\)]\s+', text)
+            items = [item.strip() for item in numbered if item.strip()]
+        
+        # If still no items, return as single item
+        if not items:
+            items = [text.strip()]
+        
+        return items
     
     def _table_to_string(self, table: List[List]) -> str:
         """Convert table to string"""
